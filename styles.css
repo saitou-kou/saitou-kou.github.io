@@ -53,23 +53,39 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
 .event-link:hover{color:var(--link-hover)}
 .note{font-size:13px;color:#444;margin-top:10px}
 
-/* スマホ対応: 画面幅が狭い時のレスポンシブ調整 */
+/* スマホ・タブレット対応: 画面幅に応じて動的に調整 */
 @media (max-width: 768px) {
   body{padding:12px}
   h1{font-size:20px;margin-bottom:12px}
   /* コントロールエリアを縦並びに */
   #controls{flex-direction:column;align-items:stretch;gap:12px}
   #controls > div{margin-left:0 !important;justify-content:center}
-  /* テーブル列幅を調整 */
-  th.organization, td.organization{width:100px;min-width:100px;font-size:11px;left:0}
-  th.location, td.location{width:100px;min-width:100px;font-size:11px;left:100px}
-  th.name, td.name{width:150px;min-width:150px;max-width:150px;font-size:12px;left:200px;padding-left:8px}
+  /* テーブル列幅を画面幅の割合で調整（団体名+場所+イベント名で画面の50%） */
+  th.organization, td.organization{width:15vw;min-width:15vw;font-size:11px;left:0}
+  th.location, td.location{width:15vw;min-width:15vw;font-size:11px;left:15vw}
+  th.name, td.name{width:20vw;min-width:20vw;max-width:20vw;font-size:12px;left:30vw;padding-left:8px}
   /* 日付列を少し狭く */
-  th.date{width:70px;font-size:12px}
+  th.date{width:60px;font-size:11px}
   /* 時間セルも狭く */
-  .hour-cell{min-width:28px;width:28px;font-size:11px}
+  .hour-cell{min-width:24px;width:24px;font-size:10px}
   /* ドロップダウンの幅を調整 */
   #filter-org-dropdown, #filter-loc-dropdown{min-width:150px;font-size:12px}
   /* ポップアップのフォントサイズ */
   .duration-popup{font-size:11px}
+}
+
+/* さらに狭い画面（スマホ縦向き）の場合 */
+@media (max-width: 480px) {
+  body{padding:8px}
+  h1{font-size:18px}
+  /* 固定列をさらに圧縮（合計で画面の約45%） */
+  th.organization, td.organization{width:12vw;min-width:12vw;font-size:10px;left:0;padding:4px}
+  th.location, td.location{width:13vw;min-width:13vw;font-size:10px;left:12vw;padding:4px}
+  th.name, td.name{width:20vw;min-width:20vw;max-width:20vw;font-size:11px;left:25vw;padding:4px 6px}
+  /* 日付列 */
+  th.date{width:50px;font-size:10px;padding:4px}
+  /* 時間セル */
+  .hour-cell{min-width:20px;width:20px;font-size:9px;padding:2px}
+  /* ドット */
+  .dot{width:16px;height:16px;line-height:16px;font-size:11px}
 }
