@@ -96,10 +96,10 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
   body{padding:6px}
   h1{font-size:16px;margin-bottom:8px}
   
-  /* 固定列：団体名8vw + 場所10vw + イベント名17vw = 35vw（画面の35%） */
+  /* 固定列：団体名12vw + 場所14vw + イベント名24vw = 50vw（画面の50%） */
   th.organization, td.organization{
-    width:8vw;min-width:8vw;
-    font-size:8px;
+    width:12vw;min-width:12vw;
+    font-size:9px;
     padding:2px 1px;
     left:0;
     word-wrap:break-word;
@@ -109,10 +109,10 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
     vertical-align:top;
   }
   th.location, td.location{
-    width:10vw;min-width:10vw;
-    font-size:8px;
+    width:14vw;min-width:14vw;
+    font-size:9px;
     padding:2px 1px;
-    left:8vw;
+    left:12vw;
     word-wrap:break-word;
     word-break:break-all;
     white-space:normal;
@@ -120,10 +120,10 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
     vertical-align:top;
   }
   th.name, td.name{
-    width:17vw;min-width:17vw;max-width:17vw;
-    font-size:9px;
+    width:24vw;min-width:24vw;max-width:24vw;
+    font-size:10px;
     padding:2px;
-    left:18vw;
+    left:26vw;
     word-wrap:break-word;
     word-break:break-all;
     white-space:normal;
