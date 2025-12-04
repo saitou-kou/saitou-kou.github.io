@@ -61,24 +61,24 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
   #controls{flex-direction:column;align-items:stretch;gap:12px}
   #controls > div{margin-left:0 !important;justify-content:center}
   
-  /* スマホでは固定列を解除して通常のスクロールに */
+  /* 固定列を維持しつつ、画面幅の50%に収める（団体名15% + 場所15% + イベント名20%） */
   th.organization, td.organization{
-    position:static;
-    width:80px;min-width:80px;
+    width:15vw;min-width:15vw;
     font-size:11px;
-    padding:4px;
+    padding:4px 2px;
+    left:0;
   }
   th.location, td.location{
-    position:static;
-    width:100px;min-width:100px;
+    width:15vw;min-width:15vw;
     font-size:11px;
-    padding:4px;
+    padding:4px 2px;
+    left:15vw;
   }
   th.name, td.name{
-    position:static;
-    width:140px;min-width:140px;max-width:140px;
-    font-size:12px;
-    padding:4px 6px;
+    width:20vw;min-width:20vw;max-width:20vw;
+    font-size:11px;
+    padding:4px;
+    left:30vw;
   }
   
   /* 日付列を少し狭く */
@@ -96,24 +96,24 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
   body{padding:8px}
   h1{font-size:18px}
   
-  /* 固定解除＋コンパクト化 */
+  /* 固定列を維持、より詰める（団体名12% + 場所13% + イベント名20% = 45%） */
   th.organization, td.organization{
-    position:static;
-    width:70px;min-width:70px;
+    width:12vw;min-width:12vw;
     font-size:10px;
-    padding:3px;
+    padding:3px 2px;
+    left:0;
   }
   th.location, td.location{
-    position:static;
-    width:80px;min-width:80px;
+    width:13vw;min-width:13vw;
     font-size:10px;
-    padding:3px;
+    padding:3px 2px;
+    left:12vw;
   }
   th.name, td.name{
-    position:static;
-    width:120px;min-width:120px;max-width:120px;
-    font-size:11px;
-    padding:3px 4px;
+    width:20vw;min-width:20vw;max-width:20vw;
+    font-size:10px;
+    padding:3px;
+    left:25vw;
   }
   
   /* 日付列 */
