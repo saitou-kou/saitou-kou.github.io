@@ -60,14 +60,31 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
   /* コントロールエリアを縦並びに */
   #controls{flex-direction:column;align-items:stretch;gap:12px}
   #controls > div{margin-left:0 !important;justify-content:center}
-  /* テーブル列幅を画面幅の割合で調整（団体名+場所+イベント名で画面の50%） */
-  th.organization, td.organization{width:15vw;min-width:15vw;font-size:11px;left:0}
-  th.location, td.location{width:15vw;min-width:15vw;font-size:11px;left:15vw}
-  th.name, td.name{width:20vw;min-width:20vw;max-width:20vw;font-size:12px;left:30vw;padding-left:8px}
+  
+  /* スマホでは固定列を解除して通常のスクロールに */
+  th.organization, td.organization{
+    position:static;
+    width:80px;min-width:80px;
+    font-size:11px;
+    padding:4px;
+  }
+  th.location, td.location{
+    position:static;
+    width:100px;min-width:100px;
+    font-size:11px;
+    padding:4px;
+  }
+  th.name, td.name{
+    position:static;
+    width:140px;min-width:140px;max-width:140px;
+    font-size:12px;
+    padding:4px 6px;
+  }
+  
   /* 日付列を少し狭く */
-  th.date{width:60px;font-size:11px}
+  th.date{width:60px;font-size:11px;padding:4px}
   /* 時間セルも狭く */
-  .hour-cell{min-width:24px;width:24px;font-size:10px}
+  .hour-cell{min-width:24px;width:24px;font-size:10px;padding:2px}
   /* ドロップダウンの幅を調整 */
   #filter-org-dropdown, #filter-loc-dropdown{min-width:150px;font-size:12px}
   /* ポップアップのフォントサイズ */
@@ -78,12 +95,29 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
 @media (max-width: 480px) {
   body{padding:8px}
   h1{font-size:18px}
-  /* 固定列をさらに圧縮（合計で画面の約45%） */
-  th.organization, td.organization{width:12vw;min-width:12vw;font-size:10px;left:0;padding:4px}
-  th.location, td.location{width:13vw;min-width:13vw;font-size:10px;left:12vw;padding:4px}
-  th.name, td.name{width:20vw;min-width:20vw;max-width:20vw;font-size:11px;left:25vw;padding:4px 6px}
+  
+  /* 固定解除＋コンパクト化 */
+  th.organization, td.organization{
+    position:static;
+    width:70px;min-width:70px;
+    font-size:10px;
+    padding:3px;
+  }
+  th.location, td.location{
+    position:static;
+    width:80px;min-width:80px;
+    font-size:10px;
+    padding:3px;
+  }
+  th.name, td.name{
+    position:static;
+    width:120px;min-width:120px;max-width:120px;
+    font-size:11px;
+    padding:3px 4px;
+  }
+  
   /* 日付列 */
-  th.date{width:50px;font-size:10px;padding:4px}
+  th.date{width:50px;font-size:10px;padding:3px}
   /* 時間セル */
   .hour-cell{min-width:20px;width:20px;font-size:9px;padding:2px}
   /* ドット */
