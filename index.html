@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>イベント開催一覧</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <h1>イベント開催一覧</h1>
+    <div id="controls" style="margin-bottom:8px;display:flex;gap:8px;align-items:center">
+      <button id="prev-month">前月</button>
+      <div id="month-label" style="font-weight:600"></div>
+      <button id="next-month">翌月</button>
+      <div style="margin-left:16px;display:flex;gap:8px;align-items:center">
+        <div style="position:relative">
+          <button id="filter-org-btn" style="font-size:13px;padding:4px 8px;cursor:pointer">団体名 ▼</button>
+          <div id="filter-org-dropdown" style="display:none;position:absolute;top:100%;left:0;background:#fff;border:1px solid #ccc;box-shadow:0 2px 8px rgba(0,0,0,0.1);z-index:100;max-height:300px;overflow-y:auto;min-width:200px"></div>
+        </div>
+        <div style="position:relative">
+          <button id="filter-loc-btn" style="font-size:13px;padding:4px 8px;cursor:pointer">場所 ▼</button>
+          <div id="filter-loc-dropdown" style="display:none;position:absolute;top:100%;left:0;background:#fff;border:1px solid #ccc;box-shadow:0 2px 8px rgba(0,0,0,0.1);z-index:100;max-height:300px;overflow-y:auto;min-width:200px"></div>
+        </div>
+        <button id="filter-reset" style="font-size:13px;padding:4px 8px;cursor:pointer">リセット</button>
+      </div>
+      <div style="margin-left:auto;display:flex;gap:16px;font-size:13px;align-items:center">
+        <span><span style="color:#0b66d0;font-weight:600">青</span>：空きあり</span>
+        <span><span style="color:#b58900;font-weight:600">黄</span>：残りわずか</span>
+        <span><span style="color:#d00;font-weight:600">赤</span>：売り切れ</span>
+      </div>
+      <button id="reload-events">再読み込み</button>
+    </div>
+    <div style="font-size:13px;color:#666;margin-bottom:12px">
+      〇をクリックすると0〜23時の時間列が展開します。開催時間をタップ/オンマウスすると所要時間が表示されます。
+    </div>
+    <div id="table-container" class="table-wrapper"></div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

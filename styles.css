@@ -1,0 +1,54 @@
+:root{
+  --gap:8px;
+  --dot-color:#2b7df0;
+  --link-color:#0b66d0;
+  --link-hover:#084e8a;
+}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial;line-height:1.4;padding:24px;background:#fafafa;color:#111}
+h1{margin:0 0 16px}
+/* テーブルは内容に合わせて横幅を持たせる（列が増えてもイベント名列が縮まらないようにする） */
+.table-wrapper, #table-container { overflow:auto; max-height: 70vh }
+table{border-collapse:collapse;background:#fff;border:1px solid #ddd;width:auto;}
+th,td{box-sizing:border-box;border:1px solid #eee;padding:6px 8px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+th.date{width:96px}
+/* ヘッダ行（日付セル）を縦スクロールでも固定 */
+thead th{position:sticky;top:0;background:#fff;z-index:10}
+/* 団体名列のスタイル（最初の列） */
+th.organization, td.organization{width:140px;min-width:140px;text-align:left;font-size:13px;position:sticky;left:0;background:#fff;z-index:2}
+/* 場所列のスタイル（2番目の列） */
+th.location, td.location{width:200px;min-width:200px;text-align:left;font-size:13px;position:sticky;left:140px;background:#fff;z-index:2}
+/* イベント名列を固定幅にし、縮まないようにする（3番目の列） */
+th.name, td.name{font-weight:600;text-align:left;padding-left:12px;width:220px;min-width:220px;max-width:220px;position:sticky;left:340px;background:#fff;z-index:2;white-space:normal;word-break:break-word}
+/* 左上の交差セル（ヘッダの団体名セル）は最前面に */
+thead th.organization, thead th.location, thead th.name{z-index:12}
+.dot{display:inline-block;width:20px;height:20px;line-height:20px;border-radius:50%;background:var(--dot-color);color:#fff;cursor:pointer}
+.dot.empty{background:transparent;color:transparent;border:1px dashed #ddd;width:18px;height:18px}
+.hour-table{width:100%;border-collapse:collapse}
+.hour-table th,.hour-table td{padding:4px 6px;border:1px solid #eee;font-size:12px}
+.hour-cell{min-width:36px;width:36px}
+.event-duration{background:#e8f4fd;border-left:3px solid #2b7df0}
+.hdr{display:flex;flex-direction:column;align-items:center}
+.hd-date{font-weight:600}
+.hd-weekday{font-size:12px;color:#666;margin-top:2px}
+/* Weekend highlight */
+.hd-weekday.weekday-sun{color:#d00;font-weight:700}
+.hd-weekday.weekday-sat{color:#06f;font-weight:700}
+/* Holiday highlight */
+.hd-weekday.holiday{background:#ffdfe0;color:#900;padding:2px 6px;border-radius:6px}
+th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
+/* Duration popup */
+.duration-popup{position:fixed;background:#333;color:#fff;padding:4px 8px;border-radius:4px;font-size:12px;font-weight:600;z-index:1000;pointer-events:none;white-space:nowrap;box-shadow:0 2px 8px rgba(0,0,0,0.2)}
+.event-cell{cursor:pointer}
+
+/* 時刻ごとのステータス色 */
+.time-status{font-weight:600;font-size:13px}
+.status-available{color:var(--link-color)}
+.status-limited{color:#b58900}
+.status-soldout{color:#d00}
+/* Unknown/unspecified status */
+.status-unknown{color:#666}
+
+.expanded-row td{padding:0;background:#f9f9f9}
+.event-link{color:var(--link-color);text-decoration:underline}
+.event-link:hover{color:var(--link-hover)}
+.note{font-size:13px;color:#444;margin-top:10px}
