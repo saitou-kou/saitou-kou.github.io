@@ -96,30 +96,39 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
   body{padding:6px}
   h1{font-size:16px;margin-bottom:8px}
   
-  /* 固定列：合計50vw以内（団体名10vw + 場所12vw + イベント名18vw = 40vw） */
+  /* 固定列：団体名8vw + 場所10vw + イベント名17vw = 35vw（画面の35%） */
   th.organization, td.organization{
-    width:10vw;min-width:10vw;
-    font-size:9px;
+    width:8vw;min-width:8vw;
+    font-size:8px;
     padding:2px 1px;
     left:0;
+    word-wrap:break-word;
     word-break:break-all;
-    line-height:1.2;
+    white-space:normal;
+    line-height:1.1;
+    vertical-align:top;
   }
   th.location, td.location{
-    width:12vw;min-width:12vw;
-    font-size:9px;
+    width:10vw;min-width:10vw;
+    font-size:8px;
     padding:2px 1px;
-    left:10vw;
+    left:8vw;
+    word-wrap:break-word;
     word-break:break-all;
-    line-height:1.2;
+    white-space:normal;
+    line-height:1.1;
+    vertical-align:top;
   }
   th.name, td.name{
-    width:18vw;min-width:18vw;max-width:18vw;
+    width:17vw;min-width:17vw;max-width:17vw;
     font-size:9px;
     padding:2px;
-    left:22vw;
+    left:18vw;
+    word-wrap:break-word;
     word-break:break-all;
-    line-height:1.3;
+    white-space:normal;
+    line-height:1.2;
+    vertical-align:top;
   }
   
   /* 日付列 */
