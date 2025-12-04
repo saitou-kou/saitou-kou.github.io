@@ -4,13 +4,13 @@
     const res = await fetch('events.txt');
     if(!res.ok) throw new Error('events.txt を取得できません: '+res.status);
     const text = await res.text();
-    // 更新時刻を取得して表示
-    const lastModified = res.headers.get('Last-Modified');
-    if(lastModified){
-      const date = new Date(lastModified);
-      const formatted = date.toLocaleString('ja-JP', {year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Tokyo'});
+    // ファイルの先頭行からタイムスタンプを取得
+    const lines = text.split(/\r?\n/);
+    const firstLine = lines[0] || '';
+    if(firstLine.startsWith('# Last updated:')){
+      const timestamp = firstLine.replace('# Last updated:', '').trim();
       const updateEl = document.getElementById('last-update');
-      if(updateEl) updateEl.textContent = `最終更新: ${formatted}`;
+      if(updateEl) updateEl.textContent = `最終更新: ${timestamp}`;
     }
     return parseEvents(text);
   }
