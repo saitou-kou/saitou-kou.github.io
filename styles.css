@@ -93,33 +93,49 @@ th.date.holiday .hdr{background:rgba(255,223,224,0.6)}
 
 /* さらに狭い画面（スマホ縦向き）の場合 */
 @media (max-width: 480px) {
-  body{padding:8px}
-  h1{font-size:18px}
+  body{padding:6px}
+  h1{font-size:16px;margin-bottom:8px}
   
-  /* 固定列を維持、より詰める（団体名12% + 場所13% + イベント名20% = 45%） */
+  /* 固定列：合計50vw以内（団体名10vw + 場所12vw + イベント名18vw = 40vw） */
   th.organization, td.organization{
-    width:12vw;min-width:12vw;
-    font-size:10px;
-    padding:3px 2px;
+    width:10vw;min-width:10vw;
+    font-size:9px;
+    padding:2px 1px;
     left:0;
+    word-break:break-all;
+    line-height:1.2;
   }
   th.location, td.location{
-    width:13vw;min-width:13vw;
-    font-size:10px;
-    padding:3px 2px;
-    left:12vw;
+    width:12vw;min-width:12vw;
+    font-size:9px;
+    padding:2px 1px;
+    left:10vw;
+    word-break:break-all;
+    line-height:1.2;
   }
   th.name, td.name{
-    width:20vw;min-width:20vw;max-width:20vw;
-    font-size:10px;
-    padding:3px;
-    left:25vw;
+    width:18vw;min-width:18vw;max-width:18vw;
+    font-size:9px;
+    padding:2px;
+    left:22vw;
+    word-break:break-all;
+    line-height:1.3;
   }
   
   /* 日付列 */
-  th.date{width:50px;font-size:10px;padding:3px}
+  th.date{width:45px;font-size:9px;padding:2px 1px}
+  th.date .hdr{gap:1px}
+  .hd-date{font-size:10px}
+  .hd-weekday{font-size:9px}
+  
   /* 時間セル */
-  .hour-cell{min-width:20px;width:20px;font-size:9px;padding:2px}
+  .hour-cell{min-width:18px;width:18px;font-size:8px;padding:1px}
+  
   /* ドット */
-  .dot{width:16px;height:16px;line-height:16px;font-size:11px}
+  .dot{width:14px;height:14px;line-height:14px;font-size:10px}
+  .dot.empty{width:12px;height:12px}
+  
+  /* コントロール */
+  #controls button{font-size:11px;padding:3px 6px}
+  #month-label{font-size:13px}
 }
