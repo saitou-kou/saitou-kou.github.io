@@ -2,7 +2,7 @@
   {
     "date": "2026-03-31",
     "rawDate": "20260331",
-    "title": "速報値（22:08更新）",
+    "title": "速報値（23:45更新）",
     "movies": [
       {
         "rank": 1,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 41981,
-        "seats": 186633,
+        "sales": 41998,
+        "seats": 186884,
         "count": null,
         "theaters": null,
         "wowRatio": 160.7,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 15685,
-        "seats": 236825,
+        "sales": 15686,
+        "seats": 237116,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 13156,
-        "seats": 294821,
+        "sales": 13159,
+        "seats": 294965,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -55,16 +55,16 @@
         "seats": 59177,
         "count": null,
         "theaters": null,
-        "wowRatio": 97.5,
+        "wowRatio": 97.4,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 7,
-        "sales": 10522,
-        "seats": 113302,
+        "sales": 10533,
+        "seats": 113795,
         "count": null,
         "theaters": null,
-        "wowRatio": 83.6,
+        "wowRatio": 83.7,
         "movie": "君が最後に遺した歌"
       },
       {
@@ -79,7 +79,7 @@
       {
         "rank": 9,
         "sales": 9714,
-        "seats": 119826,
+        "seats": 120028,
         "count": null,
         "theaters": null,
         "wowRatio": 73.4,
