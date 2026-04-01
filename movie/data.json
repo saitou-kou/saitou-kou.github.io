@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-01",
+    "rawDate": "20260401",
+    "title": "速報値（09:03更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 5170,
+        "seats": 39219,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 95.7,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 2,
+        "sales": 2608,
+        "seats": 24026,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 90.2,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 3,
+        "sales": 1169,
+        "seats": 22790,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 993,
+        "seats": 29443,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 5,
+        "sales": 968,
+        "seats": 18796,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 38.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 6,
+        "sales": 944,
+        "seats": 7883,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 110.7,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 7,
+        "sales": 710,
+        "seats": 6210,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58.5,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 8,
+        "sales": 710,
+        "seats": 15116,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 85,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 9,
+        "sales": 705,
+        "seats": 15051,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.4,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 10,
+        "sales": 613,
+        "seats": 14026,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 95.8,
+        "movie": "君が最後に遺した歌"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-03-31",
     "rawDate": "20260331",
     "title": "速報値（23:45更新）",
