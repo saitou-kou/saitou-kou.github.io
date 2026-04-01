@@ -2,30 +2,30 @@
   {
     "date": "2026-04-01",
     "rawDate": "20260401",
-    "title": "速報値（14:16更新）",
+    "title": "速報値（16:12更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 60146,
-        "seats": 207186,
+        "sales": 70032,
+        "seats": 262561,
         "count": null,
         "theaters": null,
-        "wowRatio": 145.4,
+        "wowRatio": 142.7,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 2,
-        "sales": 39338,
-        "seats": 120994,
+        "sales": 47252,
+        "seats": 155389,
         "count": null,
         "theaters": null,
-        "wowRatio": 137.8,
+        "wowRatio": 135.4,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 3,
-        "sales": 12142,
-        "seats": 106710,
+        "sales": 15061,
+        "seats": 140311,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 10963,
-        "seats": 141680,
+        "sales": 13559,
+        "seats": 180454,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,57 +42,57 @@
       },
       {
         "rank": 5,
-        "sales": 8261,
-        "seats": 27421,
+        "sales": 10769,
+        "seats": 34813,
         "count": null,
         "theaters": null,
-        "wowRatio": 95.2,
+        "wowRatio": 94.7,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 6,
-        "sales": 7207,
-        "seats": 65237,
+        "sales": 10311,
+        "seats": 89069,
         "count": null,
         "theaters": null,
-        "wowRatio": 55.7,
+        "wowRatio": 65.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 7,
-        "sales": 6506,
-        "seats": 50928,
+        "sales": 8199,
+        "seats": 28332,
         "count": null,
         "theaters": null,
-        "wowRatio": 61.5,
-        "movie": "ゴールデンカムイ 網走監獄襲撃編"
-      },
-      {
-        "rank": 8,
-        "sales": 5651,
-        "seats": 18443,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "劇場版スポンジ・ボブ 呪われ"
-      },
-      {
-        "rank": 9,
-        "sales": 5485,
-        "seats": 19493,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 62.6,
+        "wowRatio": 66.3,
         "movie": "ほどなく、お別れです"
       },
       {
-        "rank": 10,
-        "sales": 5321,
-        "seats": 28475,
+        "rank": 8,
+        "sales": 8180,
+        "seats": 64202,
         "count": null,
         "theaters": null,
-        "wowRatio": 62.3,
+        "wowRatio": 62.5,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 9,
+        "sales": 8075,
+        "seats": 41659,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 67.3,
         "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 7490,
+        "seats": 54966,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 67.4,
+        "movie": "君が最後に遺した歌"
       }
     ],
     "isFlash": true
