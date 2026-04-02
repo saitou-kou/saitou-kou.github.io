@@ -2,30 +2,30 @@
   {
     "date": "2026-04-02",
     "rawDate": "20260402",
-    "title": "速報値（17:50更新）",
+    "title": "速報値（18:49更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 45440,
-        "seats": 280111,
+        "sales": 45609,
+        "seats": 283744,
         "count": null,
         "theaters": null,
-        "wowRatio": 87.6,
+        "wowRatio": 87.4,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 2,
-        "sales": 32246,
-        "seats": 172308,
+        "sales": 32819,
+        "seats": 178900,
         "count": null,
         "theaters": null,
-        "wowRatio": 85.6,
+        "wowRatio": 83.8,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 3,
-        "sales": 11223,
-        "seats": 166272,
+        "sales": 11931,
+        "seats": 187248,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 9112,
-        "seats": 205272,
+        "sales": 9606,
+        "seats": 230060,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,57 +42,57 @@
       },
       {
         "rank": 5,
-        "sales": 8873,
-        "seats": 40894,
+        "sales": 9202,
+        "seats": 45179,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.9,
+        "wowRatio": 75,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 6,
-        "sales": 8250,
-        "seats": 108545,
+        "sales": 8840,
+        "seats": 117981,
         "count": null,
         "theaters": null,
-        "wowRatio": 49.7,
+        "wowRatio": 51.9,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 7,
-        "sales": 6828,
-        "seats": 33992,
+        "sales": 7285,
+        "seats": 37104,
         "count": null,
         "theaters": null,
-        "wowRatio": 55.4,
+        "wowRatio": 57.1,
         "movie": "ほどなく、お別れです"
       },
       {
         "rank": 8,
-        "sales": 6001,
-        "seats": 61786,
+        "sales": 6601,
+        "seats": 60733,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.8,
-        "movie": "君が最後に遺した歌"
-      },
-      {
-        "rank": 9,
-        "sales": 5946,
-        "seats": 51370,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 49.3,
+        "wowRatio": 52.6,
         "movie": "ウィキッド 永遠の約束"
       },
       {
-        "rank": 10,
-        "sales": 5819,
-        "seats": 74346,
+        "rank": 9,
+        "sales": 6377,
+        "seats": 83015,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.7,
+        "wowRatio": 40.2,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 10,
+        "sales": 6286,
+        "seats": 69837,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.3,
+        "movie": "君が最後に遺した歌"
       }
     ],
     "isFlash": true
