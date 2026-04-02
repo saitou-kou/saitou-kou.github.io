@@ -2,7 +2,7 @@
   {
     "date": "2026-04-02",
     "rawDate": "20260402",
-    "title": "速報値（22:06更新）",
+    "title": "速報値（23:43更新）",
     "movies": [
       {
         "rank": 1,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 13215,
-        "seats": 241510,
+        "sales": 13221,
+        "seats": 241968,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -43,7 +43,7 @@
       {
         "rank": 5,
         "sales": 10691,
-        "seats": 295034,
+        "seats": 295178,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 10038,
-        "seats": 56310,
+        "sales": 10046,
+        "seats": 56739,
         "count": null,
         "theaters": null,
         "wowRatio": 74.2,
@@ -60,8 +60,8 @@
       },
       {
         "rank": 7,
-        "sales": 7637,
-        "seats": 117774,
+        "sales": 7639,
+        "seats": 117976,
         "count": null,
         "theaters": null,
         "wowRatio": 43.9,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 7239,
-        "seats": 100455,
+        "sales": 7251,
+        "seats": 100959,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.4,
+        "wowRatio": 51.5,
         "movie": "君が最後に遺した歌"
       }
     ],
