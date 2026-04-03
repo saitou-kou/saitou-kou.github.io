@@ -2,7 +2,7 @@
   {
     "date": "2026-04-03",
     "rawDate": "20260403",
-    "title": "速報値（21:47更新）",
+    "title": "速報値（23:24更新）",
     "movies": [
       {
         "rank": 1,
@@ -15,26 +15,26 @@
       },
       {
         "rank": 2,
-        "sales": 27456,
-        "seats": 224243,
+        "sales": 27483,
+        "seats": 224356,
         "count": null,
         "theaters": null,
-        "wowRatio": 89.2,
+        "wowRatio": 89.3,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 3,
-        "sales": 16093,
-        "seats": 65016,
+        "sales": 16098,
+        "seats": 65159,
         "count": null,
         "theaters": null,
-        "wowRatio": 156,
+        "wowRatio": 155.3,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 4,
-        "sales": 12704,
-        "seats": 147252,
+        "sales": 12709,
+        "seats": 147396,
         "count": null,
         "theaters": null,
         "wowRatio": 26.2,
@@ -51,29 +51,29 @@
       },
       {
         "rank": 6,
-        "sales": 10379,
-        "seats": 64273,
+        "sales": 10424,
+        "seats": 65076,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.7,
+        "wowRatio": 58.9,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 7,
-        "sales": 8390,
-        "seats": 122271,
+        "sales": 8458,
+        "seats": 124209,
         "count": null,
         "theaters": null,
-        "wowRatio": 40.6,
+        "wowRatio": 40.9,
         "movie": "映画 えんとつ町のプペル ～約束の時計台～"
       },
       {
         "rank": 8,
-        "sales": 7095,
-        "seats": 93351,
+        "sales": 7109,
+        "seats": 93785,
         "count": null,
         "theaters": null,
-        "wowRatio": 63,
+        "wowRatio": 63.1,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
@@ -82,7 +82,7 @@
         "seats": 78248,
         "count": null,
         "theaters": null,
-        "wowRatio": 67.8,
+        "wowRatio": 67.7,
         "movie": "ウィキッド 永遠の約束"
       },
       {
