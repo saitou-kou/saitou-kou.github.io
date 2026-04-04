@@ -2,84 +2,84 @@
   {
     "date": "2026-04-04",
     "rawDate": "20260404",
-    "title": "速報値（14:55更新）",
+    "title": "速報値（15:53更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 45229,
-        "seats": 238997,
+        "sales": 53102,
+        "seats": 274479,
         "count": null,
         "theaters": null,
-        "wowRatio": 110.7,
+        "wowRatio": 112.4,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 2,
-        "sales": 33182,
-        "seats": 152807,
+        "sales": 39611,
+        "seats": 175463,
         "count": null,
         "theaters": null,
-        "wowRatio": 105.5,
+        "wowRatio": 106.6,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 3,
-        "sales": 14896,
-        "seats": 62408,
+        "sales": 17689,
+        "seats": 70584,
         "count": null,
         "theaters": null,
-        "wowRatio": 72,
+        "wowRatio": 79.7,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 4,
-        "sales": 11938,
-        "seats": 72155,
+        "sales": 13686,
+        "seats": 82248,
         "count": null,
         "theaters": null,
-        "wowRatio": 61.1,
+        "wowRatio": 61.4,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 5,
-        "sales": 10133,
-        "seats": 66737,
+        "sales": 11606,
+        "seats": 35802,
         "count": null,
         "theaters": null,
-        "wowRatio": 80.6,
-        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+        "wowRatio": 152.8,
+        "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
-        "sales": 9478,
-        "seats": 39460,
+        "sales": 11462,
+        "seats": 47427,
         "count": null,
         "theaters": null,
-        "wowRatio": 73,
+        "wowRatio": 74.7,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
         "rank": 7,
-        "sales": 9435,
-        "seats": 28402,
+        "sales": 11273,
+        "seats": 72263,
         "count": null,
         "theaters": null,
-        "wowRatio": 143.6,
-        "movie": "超かぐや姫！"
+        "wowRatio": 78.6,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
       },
       {
         "rank": 8,
-        "sales": 8748,
-        "seats": 30452,
+        "sales": 10494,
+        "seats": 36869,
         "count": null,
         "theaters": null,
-        "wowRatio": 81.4,
+        "wowRatio": 86.8,
         "movie": "ウィキッド 永遠の約束"
       },
       {
         "rank": 9,
-        "sales": 8505,
-        "seats": 35320,
+        "sales": 9855,
+        "seats": 38540,
         "count": null,
         "theaters": null,
         "wowRatio": 72,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 5343,
-        "seats": 24220,
+        "sales": 7915,
+        "seats": 31742,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.3,
+        "wowRatio": 91.7,
         "movie": "ほどなく、お別れです"
       }
     ],
