@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-05",
+    "rawDate": "20260405",
+    "title": "速報値（11:19更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 20940,
+        "seats": 119311,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 74.5,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 2,
+        "sales": 12305,
+        "seats": 73626,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.8,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 3,
+        "sales": 5150,
+        "seats": 29112,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 53.7,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 4,
+        "sales": 4930,
+        "seats": 36571,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.2,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 5,
+        "sales": 4323,
+        "seats": 36540,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.1,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 6,
+        "sales": 3943,
+        "seats": 12748,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 149.1,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 7,
+        "sales": 3543,
+        "seats": 17742,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.6,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 8,
+        "sales": 3134,
+        "seats": 14356,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.3,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 9,
+        "sales": 2321,
+        "seats": 10642,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.8,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 2167,
+        "seats": 19148,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.5,
+        "movie": "木挽町のあだ討ち"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-04",
     "rawDate": "20260404",
     "title": "（独立系を含む）デイリー合算ランキング：20260404(土)",
