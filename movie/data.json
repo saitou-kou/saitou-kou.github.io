@@ -2,7 +2,7 @@
   {
     "date": "2026-04-05",
     "rawDate": "20260405",
-    "title": "速報値（23:24更新）",
+    "title": "速報値（23:44更新）",
     "movies": [
       {
         "rank": 1,
@@ -69,11 +69,11 @@
       },
       {
         "rank": 8,
-        "sales": 14966,
-        "seats": 65105,
+        "sales": 14973,
+        "seats": 65534,
         "count": null,
         "theaters": null,
-        "wowRatio": 135,
+        "wowRatio": 135.1,
         "movie": "超かぐや姫！"
       },
       {
