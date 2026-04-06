@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-06",
+    "rawDate": "20260406",
+    "title": "速報値（11:20更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 12615,
+        "seats": 92175,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.2,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 2,
+        "sales": 7176,
+        "seats": 60141,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 45.7,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 3,
+        "sales": 2377,
+        "seats": 34019,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 39.6,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 2109,
+        "seats": 33789,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 46.4,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 5,
+        "sales": 1434,
+        "seats": 10244,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 109.7,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 6,
+        "sales": 1400,
+        "seats": 29518,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 32.5,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 7,
+        "sales": 1207,
+        "seats": 23922,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 66.9,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 8,
+        "sales": 1156,
+        "seats": 16973,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 37.4,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 9,
+        "sales": 1119,
+        "seats": 11899,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 34.9,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 10,
+        "sales": 905,
+        "seats": 14235,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 48.9,
+        "movie": "国宝"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-05",
     "rawDate": "20260405",
     "title": "（独立系を含む）デイリー合算ランキング：20260405(日)",
