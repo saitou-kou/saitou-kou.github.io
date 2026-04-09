@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-09",
+    "rawDate": "20260409",
+    "title": "速報値（11:00更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 1600,
+        "seats": 72072,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 8.2,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 2,
+        "sales": 1493,
+        "seats": 30994,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.2,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 3,
+        "sales": 1397,
+        "seats": 24115,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 123.7,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 4,
+        "sales": 1272,
+        "seats": 26807,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.9,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 5,
+        "sales": 1253,
+        "seats": 46096,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 11.3,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 6,
+        "sales": 1148,
+        "seats": 13279,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 96.5,
+        "movie": "国宝"
+      },
+      {
+        "rank": 7,
+        "sales": 703,
+        "seats": 13977,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 41.1,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 8,
+        "sales": 673,
+        "seats": 3406,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 117.9,
+        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
+      },
+      {
+        "rank": 9,
+        "sales": 638,
+        "seats": 30477,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 21.2,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 10,
+        "sales": 630,
+        "seats": 9274,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 45.6,
+        "movie": "ウィキッド 永遠の約束"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-08",
     "rawDate": "20260408",
     "title": "（独立系を含む）デイリー合算ランキング：20260408(水)",
