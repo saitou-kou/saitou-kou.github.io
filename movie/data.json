@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-10",
+    "rawDate": "20260410",
+    "title": "速報値（11:18更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 99000,
+        "seats": 359899,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 1277,
+        "seats": 11194,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 3,
+        "sales": 1242,
+        "seats": 17178,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.9,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 1176,
+        "seats": 30283,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 11.7,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 5,
+        "sales": 1132,
+        "seats": 34037,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 6.9,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 6,
+        "sales": 759,
+        "seats": 4913,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 17.2,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 7,
+        "sales": 738,
+        "seats": 7425,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 40.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 8,
+        "sales": 628,
+        "seats": 15141,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 30.3,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 9,
+        "sales": 601,
+        "seats": 11351,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.8,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 10,
+        "sales": 566,
+        "seats": 8530,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 39.6,
+        "movie": "ほどなく、お別れです"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-09",
     "rawDate": "20260409",
     "title": "（独立系を含む）デイリー合算ランキング：20260409(木)",
