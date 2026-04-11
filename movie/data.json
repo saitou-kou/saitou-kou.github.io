@@ -2,12 +2,12 @@
   {
     "date": "2026-04-11",
     "rawDate": "20260411",
-    "title": "速報値（23:23更新）",
+    "title": "速報値（23:43更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 589911,
-        "seats": 1346085,
+        "sales": 590168,
+        "seats": 1347829,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,11 +51,11 @@
       },
       {
         "rank": 6,
-        "sales": 11789,
-        "seats": 55290,
+        "sales": 11799,
+        "seats": 55431,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.2,
+        "wowRatio": 58.3,
         "movie": "鬼の花嫁"
       },
       {
