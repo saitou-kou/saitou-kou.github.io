@@ -2,12 +2,12 @@
   {
     "date": "2026-04-11",
     "rawDate": "20260411",
-    "title": "速報値（13:54更新）",
+    "title": "速報値（14:54更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 250657,
-        "seats": 633068,
+        "sales": 301041,
+        "seats": 728247,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,83 +15,83 @@
       },
       {
         "rank": 2,
-        "sales": 15534,
-        "seats": 68442,
+        "sales": 17675,
+        "seats": 73994,
         "count": null,
         "theaters": null,
-        "wowRatio": 38,
+        "wowRatio": 37.9,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 3,
-        "sales": 12303,
-        "seats": 54970,
+        "sales": 14351,
+        "seats": 61040,
         "count": null,
         "theaters": null,
-        "wowRatio": 41.5,
+        "wowRatio": 41.2,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 4,
-        "sales": 5804,
-        "seats": 13943,
+        "sales": 7131,
+        "seats": 16491,
         "count": null,
         "theaters": null,
-        "wowRatio": 53.3,
+        "wowRatio": 42.8,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 5,
-        "sales": 5306,
-        "seats": 25186,
+        "sales": 6129,
+        "seats": 27678,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.1,
+        "wowRatio": 49.7,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 6,
-        "sales": 4609,
-        "seats": 8157,
+        "sales": 5675,
+        "seats": 9798,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.8,
+        "wowRatio": 58.2,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 7,
-        "sales": 4351,
-        "seats": 13681,
+        "sales": 4984,
+        "seats": 15108,
         "count": null,
         "theaters": null,
-        "wowRatio": 59,
+        "wowRatio": 55.6,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 8,
-        "sales": 3555,
-        "seats": 16015,
+        "sales": 4139,
+        "seats": 10757,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 45,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 9,
+        "sales": 4009,
+        "seats": 17865,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ハムネット"
       },
       {
-        "rank": 9,
-        "sales": 3493,
-        "seats": 9382,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 54.1,
-        "movie": "ウィキッド 永遠の約束"
-      },
-      {
         "rank": 10,
-        "sales": 3349,
-        "seats": 11757,
+        "sales": 3671,
+        "seats": 12756,
         "count": null,
         "theaters": null,
-        "wowRatio": 38.8,
+        "wowRatio": 36.6,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       }
     ],
