@@ -2,12 +2,12 @@
   {
     "date": "2026-04-11",
     "rawDate": "20260411",
-    "title": "速報値（22:44更新）",
+    "title": "速報値（23:23更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 589026,
-        "seats": 1339677,
+        "sales": 589911,
+        "seats": 1346085,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 19714,
-        "seats": 77045,
+        "sales": 19725,
+        "seats": 77281,
         "count": null,
         "theaters": null,
         "wowRatio": 41.3,
@@ -33,25 +33,25 @@
       },
       {
         "rank": 4,
-        "sales": 15561,
-        "seats": 38787,
+        "sales": 15667,
+        "seats": 39336,
         "count": null,
         "theaters": null,
-        "wowRatio": 53.4,
+        "wowRatio": 53.8,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 5,
-        "sales": 12131,
-        "seats": 20462,
+        "sales": 12165,
+        "seats": 20545,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.8,
+        "wowRatio": 71,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
-        "sales": 11787,
+        "sales": 11789,
         "seats": 55290,
         "count": null,
         "theaters": null,
@@ -78,17 +78,17 @@
       },
       {
         "rank": 9,
-        "sales": 8595,
-        "seats": 23503,
+        "sales": 8600,
+        "seats": 23583,
         "count": null,
         "theaters": null,
-        "wowRatio": 61,
+        "wowRatio": 61.1,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
         "rank": 10,
-        "sales": 8133,
-        "seats": 25432,
+        "sales": 8137,
+        "seats": 25577,
         "count": null,
         "theaters": null,
         "wowRatio": 49.5,
