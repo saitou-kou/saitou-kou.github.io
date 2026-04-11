@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-11",
+    "rawDate": "20260411",
+    "title": "速報値（10:59更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 121966,
+        "seats": 321144,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 5465,
+        "seats": 37222,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 32.8,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 3,
+        "sales": 4135,
+        "seats": 29287,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 41,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 4,
+        "sales": 2238,
+        "seats": 4416,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 54.6,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 5,
+        "sales": 2025,
+        "seats": 14499,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.7,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 6,
+        "sales": 1830,
+        "seats": 5778,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 7,
+        "sales": 1562,
+        "seats": 9921,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 8,
+        "sales": 1505,
+        "seats": 8576,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 64.8,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 9,
+        "sales": 1442,
+        "seats": 5534,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 80.3,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 1349,
+        "seats": 5312,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 110.2,
+        "movie": "ＡＫＩＲＡ アキラ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-10",
     "rawDate": "20260410",
     "title": "デイリー合算ランキング：20260410(金)",
