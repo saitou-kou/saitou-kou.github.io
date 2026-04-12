@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-12",
+    "rawDate": "20260412",
+    "title": "速報値（11:18更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 165962,
+        "seats": 375314,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 11735,
+        "seats": 41746,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.1,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 3,
+        "sales": 7948,
+        "seats": 34863,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 56.1,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 4,
+        "sales": 3231,
+        "seats": 15395,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.6,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 5,
+        "sales": 2712,
+        "seats": 7275,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 6,
+        "sales": 2495,
+        "seats": 4445,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.7,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 7,
+        "sales": 2469,
+        "seats": 15984,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.9,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 8,
+        "sales": 2170,
+        "seats": 8428,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.6,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 9,
+        "sales": 1925,
+        "seats": 10722,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 10,
+        "sales": 1698,
+        "seats": 4717,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57,
+        "movie": "ウィキッド 永遠の約束"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-11",
     "rawDate": "20260411",
     "title": "（独立系を含む）デイリー合算ランキング：20260411(土)",
