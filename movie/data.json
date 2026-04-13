@@ -2,12 +2,12 @@
   {
     "date": "2026-04-13",
     "rawDate": "20260413",
-    "title": "速報値（14:38更新）",
+    "title": "速報値（16:55更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 72143,
-        "seats": 583514,
+        "sales": 100192,
+        "seats": 811487,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 2902,
-        "seats": 19536,
+        "sales": 3599,
+        "seats": 26584,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,75 +24,75 @@
       },
       {
         "rank": 3,
-        "sales": 2686,
-        "seats": 28366,
+        "sales": 3453,
+        "seats": 38968,
         "count": null,
         "theaters": null,
-        "wowRatio": 37.9,
+        "wowRatio": 38.8,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 4,
-        "sales": 2395,
-        "seats": 19709,
+        "sales": 3223,
+        "seats": 27648,
         "count": null,
         "theaters": null,
-        "wowRatio": 49.9,
+        "wowRatio": 52.9,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 5,
-        "sales": 2393,
-        "seats": 48314,
+        "sales": 3167,
+        "seats": 60346,
         "count": null,
         "theaters": null,
-        "wowRatio": 11,
+        "wowRatio": 12.7,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 6,
-        "sales": 1625,
-        "seats": 52620,
+        "sales": 2157,
+        "seats": 24767,
         "count": null,
         "theaters": null,
-        "wowRatio": 5.2,
-        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
-      },
-      {
-        "rank": 7,
-        "sales": 1575,
-        "seats": 18044,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 40,
+        "wowRatio": 36.3,
         "movie": "ほどなく、お別れです"
       },
       {
-        "rank": 8,
-        "sales": 1465,
-        "seats": 19267,
+        "rank": 7,
+        "sales": 2076,
+        "seats": 20986,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.2,
-        "movie": "教場 Ｒｅｑｕｉｅｍ"
-      },
-      {
-        "rank": 9,
-        "sales": 1432,
-        "seats": 13126,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 38.5,
+        "wowRatio": 44.3,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
-        "rank": 10,
-        "sales": 1301,
-        "seats": 13251,
+        "rank": 8,
+        "sales": 1987,
+        "seats": 59981,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.3,
-        "movie": "国宝"
+        "wowRatio": 5.7,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 9,
+        "sales": 1840,
+        "seats": 15186,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43.5,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 1779,
+        "seats": 12673,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 33.9,
+        "movie": "超かぐや姫！"
       }
     ],
     "isFlash": true
