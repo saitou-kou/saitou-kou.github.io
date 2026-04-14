@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-14",
+    "rawDate": "20260414",
+    "title": "速報値（11:19更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 22913,
+        "seats": 257385,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 1076,
+        "seats": 11380,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 3,
+        "sales": 837,
+        "seats": 13617,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 41.8,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 712,
+        "seats": 7840,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 5,
+        "sales": 700,
+        "seats": 12945,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.3,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 6,
+        "sales": 560,
+        "seats": 7717,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.9,
+        "movie": "国宝"
+      },
+      {
+        "rank": 7,
+        "sales": 535,
+        "seats": 9531,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 74,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 8,
+        "sales": 500,
+        "seats": 22204,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 8.8,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 9,
+        "sales": 461,
+        "seats": 5369,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 122.9,
+        "movie": "ＡＫＩＲＡ アキラ"
+      },
+      {
+        "rank": 10,
+        "sales": 451,
+        "seats": 7545,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.8,
+        "movie": "９０メートル"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-13",
     "rawDate": "20260413",
     "title": "（独立系を含む）デイリー合算ランキング：20260413(月)",
