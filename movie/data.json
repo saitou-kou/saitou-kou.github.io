@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-15",
+    "rawDate": "20260415",
+    "title": "速報値（11:19更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 29655,
+        "seats": 257854,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 1250,
+        "seats": 11462,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 3,
+        "sales": 1145,
+        "seats": 13566,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.7,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 1012,
+        "seats": 8301,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.3,
+        "movie": "国宝"
+      },
+      {
+        "rank": 5,
+        "sales": 1007,
+        "seats": 7848,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 56,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 6,
+        "sales": 991,
+        "seats": 13271,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72.9,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 7,
+        "sales": 756,
+        "seats": 9575,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 112.7,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 8,
+        "sales": 729,
+        "seats": 22243,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 31.4,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 9,
+        "sales": 627,
+        "seats": 6833,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 95.4,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 10,
+        "sales": 624,
+        "seats": 5369,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 157.6,
+        "movie": "ＡＫＩＲＡ アキラ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-14",
     "rawDate": "20260414",
     "title": "（独立系を含む）デイリー合算ランキング：20260414(火)",
