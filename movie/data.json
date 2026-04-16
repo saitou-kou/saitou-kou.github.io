@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-16",
+    "rawDate": "20260416",
+    "title": "速報値（11:20更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 20073,
+        "seats": 258221,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 941,
+        "seats": 7926,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.1,
+        "movie": "国宝"
+      },
+      {
+        "rank": 3,
+        "sales": 926,
+        "seats": 13554,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.8,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 4,
+        "sales": 911,
+        "seats": 11340,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 5,
+        "sales": 814,
+        "seats": 12940,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.8,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 6,
+        "sales": 683,
+        "seats": 7829,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 32.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 7,
+        "sales": 624,
+        "seats": 9700,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 92.7,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 8,
+        "sales": 612,
+        "seats": 5369,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 150.7,
+        "movie": "ＡＫＩＲＡ アキラ"
+      },
+      {
+        "rank": 9,
+        "sales": 461,
+        "seats": 6790,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 65,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 10,
+        "sales": 454,
+        "seats": 4438,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "シネマ歌舞伎 曽根崎心中"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-15",
     "rawDate": "20260415",
     "title": "（独立系を含む）デイリー合算ランキング：20260415(水)",
