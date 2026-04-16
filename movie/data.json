@@ -2,15 +2,15 @@
   {
     "date": "2026-04-16",
     "rawDate": "20260416",
-    "title": "速報値（22:27更新）",
+    "title": "速報値（23:44更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 98542,
-        "seats": 1286945,
+        "sales": 98577,
+        "seats": 1287772,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
+        "wowRatio": 2534,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
@@ -51,21 +51,21 @@
       },
       {
         "rank": 6,
+        "sales": 2509,
+        "seats": 24057,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 75.1,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 7,
         "sales": 2499,
         "seats": 29762,
         "count": null,
         "theaters": null,
         "wowRatio": 51.8,
         "movie": "ウィキッド 永遠の約束"
-      },
-      {
-        "rank": 7,
-        "sales": 2487,
-        "seats": 23920,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 74.4,
-        "movie": "超かぐや姫！"
       },
       {
         "rank": 8,
