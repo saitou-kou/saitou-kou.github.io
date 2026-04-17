@@ -2,21 +2,21 @@
   {
     "date": "2026-04-17",
     "rawDate": "20260417",
-    "title": "速報値（19:51更新）",
+    "title": "速報値（20:49更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 80559,
-        "seats": 862200,
+        "sales": 101064,
+        "seats": 945084,
         "count": null,
         "theaters": null,
-        "wowRatio": 20.6,
+        "wowRatio": 22.3,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 23252,
-        "seats": 165534,
+        "sales": 26398,
+        "seats": 188846,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 13354,
-        "seats": 52942,
+        "sales": 15064,
+        "seats": 56945,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,15 +42,24 @@
       },
       {
         "rank": 5,
-        "sales": 5971,
-        "seats": 29551,
+        "sales": 7464,
+        "seats": 34198,
         "count": null,
         "theaters": null,
-        "wowRatio": 116,
+        "wowRatio": 132.6,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
+        "sales": 4365,
+        "seats": 41161,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 7,
         "sales": 3950,
         "seats": 6900,
         "count": null,
@@ -59,40 +68,31 @@
         "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
-        "rank": 7,
-        "sales": 3417,
-        "seats": 34273,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 74.2,
-        "movie": "プロジェクト・ヘイル・メアリー"
-      },
-      {
         "rank": 8,
-        "sales": 2399,
-        "seats": 33911,
+        "sales": 2705,
+        "seats": 36879,
         "count": null,
         "theaters": null,
-        "wowRatio": 50.7,
+        "wowRatio": 49.6,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 9,
-        "sales": 2135,
-        "seats": 24596,
+        "sales": 2376,
+        "seats": 27176,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.7,
+        "wowRatio": 75.3,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
         "rank": 10,
-        "sales": 1888,
-        "seats": 49163,
+        "sales": 2098,
+        "seats": 25609,
         "count": null,
         "theaters": null,
-        "wowRatio": 38,
-        "movie": "私がビーバーになる時"
+        "wowRatio": 85.5,
+        "movie": "ウィキッド 永遠の約束"
       }
     ],
     "isFlash": true
