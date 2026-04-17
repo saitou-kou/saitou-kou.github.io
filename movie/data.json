@@ -2,21 +2,21 @@
   {
     "date": "2026-04-17",
     "rawDate": "20260417",
-    "title": "速報値（18:12更新）",
+    "title": "速報値（19:51更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 62153,
-        "seats": 780489,
+        "sales": 80559,
+        "seats": 862200,
         "count": null,
         "theaters": null,
-        "wowRatio": 20.8,
+        "wowRatio": 20.6,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 21541,
-        "seats": 154340,
+        "sales": 23252,
+        "seats": 165534,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,75 +24,75 @@
       },
       {
         "rank": 3,
-        "sales": 9922,
-        "seats": 44758,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥ"
-      },
-      {
-        "rank": 4,
-        "sales": 4887,
-        "seats": 26103,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 115.1,
-        "movie": "超かぐや姫！"
-      },
-      {
-        "rank": 5,
-        "sales": 3305,
-        "seats": 4054,
+        "sales": 22062,
+        "seats": 32588,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
-        "rank": 6,
-        "sales": 2996,
-        "seats": 32065,
+        "rank": 4,
+        "sales": 13354,
+        "seats": 52942,
         "count": null,
         "theaters": null,
-        "wowRatio": 75,
-        "movie": "プロジェクト・ヘイル・メアリー"
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥ"
+      },
+      {
+        "rank": 5,
+        "sales": 5971,
+        "seats": 29551,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 116,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 6,
+        "sales": 3950,
+        "seats": 6900,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
         "rank": 7,
-        "sales": 2185,
-        "seats": 31232,
+        "sales": 3417,
+        "seats": 34273,
         "count": null,
         "theaters": null,
-        "wowRatio": 52,
-        "movie": "鬼の花嫁"
+        "wowRatio": 74.2,
+        "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 8,
-        "sales": 1781,
-        "seats": 47729,
+        "sales": 2399,
+        "seats": 33911,
         "count": null,
         "theaters": null,
-        "wowRatio": 38.3,
-        "movie": "私がビーバーになる時"
+        "wowRatio": 50.7,
+        "movie": "鬼の花嫁"
       },
       {
         "rank": 9,
-        "sales": 1740,
-        "seats": 22305,
+        "sales": 2135,
+        "seats": 24596,
         "count": null,
         "theaters": null,
-        "wowRatio": 84.6,
-        "movie": "ウィキッド 永遠の約束"
+        "wowRatio": 75.7,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
         "rank": 10,
-        "sales": 1590,
-        "seats": 26328,
+        "sales": 1888,
+        "seats": 49163,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.4,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 38,
+        "movie": "私がビーバーになる時"
       }
     ],
     "isFlash": true
