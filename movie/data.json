@@ -2,12 +2,12 @@
   {
     "date": "2026-04-17",
     "rawDate": "20260417",
-    "title": "速報値（16:35更新）",
+    "title": "速報値（18:12更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 50337,
-        "seats": 682903,
+        "sales": 62153,
+        "seats": 780489,
         "count": null,
         "theaters": null,
         "wowRatio": 20.8,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 19487,
-        "seats": 129667,
+        "sales": 21541,
+        "seats": 154340,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 8213,
-        "seats": 39398,
+        "sales": 9922,
+        "seats": 44758,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,66 +33,66 @@
       },
       {
         "rank": 4,
-        "sales": 3342,
-        "seats": 20431,
+        "sales": 4887,
+        "seats": 26103,
         "count": null,
         "theaters": null,
-        "wowRatio": 118.3,
+        "wowRatio": 115.1,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 5,
-        "sales": 2623,
-        "seats": 27651,
+        "sales": 3305,
+        "seats": 4054,
         "count": null,
         "theaters": null,
-        "wowRatio": 80.1,
-        "movie": "プロジェクト・ヘイル・メアリー"
+        "wowRatio": null,
+        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
         "rank": 6,
-        "sales": 1976,
-        "seats": 26874,
+        "sales": 2996,
+        "seats": 32065,
         "count": null,
         "theaters": null,
-        "wowRatio": 53,
-        "movie": "鬼の花嫁"
+        "wowRatio": 75,
+        "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 7,
-        "sales": 1635,
-        "seats": 45666,
+        "sales": 2185,
+        "seats": 31232,
         "count": null,
         "theaters": null,
-        "wowRatio": 36.9,
-        "movie": "私がビーバーになる時"
+        "wowRatio": 52,
+        "movie": "鬼の花嫁"
       },
       {
         "rank": 8,
-        "sales": 1593,
-        "seats": 18712,
+        "sales": 1781,
+        "seats": 47729,
         "count": null,
         "theaters": null,
-        "wowRatio": 90,
-        "movie": "ウィキッド 永遠の約束"
+        "wowRatio": 38.3,
+        "movie": "私がビーバーになる時"
       },
       {
         "rank": 9,
-        "sales": 1513,
-        "seats": 24339,
+        "sales": 1740,
+        "seats": 22305,
         "count": null,
         "theaters": null,
-        "wowRatio": 74.1,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 84.6,
+        "movie": "ウィキッド 永遠の約束"
       },
       {
         "rank": 10,
-        "sales": 1445,
-        "seats": 11403,
+        "sales": 1590,
+        "seats": 26328,
         "count": null,
         "theaters": null,
-        "wowRatio": 40.2,
-        "movie": "ハムネット"
+        "wowRatio": 70.4,
+        "movie": "ほどなく、お別れです"
       }
     ],
     "isFlash": true
