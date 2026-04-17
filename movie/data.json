@@ -2,12 +2,12 @@
   {
     "date": "2026-04-17",
     "rawDate": "20260417",
-    "title": "速報値（22:07更新）",
+    "title": "速報値（23:44更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 112175,
-        "seats": 994024,
+        "sales": 112456,
+        "seats": 996981,
         "count": null,
         "theaters": null,
         "wowRatio": 22.6,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 28091,
-        "seats": 200982,
+        "sales": 28137,
+        "seats": 201662,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 17422,
-        "seats": 63644,
+        "sales": 17469,
+        "seats": 63826,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,11 +42,11 @@
       },
       {
         "rank": 5,
-        "sales": 7983,
+        "sales": 7986,
         "seats": 35968,
         "count": null,
         "theaters": null,
-        "wowRatio": 131.8,
+        "wowRatio": 130.8,
         "movie": "超かぐや姫！"
       },
       {
@@ -55,7 +55,7 @@
         "seats": 42438,
         "count": null,
         "theaters": null,
-        "wowRatio": 79.2,
+        "wowRatio": 79,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
@@ -73,7 +73,7 @@
         "seats": 38970,
         "count": null,
         "theaters": null,
-        "wowRatio": 50.1,
+        "wowRatio": 50,
         "movie": "鬼の花嫁"
       },
       {
@@ -91,7 +91,7 @@
         "seats": 27102,
         "count": null,
         "theaters": null,
-        "wowRatio": 82.9,
+        "wowRatio": 82.1,
         "movie": "ウィキッド 永遠の約束"
       }
     ],
