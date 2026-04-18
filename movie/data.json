@@ -2,21 +2,21 @@
   {
     "date": "2026-04-18",
     "rawDate": "20260418",
-    "title": "速報値（21:49更新）",
+    "title": "速報値（23:26更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 333283,
-        "seats": 1088822,
+        "sales": 334052,
+        "seats": 1096035,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.8,
+        "wowRatio": 56.6,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 36594,
-        "seats": 196078,
+        "sales": 36662,
+        "seats": 197092,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,6 +33,15 @@
       },
       {
         "rank": 4,
+        "sales": 15031,
+        "seats": 61355,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 5,
         "sales": 15018,
         "seats": 74942,
         "count": null,
@@ -41,27 +50,18 @@
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
-        "rank": 5,
-        "sales": 14988,
-        "seats": 60728,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
-      },
-      {
         "rank": 6,
-        "sales": 14520,
-        "seats": 34506,
+        "sales": 14531,
+        "seats": 34606,
         "count": null,
         "theaters": null,
-        "wowRatio": 121.1,
+        "wowRatio": 119.4,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 7,
-        "sales": 14292,
-        "seats": 68482,
+        "sales": 14304,
+        "seats": 68636,
         "count": null,
         "theaters": null,
         "wowRatio": 72.5,
@@ -73,16 +73,16 @@
         "seats": 37459,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.9,
+        "wowRatio": 71.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 9,
-        "sales": 6207,
-        "seats": 38081,
+        "sales": 6245,
+        "seats": 38345,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.7,
+        "wowRatio": 52.9,
         "movie": "鬼の花嫁"
       },
       {
