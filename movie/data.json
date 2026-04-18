@@ -2,21 +2,21 @@
   {
     "date": "2026-04-18",
     "rawDate": "20260418",
-    "title": "速報値（17:33更新）",
+    "title": "速報値（18:31更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 242640,
-        "seats": 731139,
+        "sales": 262249,
+        "seats": 803467,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.4,
+        "wowRatio": 56.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 28146,
-        "seats": 133570,
+        "sales": 29776,
+        "seats": 147074,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 14962,
-        "seats": 74358,
+        "sales": 14991,
+        "seats": 74561,
         "count": null,
         "theaters": null,
         "wowRatio": 73.8,
@@ -42,26 +42,26 @@
       },
       {
         "rank": 5,
-        "sales": 13464,
-        "seats": 64693,
+        "sales": 13710,
+        "seats": 66287,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.6,
+        "wowRatio": 70.7,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 6,
-        "sales": 10550,
-        "seats": 22473,
+        "sales": 12125,
+        "seats": 25645,
         "count": null,
         "theaters": null,
-        "wowRatio": 112.9,
+        "wowRatio": 110.9,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 7,
-        "sales": 9573,
-        "seats": 37476,
+        "sales": 10616,
+        "seats": 41004,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,29 +69,29 @@
       },
       {
         "rank": 8,
-        "sales": 7093,
-        "seats": 21779,
+        "sales": 8320,
+        "seats": 25350,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.2,
+        "wowRatio": 63.7,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 9,
-        "sales": 4385,
-        "seats": 23246,
+        "sales": 4924,
+        "seats": 27081,
         "count": null,
         "theaters": null,
-        "wowRatio": 46.9,
+        "wowRatio": 48.8,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 10,
-        "sales": 4169,
-        "seats": 15171,
+        "sales": 4737,
+        "seats": 17976,
         "count": null,
         "theaters": null,
-        "wowRatio": 67,
+        "wowRatio": 69.6,
         "movie": "ウィキッド 永遠の約束"
       }
     ],
