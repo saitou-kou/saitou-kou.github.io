@@ -2,19 +2,28 @@
   {
     "date": "2026-04-18",
     "rawDate": "20260418",
-    "title": "速報値（15:55更新）",
+    "title": "速報値（17:33更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 205772,
-        "seats": 633845,
+        "sales": 242640,
+        "seats": 731139,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.2,
+        "wowRatio": 56.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
+        "sales": 28146,
+        "seats": 133570,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 3,
         "sales": 26599,
         "seats": 30212,
         "count": null,
@@ -23,45 +32,36 @@
         "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
-        "rank": 3,
-        "sales": 24407,
-        "seats": 114870,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "人はなぜラブレターを書くのか"
-      },
-      {
         "rank": 4,
-        "sales": 14280,
-        "seats": 71737,
+        "sales": 14962,
+        "seats": 74358,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.9,
+        "wowRatio": 73.8,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 5,
-        "sales": 12372,
-        "seats": 60466,
+        "sales": 13464,
+        "seats": 64693,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.8,
+        "wowRatio": 70.6,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 6,
-        "sales": 9473,
-        "seats": 19483,
+        "sales": 10550,
+        "seats": 22473,
         "count": null,
         "theaters": null,
-        "wowRatio": 119.5,
+        "wowRatio": 112.9,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 7,
-        "sales": 7926,
-        "seats": 31845,
+        "sales": 9573,
+        "seats": 37476,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,30 +69,30 @@
       },
       {
         "rank": 8,
-        "sales": 6143,
-        "seats": 18631,
+        "sales": 7093,
+        "seats": 21779,
         "count": null,
         "theaters": null,
-        "wowRatio": 67.4,
+        "wowRatio": 58.2,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 9,
-        "sales": 3819,
-        "seats": 4818,
+        "sales": 4385,
+        "seats": 23246,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
+        "wowRatio": 46.9,
+        "movie": "鬼の花嫁"
       },
       {
         "rank": 10,
-        "sales": 3602,
-        "seats": 19567,
+        "sales": 4169,
+        "seats": 15171,
         "count": null,
         "theaters": null,
-        "wowRatio": 42.8,
-        "movie": "鬼の花嫁"
+        "wowRatio": 67,
+        "movie": "ウィキッド 永遠の約束"
       }
     ],
     "isFlash": true
