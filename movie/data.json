@@ -2,96 +2,96 @@
   {
     "date": "2026-04-18",
     "rawDate": "20260418",
-    "title": "速報値（13:55更新）",
+    "title": "速報値（15:55更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 142317,
-        "seats": 501261,
+        "sales": 205772,
+        "seats": 633845,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.6,
+        "wowRatio": 54.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 18921,
-        "seats": 92165,
+        "sales": 26599,
+        "seats": 30212,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
+      },
+      {
+        "rank": 3,
+        "sales": 24407,
+        "seats": 114870,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
-        "rank": 3,
-        "sales": 11505,
-        "seats": 62364,
+        "rank": 4,
+        "sales": 14280,
+        "seats": 71737,
         "count": null,
         "theaters": null,
-        "wowRatio": 69.4,
+        "wowRatio": 70.9,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
-        "rank": 4,
-        "sales": 9484,
-        "seats": 50563,
+        "rank": 5,
+        "sales": 12372,
+        "seats": 60466,
         "count": null,
         "theaters": null,
-        "wowRatio": 72.5,
+        "wowRatio": 68.8,
         "movie": "私がビーバーになる時"
       },
       {
-        "rank": 5,
-        "sales": 6807,
-        "seats": 15174,
+        "rank": 6,
+        "sales": 9473,
+        "seats": 19483,
         "count": null,
         "theaters": null,
-        "wowRatio": 145,
+        "wowRatio": 119.5,
         "movie": "超かぐや姫！"
       },
       {
-        "rank": 6,
-        "sales": 6504,
-        "seats": 26875,
+        "rank": 7,
+        "sales": 7926,
+        "seats": 31845,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
-        "rank": 7,
-        "sales": 4409,
-        "seats": 13476,
+        "rank": 8,
+        "sales": 6143,
+        "seats": 18631,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.1,
+        "wowRatio": 67.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
-        "rank": 8,
-        "sales": 2741,
-        "seats": 13692,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 60.2,
-        "movie": "劇場版「暗殺教室」みんなの時間"
-      },
-      {
         "rank": 9,
-        "sales": 2470,
-        "seats": 10293,
+        "sales": 3819,
+        "seats": 4818,
         "count": null,
         "theaters": null,
-        "wowRatio": 66.6,
-        "movie": "ウィキッド 永遠の約束"
+        "wowRatio": null,
+        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
         "rank": 10,
-        "sales": 2348,
-        "seats": 14851,
+        "sales": 3602,
+        "seats": 19567,
         "count": null,
         "theaters": null,
-        "wowRatio": 41,
+        "wowRatio": 42.8,
         "movie": "鬼の花嫁"
       }
     ],
