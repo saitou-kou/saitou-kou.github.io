@@ -2,12 +2,12 @@
   {
     "date": "2026-04-19",
     "rawDate": "20260419",
-    "title": "速報値（23:26更新）",
+    "title": "速報値（23:46更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 368346,
-        "seats": 1215304,
+        "sales": 368370,
+        "seats": 1215691,
         "count": null,
         "theaters": null,
         "wowRatio": 66.7,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 38363,
-        "seats": 207994,
+        "sales": 38366,
+        "seats": 208074,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -82,7 +82,7 @@
         "seats": 24533,
         "count": null,
         "theaters": null,
-        "wowRatio": 73.7,
+        "wowRatio": 73.6,
         "movie": "劇場版「暗殺教室」みんなの時間"
       },
       {
