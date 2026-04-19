@@ -2,12 +2,12 @@
   {
     "date": "2026-04-19",
     "rawDate": "20260419",
-    "title": "速報値（21:49更新）",
+    "title": "速報値（23:26更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 368014,
-        "seats": 1210079,
+        "sales": 368346,
+        "seats": 1215304,
         "count": null,
         "theaters": null,
         "wowRatio": 66.7,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 38360,
-        "seats": 207809,
+        "sales": 38363,
+        "seats": 207994,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,11 +33,11 @@
       },
       {
         "rank": 4,
-        "sales": 20841,
-        "seats": 72844,
+        "sales": 20850,
+        "seats": 73286,
         "count": null,
         "theaters": null,
-        "wowRatio": 81.4,
+        "wowRatio": 81.5,
         "movie": "私がビーバーになる時"
       },
       {
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 13178,
-        "seats": 61556,
+        "sales": 13194,
+        "seats": 62228,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,8 +78,8 @@
       },
       {
         "rank": 9,
-        "sales": 7226,
-        "seats": 24342,
+        "sales": 7236,
+        "seats": 24533,
         "count": null,
         "theaters": null,
         "wowRatio": 73.7,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 7083,
-        "seats": 40856,
+        "sales": 7088,
+        "seats": 41044,
         "count": null,
         "theaters": null,
-        "wowRatio": 64.3,
+        "wowRatio": 64.4,
         "movie": "鬼の花嫁"
       }
     ],
