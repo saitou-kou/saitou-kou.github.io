@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-20",
+    "rawDate": "20260420",
+    "title": "速報値（11:20更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 22330,
+        "seats": 224288,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.4,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 7166,
+        "seats": 47382,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 3,
+        "sales": 1084,
+        "seats": 15136,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 4,
+        "sales": 1050,
+        "seats": 20679,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 167.2,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 5,
+        "sales": 894,
+        "seats": 19186,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 101.4,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 6,
+        "sales": 852,
+        "seats": 11010,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 95.1,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 7,
+        "sales": 560,
+        "seats": 7372,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.5,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 8,
+        "sales": 544,
+        "seats": 9162,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 80.4,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 9,
+        "sales": 537,
+        "seats": 4563,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 38.1,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 10,
+        "sales": 502,
+        "seats": 9714,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58,
+        "movie": "木挽町のあだ討ち"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-19",
     "rawDate": "20260419",
     "title": "（独立系を含む）デイリー合算ランキング：20260419(日)",
