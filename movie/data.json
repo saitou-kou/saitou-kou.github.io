@@ -2,21 +2,21 @@
   {
     "date": "2026-04-21",
     "rawDate": "20260421",
-    "title": "速報値（14:19更新）",
+    "title": "速報値（16:36更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 25404,
-        "seats": 471571,
+        "sales": 37096,
+        "seats": 677256,
         "count": null,
         "theaters": null,
-        "wowRatio": 50.1,
+        "wowRatio": 52.1,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 12181,
-        "seats": 91722,
+        "sales": 15446,
+        "seats": 132245,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 2119,
-        "seats": 29952,
+        "sales": 2657,
+        "seats": 40746,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,66 +33,66 @@
       },
       {
         "rank": 4,
-        "sales": 1835,
-        "seats": 22389,
+        "sales": 2538,
+        "seats": 31696,
         "count": null,
         "theaters": null,
-        "wowRatio": 90.8,
+        "wowRatio": 92.6,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 5,
-        "sales": 1142,
-        "seats": 16814,
+        "sales": 1817,
+        "seats": 26371,
         "count": null,
         "theaters": null,
-        "wowRatio": 48,
+        "wowRatio": 59.6,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 6,
-        "sales": 1137,
-        "seats": 36889,
+        "sales": 1602,
+        "seats": 48048,
         "count": null,
         "theaters": null,
-        "wowRatio": 63.1,
+        "wowRatio": 66,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 7,
-        "sales": 1061,
-        "seats": 17961,
+        "sales": 1508,
+        "seats": 20931,
         "count": null,
         "theaters": null,
-        "wowRatio": 79.2,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 125.1,
+        "movie": "超かぐや姫！"
       },
       {
         "rank": 8,
-        "sales": 944,
-        "seats": 8686,
+        "sales": 1501,
+        "seats": 24982,
         "count": null,
         "theaters": null,
-        "wowRatio": 38.8,
-        "movie": "ハムネット"
+        "wowRatio": 84.9,
+        "movie": "ほどなく、お別れです"
       },
       {
         "rank": 9,
-        "sales": 916,
-        "seats": 10038,
+        "sales": 1177,
+        "seats": 16629,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 76.2,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 1135,
+        "seats": 13229,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ソング・サング・ブルー"
-      },
-      {
-        "rank": 10,
-        "sales": 897,
-        "seats": 11610,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 82.7,
-        "movie": "ウィキッド 永遠の約束"
       }
     ],
     "isFlash": true
