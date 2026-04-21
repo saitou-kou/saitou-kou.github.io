@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-21",
+    "rawDate": "20260421",
+    "title": "速報値（11:19更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 12273,
+        "seats": 222162,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.1,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 6026,
+        "seats": 46687,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 3,
+        "sales": 831,
+        "seats": 14738,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 4,
+        "sales": 676,
+        "seats": 10821,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 82.3,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 5,
+        "sales": 448,
+        "seats": 4759,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 38.8,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 6,
+        "sales": 426,
+        "seats": 7214,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 7,
+        "sales": 426,
+        "seats": 8918,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72.1,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 8,
+        "sales": 418,
+        "seats": 9585,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.3,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 9,
+        "sales": 395,
+        "seats": 5271,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ソング・サング・ブルー"
+      },
+      {
+        "rank": 10,
+        "sales": 387,
+        "seats": 18643,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.1,
+        "movie": "私がビーバーになる時"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-20",
     "rawDate": "20260420",
     "title": "（独立系を含む）デイリー合算ランキング：20260420(月)",
