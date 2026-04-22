@@ -2,21 +2,21 @@
   {
     "date": "2026-04-22",
     "rawDate": "20260422",
-    "title": "速報値（11:20更新）",
+    "title": "速報値（14:17更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 17147,
-        "seats": 223087,
+        "sales": 35241,
+        "seats": 472314,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.1,
+        "wowRatio": 54.1,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 2,
-        "sales": 7448,
-        "seats": 46878,
+        "sales": 15001,
+        "seats": 92175,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,75 +24,75 @@
       },
       {
         "rank": 3,
-        "sales": 961,
-        "seats": 14907,
+        "sales": 2535,
+        "seats": 22406,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 89.2,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 4,
+        "sales": 2436,
+        "seats": 30273,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
-        "rank": 4,
-        "sales": 913,
-        "seats": 10786,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 76,
-        "movie": "プロジェクト・ヘイル・メアリー"
-      },
-      {
         "rank": 5,
-        "sales": 652,
-        "seats": 7500,
+        "sales": 1676,
+        "seats": 17685,
         "count": null,
         "theaters": null,
-        "wowRatio": 49,
+        "wowRatio": 51.2,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 6,
-        "sales": 561,
-        "seats": 9066,
+        "sales": 1579,
+        "seats": 11880,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.2,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 96.2,
+        "movie": "ウィキッド 永遠の約束"
       },
       {
         "rank": 7,
-        "sales": 560,
-        "seats": 4074,
+        "sales": 1466,
+        "seats": 36608,
         "count": null,
         "theaters": null,
-        "wowRatio": 40.7,
-        "movie": "国宝"
-      },
-      {
-        "rank": 8,
-        "sales": 556,
-        "seats": 9713,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 54,
-        "movie": "木挽町のあだ討ち"
-      },
-      {
-        "rank": 9,
-        "sales": 552,
-        "seats": 18856,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 53.2,
+        "wowRatio": 57.8,
         "movie": "私がビーバーになる時"
       },
       {
-        "rank": 10,
-        "sales": 539,
-        "seats": 6215,
+        "rank": 8,
+        "sales": 1412,
+        "seats": 18203,
         "count": null,
         "theaters": null,
-        "wowRatio": 91,
-        "movie": "ウィキッド 永遠の約束"
+        "wowRatio": 75.3,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 9,
+        "sales": 1184,
+        "seats": 8688,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43.9,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 10,
+        "sales": 1178,
+        "seats": 16548,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.9,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
       }
     ],
     "isFlash": true
