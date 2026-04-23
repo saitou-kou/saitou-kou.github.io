@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-23",
+    "rawDate": "20260423",
+    "title": "速報値（11:19更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 12792,
+        "seats": 222775,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 56.9,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 2,
+        "sales": 5722,
+        "seats": 46612,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 3,
+        "sales": 862,
+        "seats": 14745,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 4,
+        "sales": 847,
+        "seats": 10782,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 114.6,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 5,
+        "sales": 615,
+        "seats": 9584,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.3,
+        "movie": "木挽町のあだ討ち"
+      },
+      {
+        "rank": 6,
+        "sales": 605,
+        "seats": 4074,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.7,
+        "movie": "国宝"
+      },
+      {
+        "rank": 7,
+        "sales": 479,
+        "seats": 8821,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 88.7,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 8,
+        "sales": 478,
+        "seats": 9553,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.2,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 9,
+        "sales": 468,
+        "seats": 6308,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 101.1,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 10,
+        "sales": 459,
+        "seats": 7504,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 45.2,
+        "movie": "鬼の花嫁"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-22",
     "rawDate": "20260422",
     "title": "（独立系を含む）デイリー合算ランキング：20260422(水)",
