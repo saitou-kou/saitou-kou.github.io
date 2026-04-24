@@ -2,12 +2,12 @@
   {
     "date": "2026-04-24",
     "rawDate": "20260424",
-    "title": "速報値（22:24更新）",
+    "title": "速報値（23:42更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 128485,
-        "seats": 1138559,
+        "sales": 128569,
+        "seats": 1141117,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 66434,
-        "seats": 563129,
+        "sales": 66543,
+        "seats": 565479,
         "count": null,
         "theaters": null,
-        "wowRatio": 59.1,
+        "wowRatio": 59.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 20572,
-        "seats": 114165,
+        "sales": 20589,
+        "seats": 114313,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -37,7 +37,7 @@
         "seats": 101918,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.4,
+        "wowRatio": 52.3,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
@@ -78,11 +78,11 @@
       },
       {
         "rank": 9,
-        "sales": 1747,
-        "seats": 26981,
+        "sales": 1750,
+        "seats": 27187,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.4,
+        "wowRatio": 70.6,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
