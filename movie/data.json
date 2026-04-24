@@ -2,12 +2,12 @@
   {
     "date": "2026-04-24",
     "rawDate": "20260424",
-    "title": "速報値（14:34更新）",
+    "title": "速報値（16:51更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 34137,
-        "seats": 554297,
+        "sales": 57045,
+        "seats": 751573,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 22156,
-        "seats": 267953,
+        "sales": 32597,
+        "seats": 367766,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.3,
+        "wowRatio": 61.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 9216,
-        "seats": 55727,
+        "sales": 11205,
+        "seats": 72076,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,66 +33,66 @@
       },
       {
         "rank": 4,
-        "sales": 8895,
-        "seats": 55460,
+        "sales": 10758,
+        "seats": 70919,
         "count": null,
         "theaters": null,
-        "wowRatio": 53,
+        "wowRatio": 54.4,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 5,
-        "sales": 1601,
-        "seats": 9101,
+        "sales": 2260,
+        "seats": 13240,
         "count": null,
         "theaters": null,
-        "wowRatio": 67.6,
+        "wowRatio": 57.7,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
-        "sales": 1334,
-        "seats": 11180,
+        "sales": 1507,
+        "seats": 12923,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.3,
+        "wowRatio": 56.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 7,
-        "sales": 1138,
-        "seats": 13437,
+        "sales": 1398,
+        "seats": 17346,
         "count": null,
         "theaters": null,
-        "wowRatio": 16.7,
+        "wowRatio": 15.9,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
         "rank": 8,
-        "sales": 901,
-        "seats": 14526,
+        "sales": 1172,
+        "seats": 18905,
         "count": null,
         "theaters": null,
-        "wowRatio": 77.1,
+        "wowRatio": 76.7,
         "movie": "ほどなく、お別れです"
       },
       {
         "rank": 9,
-        "sales": 771,
-        "seats": 24164,
+        "sales": 1141,
+        "seats": 15859,
         "count": null,
         "theaters": null,
-        "wowRatio": 62.5,
-        "movie": "私がビーバーになる時"
+        "wowRatio": 57,
+        "movie": "鬼の花嫁"
       },
       {
         "rank": 10,
-        "sales": 724,
-        "seats": 5738,
+        "sales": 991,
+        "seats": 29592,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.4,
-        "movie": "ハムネット"
+        "wowRatio": 59.2,
+        "movie": "私がビーバーになる時"
       }
     ],
     "isFlash": true
