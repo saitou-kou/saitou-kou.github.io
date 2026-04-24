@@ -2,100 +2,235 @@
   {
     "date": "2026-04-24",
     "rawDate": "20260424",
-    "title": "速報値（23:42更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260424(金)",
     "movies": [
       {
         "rank": 1,
-        "sales": 128569,
-        "seats": 1141117,
-        "count": null,
-        "theaters": null,
+        "sales": 131595,
+        "seats": 1159973,
+        "count": 4972,
+        "theaters": 270,
         "wowRatio": null,
-        "movie": "ザ・スーパーマリオギャラクシ"
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 66543,
-        "seats": 565479,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 59.2,
+        "sales": 69119,
+        "seats": 579114,
+        "count": 3062,
+        "theaters": 273,
+        "wowRatio": 59.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 20589,
-        "seats": 114313,
-        "count": null,
-        "theaters": null,
+        "sales": 21156,
+        "seats": 116414,
+        "count": 772,
+        "theaters": 162,
         "wowRatio": null,
-        "movie": "最終楽章 響け！ユーフォニア"
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
       },
       {
         "rank": 4,
-        "sales": 14726,
-        "seats": 101918,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 52.3,
+        "sales": 15241,
+        "seats": 104326,
+        "count": 924,
+        "theaters": 261,
+        "wowRatio": 52.5,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 5,
-        "sales": 5104,
-        "seats": 24426,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 63.9,
+        "sales": 5139,
+        "seats": 24508,
+        "count": 190,
+        "theaters": 107,
+        "wowRatio": 64,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
-        "sales": 3266,
-        "seats": 31623,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 18.7,
+        "sales": 3359,
+        "seats": 32516,
+        "count": 271,
+        "theaters": 122,
+        "wowRatio": 18.8,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
         "rank": 7,
-        "sales": 3197,
-        "seats": 25194,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 69.8,
+        "sales": 3283,
+        "seats": 25929,
+        "count": 211,
+        "theaters": 203,
+        "wowRatio": 69.3,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 8,
-        "sales": 1912,
-        "seats": 26080,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 65.6,
+        "sales": 1963,
+        "seats": 26538,
+        "count": 230,
+        "theaters": 238,
+        "wowRatio": 65.3,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 9,
-        "sales": 1750,
-        "seats": 27187,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 70.6,
+        "sales": 1820,
+        "seats": 27985,
+        "count": 238,
+        "theaters": 252,
+        "wowRatio": 71,
         "movie": "ゴールデンカムイ 網走監獄襲撃編"
       },
       {
         "rank": 10,
-        "sales": 1634,
-        "seats": 26611,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 90.1,
+        "sales": 1666,
+        "seats": 26986,
+        "count": 235,
+        "theaters": 248,
+        "wowRatio": 89,
         "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 11,
+        "sales": 1511,
+        "seats": 5167,
+        "count": 53,
+        "theaters": 58,
+        "wowRatio": null,
+        "movie": "あんさんぶるスターズ！！ＤＲＥＡＭ ＬＩＶＥ Ｔｏｕｒ １０ｔｈ ＡＬＬ ＳＴＡＲＳ！！ ＬＶ"
+      },
+      {
+        "rank": 12,
+        "sales": 1303,
+        "seats": 11348,
+        "count": 101,
+        "theaters": 103,
+        "wowRatio": 73.2,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 13,
+        "sales": 1143,
+        "seats": 9521,
+        "count": 82,
+        "theaters": 87,
+        "wowRatio": 50.1,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 14,
+        "sales": 1093,
+        "seats": 31326,
+        "count": 272,
+        "theaters": 252,
+        "wowRatio": 51.4,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 15,
+        "sales": 1076,
+        "seats": 29334,
+        "count": 229,
+        "theaters": 241,
+        "wowRatio": 80.5,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 16,
+        "sales": 661,
+        "seats": 12862,
+        "count": 95,
+        "theaters": 92,
+        "wowRatio": 43.5,
+        "movie": "劇場版「暗殺教室」みんなの時間"
+      },
+      {
+        "rank": 17,
+        "sales": 621,
+        "seats": 19480,
+        "count": 167,
+        "theaters": 80,
+        "wowRatio": null,
+        "movie": "ＡＲＣＯ／アルコ"
+      },
+      {
+        "rank": 18,
+        "sales": 619,
+        "seats": 12588,
+        "count": 115,
+        "theaters": 121,
+        "wowRatio": 55.4,
+        "movie": "君が最後に遺した歌"
+      },
+      {
+        "rank": 19,
+        "sales": 607,
+        "seats": 11034,
+        "count": 101,
+        "theaters": 104,
+        "wowRatio": 42.7,
+        "movie": "教場 Ｒｅｑｕｉｅｍ"
+      },
+      {
+        "rank": 20,
+        "sales": 595,
+        "seats": 30446,
+        "count": 263,
+        "theaters": 244,
+        "wowRatio": 56.8,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 21,
+        "sales": 481,
+        "seats": 6269,
+        "count": 54,
+        "theaters": 53,
+        "wowRatio": 27.5,
+        "movie": "ソング・サング・ブルー"
+      },
+      {
+        "rank": 22,
+        "sales": 454,
+        "seats": 7694,
+        "count": 65,
+        "theaters": 66,
+        "wowRatio": 33.5,
+        "movie": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女"
+      },
+      {
+        "rank": 23,
+        "sales": 397,
+        "seats": 1655,
+        "count": 14,
+        "theaters": 14,
+        "wowRatio": null,
+        "movie": "ＭＥＴ ＬＶ ワーグナー トリスタンとイゾルデ"
+      },
+      {
+        "rank": 24,
+        "sales": 391,
+        "seats": 3559,
+        "count": 31,
+        "theaters": 31,
+        "wowRatio": 68.7,
+        "movie": "シネマ歌舞伎 曽根崎心中"
+      },
+      {
+        "rank": 25,
+        "sales": 379,
+        "seats": 3674,
+        "count": 31,
+        "theaters": 33,
+        "wowRatio": 85.9,
+        "movie": "スペシャルズ"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-04-23",
