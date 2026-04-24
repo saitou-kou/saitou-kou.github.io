@@ -2,12 +2,12 @@
   {
     "date": "2026-04-24",
     "rawDate": "20260424",
-    "title": "速報値（19:08更新）",
+    "title": "速報値（20:47更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 91851,
-        "seats": 939829,
+        "sales": 117511,
+        "seats": 1057107,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 46995,
-        "seats": 465413,
+        "sales": 60453,
+        "seats": 530209,
         "count": null,
         "theaters": null,
-        "wowRatio": 60,
+        "wowRatio": 58,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 15319,
-        "seats": 92374,
+        "sales": 17839,
+        "seats": 103034,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,66 +33,66 @@
       },
       {
         "rank": 4,
-        "sales": 12384,
-        "seats": 83580,
+        "sales": 13523,
+        "seats": 91900,
         "count": null,
         "theaters": null,
-        "wowRatio": 53.3,
+        "wowRatio": 50.6,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 5,
-        "sales": 3569,
-        "seats": 18519,
+        "sales": 4682,
+        "seats": 22874,
         "count": null,
         "theaters": null,
-        "wowRatio": 64.9,
+        "wowRatio": 61.1,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 6,
-        "sales": 2396,
-        "seats": 18175,
+        "sales": 2988,
+        "seats": 23424,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.9,
+        "wowRatio": 66.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 7,
-        "sales": 2374,
-        "seats": 24742,
+        "sales": 2662,
+        "seats": 27057,
         "count": null,
         "theaters": null,
-        "wowRatio": 18,
+        "wowRatio": 17.3,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
         "rank": 8,
-        "sales": 1669,
-        "seats": 22371,
+        "sales": 1774,
+        "seats": 24023,
         "count": null,
         "theaters": null,
-        "wowRatio": 69.6,
+        "wowRatio": 64.3,
         "movie": "鬼の花嫁"
       },
       {
         "rank": 9,
-        "sales": 1511,
-        "seats": 5167,
+        "sales": 1550,
+        "seats": 25331,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "あんさんぶるスターズ！！ＤＲ"
+        "wowRatio": 88.8,
+        "movie": "ほどなく、お別れです"
       },
       {
         "rank": 10,
-        "sales": 1457,
-        "seats": 23660,
+        "sales": 1536,
+        "seats": 22590,
         "count": null,
         "theaters": null,
-        "wowRatio": 88.4,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 63.2,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
       }
     ],
     "isFlash": true
