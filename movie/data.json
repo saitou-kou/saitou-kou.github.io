@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-24",
+    "rawDate": "20260424",
+    "title": "速報値（11:17更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 16473,
+        "seats": 269909,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシ"
+      },
+      {
+        "rank": 2,
+        "sales": 10202,
+        "seats": 136104,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 5236,
+        "seats": 29834,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "最終楽章 響け！ユーフォニア"
+      },
+      {
+        "rank": 4,
+        "sales": 4102,
+        "seats": 30932,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 5,
+        "sales": 925,
+        "seats": 5245,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 75,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 6,
+        "sales": 509,
+        "seats": 7598,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 12.6,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 7,
+        "sales": 471,
+        "seats": 4503,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 98.9,
+        "movie": "ハムネット"
+      },
+      {
+        "rank": 8,
+        "sales": 350,
+        "seats": 8111,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 83.5,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 9,
+        "sales": 348,
+        "seats": 3068,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 85.5,
+        "movie": "シネマ歌舞伎 曽根崎心中"
+      },
+      {
+        "rank": 10,
+        "sales": 328,
+        "seats": 4795,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.3,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-23",
     "rawDate": "20260423",
     "title": "（独立系を含む）デイリー合算ランキング：20260423(木)",
