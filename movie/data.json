@@ -2,12 +2,12 @@
   {
     "date": "2026-04-25",
     "rawDate": "20260425",
-    "title": "速報値（19:28更新）",
+    "title": "速報値（20:26更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 296734,
-        "seats": 957877,
+        "sales": 307879,
+        "seats": 1018864,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,26 +15,26 @@
       },
       {
         "rank": 2,
-        "sales": 162558,
-        "seats": 488630,
+        "sales": 172534,
+        "seats": 521047,
         "count": null,
         "theaters": null,
-        "wowRatio": 56,
+        "wowRatio": 54.3,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 20947,
-        "seats": 78956,
+        "sales": 21803,
+        "seats": 83405,
         "count": null,
         "theaters": null,
-        "wowRatio": 65.5,
+        "wowRatio": 63.7,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 4,
-        "sales": 16422,
-        "seats": 77934,
+        "sales": 16906,
+        "seats": 81134,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,11 +42,11 @@
       },
       {
         "rank": 5,
-        "sales": 9278,
-        "seats": 17640,
+        "sales": 10084,
+        "seats": 20706,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.7,
+        "wowRatio": 72.7,
         "movie": "超かぐや姫！"
       },
       {
@@ -64,34 +64,34 @@
         "seats": 32554,
         "count": null,
         "theaters": null,
-        "wowRatio": 43.5,
+        "wowRatio": 43.2,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 8,
-        "sales": 5429,
-        "seats": 14141,
+        "sales": 6065,
+        "seats": 17319,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.8,
+        "wowRatio": 56.3,
         "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 9,
-        "sales": 5390,
-        "seats": 23060,
+        "sales": 5528,
+        "seats": 23899,
         "count": null,
         "theaters": null,
-        "wowRatio": 41.4,
+        "wowRatio": 40.4,
         "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
       },
       {
         "rank": 10,
-        "sales": 3610,
-        "seats": 19700,
+        "sales": 3735,
+        "seats": 21110,
         "count": null,
         "theaters": null,
-        "wowRatio": 66.7,
+        "wowRatio": 65.4,
         "movie": "鬼の花嫁"
       }
     ],
