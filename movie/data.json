@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-25",
+    "rawDate": "20260425",
+    "title": "速報値（11:17更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 84965,
+        "seats": 291249,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 37715,
+        "seats": 148573,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 48.4,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 5688,
+        "seats": 30447,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.1,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 4,
+        "sales": 3683,
+        "seats": 17383,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 5,
+        "sales": 2616,
+        "seats": 22991,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.5,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 6,
+        "sales": 2448,
+        "seats": 5026,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 53.1,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 7,
+        "sales": 1794,
+        "seats": 15292,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.1,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 8,
+        "sales": 1004,
+        "seats": 6598,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 27.4,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 9,
+        "sales": 903,
+        "seats": 17386,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.2,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 10,
+        "sales": 899,
+        "seats": 3938,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "幕が下りたら会いましょう"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-24",
     "rawDate": "20260424",
     "title": "（独立系を含む）デイリー合算ランキング：20260424(金)",
