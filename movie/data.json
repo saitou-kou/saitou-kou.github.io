@@ -2,12 +2,12 @@
   {
     "date": "2026-04-26",
     "rawDate": "20260426",
-    "title": "速報値（22:03更新）",
+    "title": "速報値（23:40更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 366582,
-        "seats": 1136014,
+        "sales": 366622,
+        "seats": 1137852,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 217936,
-        "seats": 593342,
+        "sales": 217959,
+        "seats": 593940,
         "count": null,
         "theaters": null,
         "wowRatio": 59.2,
@@ -28,13 +28,13 @@
         "seats": 99500,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.1,
+        "wowRatio": 71,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 4,
-        "sales": 15476,
-        "seats": 98083,
+        "sales": 15484,
+        "seats": 98220,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 9961,
-        "seats": 20808,
+        "sales": 9965,
+        "seats": 20956,
         "count": null,
         "theaters": null,
         "wowRatio": 68.1,
