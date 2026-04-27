@@ -2,12 +2,12 @@
   {
     "date": "2026-04-27",
     "rawDate": "20260427",
-    "title": "速報値（22:44更新）",
+    "title": "速報値（23:43更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 72285,
-        "seats": 1104460,
+        "sales": 72302,
+        "seats": 1105276,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 63529,
-        "seats": 561205,
+        "sales": 63539,
+        "seats": 561456,
         "count": null,
         "theaters": null,
         "wowRatio": 68.5,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 6660,
-        "seats": 107869,
+        "sales": 6662,
+        "seats": 108006,
         "count": null,
         "theaters": null,
         "wowRatio": null,
