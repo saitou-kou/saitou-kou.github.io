@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-27",
+    "rawDate": "20260427",
+    "title": "速報値（11:38更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 23560,
+        "seats": 285070,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 17700,
+        "seats": 142498,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 66.8,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 4995,
+        "seats": 30811,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.3,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 4,
+        "sales": 1782,
+        "seats": 27437,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 5,
+        "sales": 1057,
+        "seats": 19693,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 76.9,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 6,
+        "sales": 926,
+        "seats": 15202,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.3,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 7,
+        "sales": 622,
+        "seats": 7901,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43.5,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 8,
+        "sales": 516,
+        "seats": 5392,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 37.4,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 9,
+        "sales": 509,
+        "seats": 9018,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72.1,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 10,
+        "sales": 471,
+        "seats": 4695,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.4,
+        "movie": "超かぐや姫！"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-26",
     "rawDate": "20260426",
     "title": "（独立系を含む）デイリー合算ランキング：20260426(日)",
