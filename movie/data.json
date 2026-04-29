@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-29",
+    "rawDate": "20260429",
+    "title": "速報値（13:15更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 175354,
+        "seats": 284720,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 91876,
+        "seats": 151029,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 302,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 83497,
+        "seats": 103481,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 4,
+        "sales": 28347,
+        "seats": 38651,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 5,
+        "sales": 10844,
+        "seats": 25897,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77.9,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 6,
+        "sales": 9178,
+        "seats": 20798,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 1425,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 7,
+        "sales": 5211,
+        "seats": 22728,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 8,
+        "sales": 5203,
+        "seats": 14007,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 442.8,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 9,
+        "sales": 1797,
+        "seats": 17005,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 315.3,
+        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+      },
+      {
+        "rank": 10,
+        "sales": 1564,
+        "seats": 2629,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72.8,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-28",
     "rawDate": "20260428",
     "title": "（独立系を含む）デイリー合算ランキング：20260428(火)",
