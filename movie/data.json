@@ -2,12 +2,12 @@
   {
     "date": "2026-04-29",
     "rawDate": "20260429",
-    "title": "速報値（13:15更新）",
+    "title": "速報値（16:13更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 175354,
-        "seats": 284720,
+        "sales": 296502,
+        "seats": 483005,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 91876,
-        "seats": 151029,
+        "sales": 161880,
+        "seats": 260925,
         "count": null,
         "theaters": null,
-        "wowRatio": 302,
+        "wowRatio": 316.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 83497,
-        "seats": 103481,
+        "sales": 157379,
+        "seats": 195572,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 28347,
-        "seats": 38651,
+        "sales": 38747,
+        "seats": 54821,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,26 +42,26 @@
       },
       {
         "rank": 5,
-        "sales": 10844,
-        "seats": 25897,
+        "sales": 19569,
+        "seats": 41035,
         "count": null,
         "theaters": null,
-        "wowRatio": 77.9,
+        "wowRatio": 103.5,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 6,
-        "sales": 9178,
-        "seats": 20798,
+        "sales": 11978,
+        "seats": 26157,
         "count": null,
         "theaters": null,
-        "wowRatio": 1425,
+        "wowRatio": 1067,
         "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
         "rank": 7,
-        "sales": 5211,
-        "seats": 22728,
+        "sales": 9564,
+        "seats": 42566,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,29 +69,29 @@
       },
       {
         "rank": 8,
-        "sales": 5203,
-        "seats": 14007,
+        "sales": 8812,
+        "seats": 21697,
         "count": null,
         "theaters": null,
-        "wowRatio": 442.8,
+        "wowRatio": 419.2,
         "movie": "私がビーバーになる時"
       },
       {
         "rank": 9,
-        "sales": 1797,
-        "seats": 17005,
+        "sales": 2922,
+        "seats": 4975,
         "count": null,
         "theaters": null,
-        "wowRatio": 315.3,
-        "movie": "映画 えんとつ町のプペル ～約束の時計台～"
+        "wowRatio": 177.7,
+        "movie": "超かぐや姫！"
       },
       {
         "rank": 10,
-        "sales": 1564,
-        "seats": 2629,
+        "sales": 2577,
+        "seats": 3898,
         "count": null,
         "theaters": null,
-        "wowRatio": 72.8,
+        "wowRatio": 71.1,
         "movie": "プロジェクト・ヘイル・メアリー"
       }
     ],
