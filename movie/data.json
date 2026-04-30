@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-04-30",
+    "rawDate": "20260430",
+    "title": "速報値（12:17更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 33869,
+        "seats": 109830,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 2,
+        "sales": 20616,
+        "seats": 130078,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 113.9,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 12682,
+        "seats": 233285,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 4,
+        "sales": 6692,
+        "seats": 30907,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 5,
+        "sales": 4980,
+        "seats": 26148,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 6,
+        "sales": 1577,
+        "seats": 22028,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 7,
+        "sales": 971,
+        "seats": 4235,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 65.6,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 8,
+        "sales": 769,
+        "seats": 7654,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 9,
+        "sales": 684,
+        "seats": 14004,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 97.7,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 10,
+        "sales": 629,
+        "seats": 7387,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 67.8,
+        "movie": "ほどなく、お別れです"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-04-29",
     "rawDate": "20260429",
     "title": "（独立系を含む）デイリー合算ランキング：20260429(水)",
