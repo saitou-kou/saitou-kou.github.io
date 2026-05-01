@@ -2,12 +2,12 @@
   {
     "date": "2026-05-01",
     "rawDate": "20260501",
-    "title": "速報値（22:41更新）",
+    "title": "速報値（23:39更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 208143,
-        "seats": 476512,
+        "sales": 208676,
+        "seats": 477378,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 108756,
-        "seats": 443771,
+        "sales": 108804,
+        "seats": 444144,
         "count": null,
         "theaters": null,
-        "wowRatio": 147.9,
+        "wowRatio": 147.8,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 105620,
-        "seats": 654532,
+        "sales": 105632,
+        "seats": 654783,
         "count": null,
         "theaters": null,
         "wowRatio": 76.1,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 72365,
-        "seats": 270999,
+        "sales": 72412,
+        "seats": 271401,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 20129,
-        "seats": 89224,
+        "sales": 20162,
+        "seats": 89372,
         "count": null,
         "theaters": null,
         "wowRatio": null,
