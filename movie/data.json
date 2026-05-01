@@ -2,12 +2,12 @@
   {
     "date": "2026-05-01",
     "rawDate": "20260501",
-    "title": "速報値（20:44更新）",
+    "title": "速報値（22:41更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 188012,
-        "seats": 433022,
+        "sales": 208143,
+        "seats": 476512,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,26 +15,26 @@
       },
       {
         "rank": 2,
-        "sales": 101637,
-        "seats": 412728,
+        "sales": 108756,
+        "seats": 443771,
         "count": null,
         "theaters": null,
-        "wowRatio": 149.9,
+        "wowRatio": 147.9,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 100707,
-        "seats": 615336,
+        "sales": 105620,
+        "seats": 654532,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.9,
+        "wowRatio": 76.1,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 4,
-        "sales": 68409,
-        "seats": 251050,
+        "sales": 72365,
+        "seats": 270999,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 17269,
-        "seats": 77012,
+        "sales": 20129,
+        "seats": 89224,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,35 +51,35 @@
       },
       {
         "rank": 6,
-        "sales": 15848,
-        "seats": 20584,
+        "sales": 17282,
+        "seats": 22890,
         "count": null,
         "theaters": null,
-        "wowRatio": 329.3,
+        "wowRatio": 338.6,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 7,
-        "sales": 15404,
-        "seats": 72054,
+        "sales": 16182,
+        "seats": 78710,
         "count": null,
         "theaters": null,
-        "wowRatio": 102,
+        "wowRatio": 101.4,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 8,
-        "sales": 9960,
-        "seats": 46797,
+        "sales": 11269,
+        "seats": 54109,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.6,
+        "wowRatio": 51.3,
         "movie": "最終楽章 響け！ユーフォニアム 前編"
       },
       {
         "rank": 9,
-        "sales": 7173,
-        "seats": 29917,
+        "sales": 7735,
+        "seats": 33139,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 4119,
-        "seats": 12173,
+        "sales": 4399,
+        "seats": 13896,
         "count": null,
         "theaters": null,
-        "wowRatio": 113.8,
+        "wowRatio": 119.4,
         "movie": "プロジェクト・ヘイル・メアリー"
       }
     ],
