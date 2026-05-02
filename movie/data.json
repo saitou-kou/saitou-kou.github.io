@@ -2,12 +2,12 @@
   {
     "date": "2026-05-02",
     "rawDate": "20260502",
-    "title": "速報値（23:39更新）",
+    "title": "速報値（23:58更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 221556,
-        "seats": 763348,
+        "sales": 221570,
+        "seats": 763735,
         "count": null,
         "theaters": null,
         "wowRatio": 64.9,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 159823,
-        "seats": 481721,
+        "sales": 159835,
+        "seats": 481847,
         "count": null,
         "theaters": null,
         "wowRatio": 78.6,
