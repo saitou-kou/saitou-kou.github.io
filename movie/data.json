@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-02",
+    "rawDate": "20260502",
+    "title": "速報値（11:37更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 73641,
+        "seats": 246709,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 42787,
+        "seats": 138647,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 88.6,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 35475,
+        "seats": 97011,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 24838,
+        "seats": 77513,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 6199,
+        "seats": 29729,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 6,
+        "sales": 4242,
+        "seats": 28058,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.1,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 7,
+        "sales": 3869,
+        "seats": 21425,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 118.6,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 8,
+        "sales": 2966,
+        "seats": 3800,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 100.8,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 9,
+        "sales": 2850,
+        "seats": 14324,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.5,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 10,
+        "sales": 2038,
+        "seats": 10633,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "サンキュー、チャック"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-01",
     "rawDate": "20260501",
     "title": "（独立系を含む）デイリー合算ランキング：20260501(金)",
