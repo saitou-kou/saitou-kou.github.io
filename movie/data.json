@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-03",
+    "rawDate": "20260503",
+    "title": "速報値（11:37更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 99720,
+        "seats": 226745,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.9,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 59977,
+        "seats": 128163,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 75.3,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 39960,
+        "seats": 90534,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 30015,
+        "seats": 71880,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 6099,
+        "seats": 26154,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.8,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 6,
+        "sales": 6007,
+        "seats": 20052,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 84.6,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 7,
+        "sales": 5318,
+        "seats": 27977,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 8,
+        "sales": 2938,
+        "seats": 14131,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 9,
+        "sales": 2752,
+        "seats": 13473,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43.9,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 10,
+        "sales": 2147,
+        "seats": 3399,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58.7,
+        "movie": "超かぐや姫！"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-02",
     "rawDate": "20260502",
     "title": "（独立系を含む）デイリー合算ランキング：20260502(土)",
