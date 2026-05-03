@@ -2,12 +2,12 @@
   {
     "date": "2026-05-03",
     "rawDate": "20260503",
-    "title": "速報値（22:02更新）",
+    "title": "速報値（23:39更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 300454,
-        "seats": 737770,
+        "sales": 300535,
+        "seats": 739164,
         "count": null,
         "theaters": null,
         "wowRatio": 77.5,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 206822,
-        "seats": 468701,
+        "sales": 206894,
+        "seats": 469303,
         "count": null,
         "theaters": null,
         "wowRatio": 88,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 158253,
-        "seats": 352089,
+        "sales": 158551,
+        "seats": 353079,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 101374,
-        "seats": 265099,
+        "sales": 101441,
+        "seats": 266252,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 21562,
-        "seats": 76911,
+        "sales": 21568,
+        "seats": 77099,
         "count": null,
         "theaters": null,
         "wowRatio": 73.6,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 15990,
-        "seats": 85574,
+        "sales": 16016,
+        "seats": 85926,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,20 +69,20 @@
       },
       {
         "rank": 8,
-        "sales": 9939,
-        "seats": 20598,
+        "sales": 9955,
+        "seats": 20736,
         "count": null,
         "theaters": null,
-        "wowRatio": 99.8,
+        "wowRatio": 99.9,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 9,
-        "sales": 9346,
-        "seats": 51733,
+        "sales": 9360,
+        "seats": 51963,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.7,
+        "wowRatio": 56.8,
         "movie": "最終楽章 響け！ユーフォニアム 前編"
       },
       {
