@@ -2,30 +2,30 @@
   {
     "date": "2026-05-03",
     "rawDate": "20260503",
-    "title": "速報値（20:25更新）",
+    "title": "速報値（22:02更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 294697,
-        "seats": 680956,
+        "sales": 300454,
+        "seats": 737770,
         "count": null,
         "theaters": null,
-        "wowRatio": 76.6,
+        "wowRatio": 77.5,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 195617,
-        "seats": 415151,
+        "sales": 206822,
+        "seats": 468701,
         "count": null,
         "theaters": null,
-        "wowRatio": 84.4,
+        "wowRatio": 88,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 143107,
-        "seats": 302562,
+        "sales": 158253,
+        "seats": 352089,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 96376,
-        "seats": 231599,
+        "sales": 101374,
+        "seats": 265099,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,17 +42,17 @@
       },
       {
         "rank": 5,
-        "sales": 20467,
-        "seats": 66854,
+        "sales": 21562,
+        "seats": 76911,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.5,
+        "wowRatio": 73.6,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 6,
-        "sales": 14699,
-        "seats": 72731,
+        "sales": 15990,
+        "seats": 85574,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,29 +69,29 @@
       },
       {
         "rank": 8,
-        "sales": 9453,
-        "seats": 17472,
+        "sales": 9939,
+        "seats": 20598,
         "count": null,
         "theaters": null,
-        "wowRatio": 95.9,
+        "wowRatio": 99.8,
         "movie": "超かぐや姫！"
       },
       {
         "rank": 9,
-        "sales": 8720,
-        "seats": 42411,
+        "sales": 9346,
+        "seats": 51733,
         "count": null,
         "theaters": null,
-        "wowRatio": 55,
+        "wowRatio": 56.7,
         "movie": "最終楽章 響け！ユーフォニアム 前編"
       },
       {
         "rank": 10,
-        "sales": 7687,
-        "seats": 27427,
+        "sales": 7703,
+        "seats": 27496,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.4,
+        "wowRatio": 78.3,
         "movie": "私がビーバーになる時"
       }
     ],
