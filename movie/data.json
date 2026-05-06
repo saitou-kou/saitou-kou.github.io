@@ -2,30 +2,30 @@
   {
     "date": "2026-05-06",
     "rawDate": "20260506",
-    "title": "速報値（11:38更新）",
+    "title": "速報値（14:54更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 114098,
-        "seats": 253549,
+        "sales": 212948,
+        "seats": 442860,
         "count": null,
         "theaters": null,
-        "wowRatio": 81.5,
+        "wowRatio": 78.7,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 63659,
-        "seats": 141805,
+        "sales": 123669,
+        "seats": 254987,
         "count": null,
         "theaters": null,
-        "wowRatio": 84.8,
+        "wowRatio": 82.9,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 47519,
-        "seats": 101868,
+        "sales": 93433,
+        "seats": 180640,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,53 +33,53 @@
       },
       {
         "rank": 4,
-        "sales": 29869,
-        "seats": 79141,
+        "sales": 61592,
+        "seats": 146113,
         "count": null,
         "theaters": null,
-        "wowRatio": 35.5,
+        "wowRatio": 38.9,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 7627,
-        "seats": 22979,
+        "sales": 14591,
+        "seats": 42080,
         "count": null,
         "theaters": null,
-        "wowRatio": 101.2,
-        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
-      },
-      {
-        "rank": 6,
-        "sales": 7279,
-        "seats": 28866,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 80.5,
+        "wowRatio": 83.2,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
-        "rank": 7,
-        "sales": 3968,
-        "seats": 15406,
+        "rank": 6,
+        "sales": 10415,
+        "seats": 28752,
         "count": null,
         "theaters": null,
-        "wowRatio": 103,
-        "movie": "私がビーバーになる時"
+        "wowRatio": 84.5,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
       },
       {
-        "rank": 8,
-        "sales": 3857,
-        "seats": 28747,
+        "rank": 7,
+        "sales": 7139,
+        "seats": 45600,
         "count": null,
         "theaters": null,
-        "wowRatio": 17.6,
+        "wowRatio": 19.1,
         "movie": "アギト－超能力戦争－"
       },
       {
+        "rank": 8,
+        "sales": 6959,
+        "seats": 21708,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 84.9,
+        "movie": "私がビーバーになる時"
+      },
+      {
         "rank": 9,
-        "sales": 3019,
-        "seats": 10649,
+        "sales": 5293,
+        "seats": 16786,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 2545,
-        "seats": 14228,
+        "sales": 4996,
+        "seats": 23717,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.2,
+        "wowRatio": 58.6,
         "movie": "最終楽章 響け！ユーフォニアム 前編"
       }
     ],
