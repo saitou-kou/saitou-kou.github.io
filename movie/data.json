@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-06",
+    "rawDate": "20260506",
+    "title": "速報値（11:38更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 114098,
+        "seats": 253549,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 81.5,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 63659,
+        "seats": 141805,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 84.8,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 47519,
+        "seats": 101868,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 29869,
+        "seats": 79141,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 35.5,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 7627,
+        "seats": 22979,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 101.2,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      },
+      {
+        "rank": 6,
+        "sales": 7279,
+        "seats": 28866,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 80.5,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 7,
+        "sales": 3968,
+        "seats": 15406,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 103,
+        "movie": "私がビーバーになる時"
+      },
+      {
+        "rank": 8,
+        "sales": 3857,
+        "seats": 28747,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 17.6,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 9,
+        "sales": 3019,
+        "seats": 10649,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "サンキュー、チャック"
+      },
+      {
+        "rank": 10,
+        "sales": 2545,
+        "seats": 14228,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58.2,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-05",
     "rawDate": "20260505",
     "title": "（独立系を含む）デイリー合算ランキング：20260505(火)",
