@@ -2,12 +2,12 @@
   {
     "date": "2026-05-07",
     "rawDate": "20260507",
-    "title": "速報値（14:56更新）",
+    "title": "速報値（18:30更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 44977,
-        "seats": 221632,
+        "sales": 59837,
+        "seats": 343638,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,84 +15,84 @@
       },
       {
         "rank": 2,
-        "sales": 18762,
-        "seats": 146481,
+        "sales": 27381,
+        "seats": 344944,
         "count": null,
         "theaters": null,
-        "wowRatio": 26.8,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
-      },
-      {
-        "rank": 3,
-        "sales": 18501,
-        "seats": 222665,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 45.1,
+        "wowRatio": 46.1,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
-        "rank": 4,
-        "sales": 11737,
-        "seats": 347991,
+        "rank": 3,
+        "sales": 23511,
+        "seats": 219791,
         "count": null,
         "theaters": null,
-        "wowRatio": 41.8,
+        "wowRatio": 28.6,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 4,
+        "sales": 19393,
+        "seats": 517112,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 41.4,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 5,
-        "sales": 5538,
-        "seats": 46573,
+        "sales": 7210,
+        "seats": 64805,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.1,
+        "wowRatio": 53.3,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 6,
-        "sales": 3018,
-        "seats": 18948,
+        "sales": 3798,
+        "seats": 67465,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 23.6,
+        "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 7,
+        "sales": 3769,
+        "seats": 25938,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "サンキュー、チャック"
       },
       {
-        "rank": 7,
-        "sales": 2883,
-        "seats": 47048,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 22.7,
-        "movie": "アギト－超能力戦争－"
-      },
-      {
         "rank": 8,
-        "sales": 1624,
-        "seats": 26033,
+        "sales": 2436,
+        "seats": 39936,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.5,
+        "wowRatio": 53.6,
         "movie": "最終楽章 響け！ユーフォニアム 前編"
       },
       {
         "rank": 9,
-        "sales": 1219,
-        "seats": 12746,
+        "sales": 2004,
+        "seats": 9651,
         "count": null,
         "theaters": null,
-        "wowRatio": 107,
-        "movie": "ほどなく、お別れです"
+        "wowRatio": 56.5,
+        "movie": "プロジェクト・ヘイル・メアリー"
       },
       {
         "rank": 10,
-        "sales": 917,
-        "seats": 4849,
+        "sales": 1636,
+        "seats": 17845,
         "count": null,
         "theaters": null,
-        "wowRatio": 49.3,
-        "movie": "プロジェクト・ヘイル・メアリー"
+        "wowRatio": 93.2,
+        "movie": "ほどなく、お別れです"
       }
     ],
     "isFlash": true
