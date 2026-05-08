@@ -2,12 +2,12 @@
   {
     "date": "2026-05-08",
     "rawDate": "20260508",
-    "title": "速報値（22:42更新）",
+    "title": "速報値（23:40更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 67504,
-        "seats": 456076,
+        "sales": 67542,
+        "seats": 456302,
         "count": null,
         "theaters": null,
         "wowRatio": 32.4,
@@ -24,7 +24,7 @@
       },
       {
         "rank": 3,
-        "sales": 27174,
+        "sales": 27183,
         "seats": 123184,
         "count": null,
         "theaters": null,
@@ -37,7 +37,7 @@
         "seats": 436099,
         "count": null,
         "theaters": null,
-        "wowRatio": 24,
+        "wowRatio": 23.9,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
@@ -69,8 +69,8 @@
       },
       {
         "rank": 8,
-        "sales": 12970,
-        "seats": 97159,
+        "sales": 12978,
+        "seats": 97428,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 5928,
-        "seats": 59967,
+        "sales": 5932,
+        "seats": 60036,
         "count": null,
         "theaters": null,
-        "wowRatio": 36.6,
+        "wowRatio": 36.7,
         "movie": "人はなぜラブレターを書くのか"
       }
     ],
