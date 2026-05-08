@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-08",
+    "rawDate": "20260508",
+    "title": "速報値（11:38更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 15572,
+        "seats": 108691,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 24.8,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 2,
+        "sales": 7006,
+        "seats": 29892,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版 魔法科高校の劣等生"
+      },
+      {
+        "rank": 3,
+        "sales": 6469,
+        "seats": 91008,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 22.3,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 5828,
+        "seats": 51710,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 25.3,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 4114,
+        "seats": 16520,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ラブライブ！蓮ノ空女学院スク"
+      },
+      {
+        "rank": 6,
+        "sales": 3935,
+        "seats": 124617,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 17.1,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 7,
+        "sales": 3778,
+        "seats": 28636,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 8,
+        "sales": 2910,
+        "seats": 24410,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "未来"
+      },
+      {
+        "rank": 9,
+        "sales": 2724,
+        "seats": 24833,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "グランド・イリュージョン／ダ"
+      },
+      {
+        "rank": 10,
+        "sales": 1807,
+        "seats": 20209,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 34.3,
+        "movie": "人はなぜラブレターを書くのか"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-07",
     "rawDate": "20260507",
     "title": "（独立系を含む）デイリー合算ランキング：20260507(木)",
