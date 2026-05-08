@@ -2,96 +2,96 @@
   {
     "date": "2026-05-08",
     "rawDate": "20260508",
-    "title": "速報値（11:38更新）",
+    "title": "速報値（14:15更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 15572,
-        "seats": 108691,
+        "sales": 31563,
+        "seats": 200667,
         "count": null,
         "theaters": null,
-        "wowRatio": 24.8,
+        "wowRatio": 30.6,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 2,
-        "sales": 7006,
-        "seats": 29892,
+        "sales": 13283,
+        "seats": 164125,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 26.2,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 12169,
+        "seats": 55965,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "劇場版 魔法科高校の劣等生"
       },
       {
-        "rank": 3,
-        "sales": 6469,
-        "seats": 91008,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 22.3,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
         "rank": 4,
-        "sales": 5828,
-        "seats": 51710,
+        "sales": 11616,
+        "seats": 95687,
         "count": null,
         "theaters": null,
-        "wowRatio": 25.3,
+        "wowRatio": 30.5,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 4114,
-        "seats": 16520,
+        "sales": 8242,
+        "seats": 222527,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "ラブライブ！蓮ノ空女学院スク"
-      },
-      {
-        "rank": 6,
-        "sales": 3935,
-        "seats": 124617,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 17.1,
+        "wowRatio": 19.5,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
-        "rank": 7,
-        "sales": 3778,
-        "seats": 28636,
+        "rank": 6,
+        "sales": 6835,
+        "seats": 49928,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ひつじ探偵団"
       },
       {
-        "rank": 8,
-        "sales": 2910,
-        "seats": 24410,
+        "rank": 7,
+        "sales": 6214,
+        "seats": 26491,
         "count": null,
         "theaters": null,
         "wowRatio": null,
-        "movie": "未来"
+        "movie": "ラブライブ！蓮ノ空女学院スク"
       },
       {
-        "rank": 9,
-        "sales": 2724,
-        "seats": 24833,
+        "rank": 8,
+        "sales": 5495,
+        "seats": 44329,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "グランド・イリュージョン／ダ"
       },
       {
-        "rank": 10,
-        "sales": 1807,
-        "seats": 20209,
+        "rank": 9,
+        "sales": 5422,
+        "seats": 42723,
         "count": null,
         "theaters": null,
-        "wowRatio": 34.3,
+        "wowRatio": null,
+        "movie": "未来"
+      },
+      {
+        "rank": 10,
+        "sales": 3247,
+        "seats": 32080,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 33.4,
         "movie": "人はなぜラブレターを書くのか"
       }
     ],
