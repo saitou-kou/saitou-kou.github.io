@@ -2,48 +2,48 @@
   {
     "date": "2026-05-09",
     "rawDate": "20260509",
-    "title": "速報値（14:36更新）",
+    "title": "速報値（16:52更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 68886,
-        "seats": 335940,
+        "sales": 93501,
+        "seats": 444927,
         "count": null,
         "theaters": null,
-        "wowRatio": 45.9,
+        "wowRatio": 48.4,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 50175,
-        "seats": 161352,
+        "sales": 71976,
+        "seats": 218533,
         "count": null,
         "theaters": null,
-        "wowRatio": 67,
+        "wowRatio": 72.4,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 44389,
-        "seats": 198231,
+        "sales": 64417,
+        "seats": 264919,
         "count": null,
         "theaters": null,
-        "wowRatio": 48.7,
+        "wowRatio": 51.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 4,
-        "sales": 31640,
-        "seats": 107149,
+        "sales": 43839,
+        "seats": 145339,
         "count": null,
         "theaters": null,
-        "wowRatio": 57.9,
+        "wowRatio": 64.9,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 13819,
-        "seats": 44077,
+        "sales": 19604,
+        "seats": 61994,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 12779,
-        "seats": 43412,
+        "sales": 18410,
+        "seats": 60282,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,8 +60,8 @@
       },
       {
         "rank": 7,
-        "sales": 9054,
-        "seats": 39962,
+        "sales": 11988,
+        "seats": 53683,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 8,
-        "sales": 6985,
-        "seats": 41587,
+        "sales": 9058,
+        "seats": 54791,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,21 +78,21 @@
       },
       {
         "rank": 9,
-        "sales": 4994,
-        "seats": 22531,
+        "sales": 7027,
+        "seats": 36631,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.3,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 10,
+        "sales": 6698,
+        "seats": 30899,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ"
-      },
-      {
-        "rank": 10,
-        "sales": 4713,
-        "seats": 27628,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 49.2,
-        "movie": "人はなぜラブレターを書くのか"
       }
     ],
     "isFlash": true
