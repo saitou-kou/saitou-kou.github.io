@@ -2,48 +2,48 @@
   {
     "date": "2026-05-09",
     "rawDate": "20260509",
-    "title": "速報値（20:47更新）",
+    "title": "速報値（22:04更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 109901,
-        "seats": 570616,
+        "sales": 112513,
+        "seats": 600355,
         "count": null,
         "theaters": null,
-        "wowRatio": 49.8,
+        "wowRatio": 50.8,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 100289,
-        "seats": 326513,
+        "sales": 108372,
+        "seats": 357854,
         "count": null,
         "theaters": null,
-        "wowRatio": 72.6,
+        "wowRatio": 74.4,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 85333,
-        "seats": 381262,
+        "sales": 89781,
+        "seats": 409042,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.6,
+        "wowRatio": 56.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 4,
-        "sales": 57158,
-        "seats": 214738,
+        "sales": 59820,
+        "seats": 233055,
         "count": null,
         "theaters": null,
-        "wowRatio": 67.7,
+        "wowRatio": 69.2,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 25557,
-        "seats": 92564,
+        "sales": 27906,
+        "seats": 102168,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 25459,
-        "seats": 87038,
+        "sales": 27696,
+        "seats": 99288,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,8 +60,8 @@
       },
       {
         "rank": 7,
-        "sales": 16267,
-        "seats": 77527,
+        "sales": 18422,
+        "seats": 90346,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 8,
-        "sales": 11082,
-        "seats": 81258,
+        "sales": 11722,
+        "seats": 89680,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,8 +78,8 @@
       },
       {
         "rank": 9,
-        "sales": 9624,
-        "seats": 46823,
+        "sales": 9966,
+        "seats": 50212,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 9540,
-        "seats": 52620,
+        "sales": 9871,
+        "seats": 56623,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.6,
+        "wowRatio": 61.1,
         "movie": "人はなぜラブレターを書くのか"
       }
     ],
