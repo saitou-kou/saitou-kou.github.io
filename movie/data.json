@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-10",
+    "rawDate": "20260510",
+    "title": "速報値（11:37更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 44536,
+        "seats": 184479,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 41.4,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 31197,
+        "seats": 111652,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 48.7,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 3,
+        "sales": 27526,
+        "seats": 87416,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.8,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 16982,
+        "seats": 57711,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 48.7,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 8157,
+        "seats": 26396,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 6,
+        "sales": 6503,
+        "seats": 27630,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 7,
+        "sales": 4271,
+        "seats": 22916,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "グランド・イリュージョン／ダイヤモンド・ミッション"
+      },
+      {
+        "rank": 8,
+        "sales": 3514,
+        "seats": 24261,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "未来"
+      },
+      {
+        "rank": 9,
+        "sales": 3345,
+        "seats": 19252,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.3,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 10,
+        "sales": 3257,
+        "seats": 23237,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.7,
+        "movie": "映画ドラえもん 新・のび太の海底鬼岩城"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-09",
     "rawDate": "20260509",
     "title": "（独立系を含む）デイリー合算ランキング：20260509(土)",
