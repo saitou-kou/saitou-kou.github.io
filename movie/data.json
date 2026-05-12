@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-12",
+    "rawDate": "20260512",
+    "title": "速報値（12:29更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 19520,
+        "seats": 153014,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 37,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 2,
+        "sales": 9200,
+        "seats": 81903,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 23.5,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 3,
+        "sales": 6742,
+        "seats": 113911,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 8.8,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 3552,
+        "seats": 151438,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 2.9,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 5,
+        "sales": 3257,
+        "seats": 35611,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 6,
+        "sales": 2774,
+        "seats": 35008,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "未来"
+      },
+      {
+        "rank": 7,
+        "sales": 2105,
+        "seats": 34606,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 8,
+        "sales": 1953,
+        "seats": 24675,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 24.7,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 9,
+        "sales": 1753,
+        "seats": 32727,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "グランド・イリュージョン／ダイヤモンド・ミッション"
+      },
+      {
+        "rank": 10,
+        "sales": 873,
+        "seats": 22008,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 17.7,
+        "movie": "アギト－超能力戦争－"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-11",
     "rawDate": "20260511",
     "title": "（独立系を含む）デイリー合算ランキング：20260511(月)",
