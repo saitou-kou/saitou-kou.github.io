@@ -2,100 +2,235 @@
   {
     "date": "2026-05-12",
     "rawDate": "20260512",
-    "title": "速報値（23:10更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260512(火)",
     "movies": [
       {
         "rank": 1,
-        "sales": 48947,
-        "seats": 469724,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 30.9,
+        "sales": 50933,
+        "seats": 479713,
+        "count": 1799,
+        "theaters": 273,
+        "wowRatio": 31.3,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 2,
-        "sales": 22639,
-        "seats": 359339,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 11.2,
+        "sales": 23513,
+        "seats": 367278,
+        "count": 1807,
+        "theaters": 274,
+        "wowRatio": 11.3,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 20120,
-        "seats": 243268,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 22.1,
+        "sales": 20782,
+        "seats": 247380,
+        "count": 1441,
+        "theaters": 274,
+        "wowRatio": 22.2,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 4,
-        "sales": 14302,
-        "seats": 427902,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 5,
+        "sales": 14772,
+        "seats": 435169,
+        "count": 1969,
+        "theaters": 272,
+        "wowRatio": 5.1,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 5,
-        "sales": 9040,
-        "seats": 107519,
-        "count": null,
-        "theaters": null,
+        "sales": 9385,
+        "seats": 109398,
+        "count": 864,
+        "theaters": 217,
         "wowRatio": null,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 6,
-        "sales": 6336,
-        "seats": 113258,
-        "count": null,
-        "theaters": null,
+        "sales": 6590,
+        "seats": 115355,
+        "count": 625,
+        "theaters": 122,
         "wowRatio": null,
         "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
       },
       {
         "rank": 7,
-        "sales": 5512,
-        "seats": 103125,
-        "count": null,
-        "theaters": null,
+        "sales": 5741,
+        "seats": 104842,
+        "count": 753,
+        "theaters": 191,
         "wowRatio": null,
         "movie": "グランド・イリュージョン／ダイヤモンド・ミッション"
       },
       {
         "rank": 8,
-        "sales": 5304,
-        "seats": 95684,
-        "count": null,
-        "theaters": null,
+        "sales": 5491,
+        "seats": 97548,
+        "count": 774,
+        "theaters": 199,
         "wowRatio": null,
         "movie": "未来"
       },
       {
         "rank": 9,
-        "sales": 4785,
-        "seats": 59846,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 21.2,
+        "sales": 4977,
+        "seats": 60998,
+        "count": 538,
+        "theaters": 254,
+        "wowRatio": 21.3,
         "movie": "人はなぜラブレターを書くのか"
       },
       {
         "rank": 10,
-        "sales": 2545,
-        "seats": 64173,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 21.7,
+        "sales": 2589,
+        "seats": 65118,
+        "count": 504,
+        "theaters": 173,
+        "wowRatio": 21.6,
         "movie": "アギト－超能力戦争－"
+      },
+      {
+        "rank": 11,
+        "sales": 2494,
+        "seats": 53658,
+        "count": 320,
+        "theaters": 79,
+        "wowRatio": null,
+        "movie": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ"
+      },
+      {
+        "rank": 12,
+        "sales": 2282,
+        "seats": 19561,
+        "count": 168,
+        "theaters": 84,
+        "wowRatio": 29.1,
+        "movie": "サンキュー、チャック"
+      },
+      {
+        "rank": 13,
+        "sales": 2053,
+        "seats": 35413,
+        "count": 288,
+        "theaters": 154,
+        "wowRatio": 22.3,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 14,
+        "sales": 2022,
+        "seats": 20808,
+        "count": 180,
+        "theaters": 46,
+        "wowRatio": null,
+        "movie": "ゼイ・ウィル・キル・ユー"
+      },
+      {
+        "rank": 15,
+        "sales": 1346,
+        "seats": 37103,
+        "count": 286,
+        "theaters": 83,
+        "wowRatio": null,
+        "movie": "幕末ヒポクラテスたち＜キャスト登壇完成披露上映会＞"
+      },
+      {
+        "rank": 16,
+        "sales": 1062,
+        "seats": 8531,
+        "count": 62,
+        "theaters": 57,
+        "wowRatio": 16.7,
+        "movie": "プロジェクト・ヘイル・メアリー"
+      },
+      {
+        "rank": 17,
+        "sales": 1001,
+        "seats": 12375,
+        "count": 96,
+        "theaters": 41,
+        "wowRatio": null,
+        "movie": "シンプルアクシデント／偶然"
+      },
+      {
+        "rank": 18,
+        "sales": 803,
+        "seats": 10186,
+        "count": 86,
+        "theaters": 84,
+        "wowRatio": 19.9,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５ ＡＴ ＮＩＳＳＡＮ ＳＴＡＤＩＵ"
+      },
+      {
+        "rank": 19,
+        "sales": 799,
+        "seats": 17043,
+        "count": 112,
+        "theaters": 99,
+        "wowRatio": 10.7,
+        "movie": "超かぐや姫！"
+      },
+      {
+        "rank": 20,
+        "sales": 702,
+        "seats": 15381,
+        "count": 132,
+        "theaters": 132,
+        "wowRatio": 14.7,
+        "movie": "ほどなく、お別れです"
+      },
+      {
+        "rank": 21,
+        "sales": 611,
+        "seats": 3411,
+        "count": 28,
+        "theaters": 25,
+        "wowRatio": 23.4,
+        "movie": "ウィキッド 永遠の約束"
+      },
+      {
+        "rank": 22,
+        "sales": 458,
+        "seats": 11783,
+        "count": 98,
+        "theaters": 98,
+        "wowRatio": 12.1,
+        "movie": "ゴールデンカムイ 網走監獄襲撃編"
+      },
+      {
+        "rank": 23,
+        "sales": 384,
+        "seats": 2920,
+        "count": 21,
+        "theaters": 19,
+        "wowRatio": null,
+        "movie": "コードギアス２０周年記念復刻上映会 コードギアス 奪還のロゼ 第１幕"
+      },
+      {
+        "rank": 24,
+        "sales": 356,
+        "seats": 3962,
+        "count": 36,
+        "theaters": 36,
+        "wowRatio": 16.6,
+        "movie": "鬼の花嫁"
+      },
+      {
+        "rank": 25,
+        "sales": 336,
+        "seats": 3401,
+        "count": 30,
+        "theaters": 30,
+        "wowRatio": null,
+        "movie": "ＯＮＥ ＯＫ ＲＯＣＫ ＤＥＴＯＸ ＪＡＰＡＮ ＴＯＵＲ ２０２５"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-05-11",
