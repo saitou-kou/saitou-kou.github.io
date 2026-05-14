@@ -2,48 +2,48 @@
   {
     "date": "2026-05-14",
     "rawDate": "20260514",
-    "title": "速報値（20:35更新）",
+    "title": "速報値（23:11更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 39132,
-        "seats": 384312,
+        "sales": 41397,
+        "seats": 422719,
         "count": null,
         "theaters": null,
-        "wowRatio": 56.8,
+        "wowRatio": 57.9,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 2,
-        "sales": 18545,
-        "seats": 277687,
+        "sales": 19929,
+        "seats": 304421,
         "count": null,
         "theaters": null,
-        "wowRatio": 55.6,
+        "wowRatio": 57.8,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 15691,
-        "seats": 198383,
+        "sales": 16304,
+        "seats": 210889,
         "count": null,
         "theaters": null,
-        "wowRatio": 61,
+        "wowRatio": 61.4,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 4,
-        "sales": 10767,
-        "seats": 329550,
+        "sales": 11531,
+        "seats": 357123,
         "count": null,
         "theaters": null,
-        "wowRatio": 46.3,
+        "wowRatio": 48,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 5,
-        "sales": 8611,
-        "seats": 88716,
+        "sales": 9423,
+        "seats": 102758,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 4562,
-        "seats": 69237,
+        "sales": 5332,
+        "seats": 79717,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,39 +60,39 @@
       },
       {
         "rank": 7,
-        "sales": 4434,
-        "seats": 54479,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 54.7,
-        "movie": "人はなぜラブレターを書くのか"
-      },
-      {
-        "rank": 8,
-        "sales": 4323,
-        "seats": 80520,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "未来"
-      },
-      {
-        "rank": 9,
-        "sales": 4110,
-        "seats": 86665,
+        "sales": 4755,
+        "seats": 102276,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
       },
       {
-        "rank": 10,
-        "sales": 3949,
-        "seats": 81624,
+        "rank": 8,
+        "sales": 4637,
+        "seats": 98363,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "グランド・イリュージョン／ダイヤモンド・ミッション"
+      },
+      {
+        "rank": 9,
+        "sales": 4585,
+        "seats": 57816,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 54.7,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 10,
+        "sales": 4563,
+        "seats": 90378,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "未来"
       }
     ],
     "isFlash": true
