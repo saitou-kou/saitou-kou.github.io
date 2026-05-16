@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-16",
+    "rawDate": "20260516",
+    "title": "速報値（11:50更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 23301,
+        "seats": 143455,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 67.2,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 16215,
+        "seats": 73061,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.6,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 3,
+        "sales": 15820,
+        "seats": 81008,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 73,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 11898,
+        "seats": 79357,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 5,
+        "sales": 8491,
+        "seats": 60208,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "君のクイズ"
+      },
+      {
+        "rank": 6,
+        "sales": 8272,
+        "seats": 38926,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 43,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 7,
+        "sales": 5547,
+        "seats": 17315,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 67,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 8,
+        "sales": 4605,
+        "seats": 10926,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１"
+      },
+      {
+        "rank": 9,
+        "sales": 3868,
+        "seats": 13925,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 33,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 10,
+        "sales": 2662,
+        "seats": 13528,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-15",
     "rawDate": "20260515",
     "title": "（独立系を含む）デイリー合算ランキング：20260515(金)",
