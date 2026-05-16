@@ -2,7 +2,7 @@
   {
     "date": "2026-05-16",
     "rawDate": "20260516",
-    "title": "速報値（22:12更新）",
+    "title": "速報値（23:49更新）",
     "movies": [
       {
         "rank": 1,
@@ -10,13 +10,13 @@
         "seats": 278683,
         "count": null,
         "theaters": null,
-        "wowRatio": 74.6,
+        "wowRatio": 74.5,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 2,
-        "sales": 80484,
-        "seats": 413098,
+        "sales": 80494,
+        "seats": 413441,
         "count": null,
         "theaters": null,
         "wowRatio": 71.5,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 69840,
-        "seats": 294367,
+        "sales": 69858,
+        "seats": 294754,
         "count": null,
         "theaters": null,
         "wowRatio": 77.8,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 39108,
-        "seats": 292809,
+        "sales": 39110,
+        "seats": 293032,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 32083,
-        "seats": 229825,
+        "sales": 32095,
+        "seats": 230195,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 7,
-        "sales": 19782,
-        "seats": 60391,
+        "sales": 19796,
+        "seats": 60627,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.4,
+        "wowRatio": 71.5,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 8,
-        "sales": 14365,
-        "seats": 47740,
+        "sales": 14378,
+        "seats": 48191,
         "count": null,
         "theaters": null,
         "wowRatio": 51.3,
