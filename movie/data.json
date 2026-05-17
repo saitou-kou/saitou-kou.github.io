@@ -2,48 +2,48 @@
   {
     "date": "2026-05-17",
     "rawDate": "20260517",
-    "title": "速報値（19:56更新）",
+    "title": "速報値（22:12更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 101492,
-        "seats": 385340,
+        "sales": 102435,
+        "seats": 411522,
         "count": null,
         "theaters": null,
-        "wowRatio": 82.4,
+        "wowRatio": 82.1,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 72456,
-        "seats": 246865,
+        "sales": 76975,
+        "seats": 282927,
         "count": null,
         "theaters": null,
-        "wowRatio": 81.2,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
-        "rank": 3,
-        "sales": 72329,
-        "seats": 229770,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 78.7,
+        "wowRatio": 79,
         "movie": "プラダを着た悪魔２"
       },
       {
-        "rank": 4,
-        "sales": 35960,
-        "seats": 119565,
+        "rank": 3,
+        "sales": 75286,
+        "seats": 293858,
         "count": null,
         "theaters": null,
-        "wowRatio": 69.6,
+        "wowRatio": 81.4,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 37640,
+        "seats": 151007,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.4,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 33047,
-        "seats": 236289,
+        "sales": 34328,
+        "seats": 293675,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 27132,
-        "seats": 185517,
+        "sales": 28761,
+        "seats": 228328,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,35 +60,35 @@
       },
       {
         "rank": 7,
-        "sales": 18743,
-        "seats": 50277,
+        "sales": 19529,
+        "seats": 61045,
         "count": null,
         "theaters": null,
-        "wowRatio": 83.3,
+        "wowRatio": 82.3,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 8,
-        "sales": 10028,
-        "seats": 45704,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
-      },
-      {
-        "rank": 9,
-        "sales": 9688,
-        "seats": 42115,
+        "sales": 10948,
+        "seats": 56674,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "トップガン マーヴェリック"
       },
       {
+        "rank": 9,
+        "sales": 10482,
+        "seats": 56052,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
+      },
+      {
         "rank": 10,
-        "sales": 9394,
-        "seats": 28881,
+        "sales": 9940,
+        "seats": 34889,
         "count": null,
         "theaters": null,
         "wowRatio": null,
