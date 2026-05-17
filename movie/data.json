@@ -2,48 +2,48 @@
   {
     "date": "2026-05-17",
     "rawDate": "20260517",
-    "title": "速報値（15:43更新）",
+    "title": "速報値（17:59更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 87204,
-        "seats": 273865,
+        "sales": 98344,
+        "seats": 340912,
         "count": null,
         "theaters": null,
-        "wowRatio": 82,
+        "wowRatio": 82.8,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 56176,
-        "seats": 162487,
+        "sales": 68016,
+        "seats": 207459,
         "count": null,
         "theaters": null,
-        "wowRatio": 81.9,
+        "wowRatio": 81.5,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 53588,
-        "seats": 149173,
+        "sales": 65695,
+        "seats": 194108,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.3,
+        "wowRatio": 78.6,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 4,
-        "sales": 30578,
-        "seats": 83709,
+        "sales": 34949,
+        "seats": 106477,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.9,
+        "wowRatio": 70.6,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 5,
-        "sales": 28309,
-        "seats": 163322,
+        "sales": 31690,
+        "seats": 208983,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 21173,
-        "seats": 124731,
+        "sales": 25380,
+        "seats": 160733,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 7,
-        "sales": 13212,
-        "seats": 28919,
+        "sales": 17101,
+        "seats": 40284,
         "count": null,
         "theaters": null,
-        "wowRatio": 74.6,
+        "wowRatio": 82,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 8,
-        "sales": 7638,
-        "seats": 28534,
+        "sales": 9048,
+        "seats": 37213,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,21 +78,21 @@
       },
       {
         "rank": 9,
-        "sales": 6932,
-        "seats": 17788,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１"
-      },
-      {
-        "rank": 10,
-        "sales": 6445,
-        "seats": 28429,
+        "sales": 8637,
+        "seats": 37409,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "トップガン マーヴェリック"
+      },
+      {
+        "rank": 10,
+        "sales": 8462,
+        "seats": 23470,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１"
       }
     ],
     "isFlash": true
