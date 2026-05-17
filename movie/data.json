@@ -2,57 +2,57 @@
   {
     "date": "2026-05-17",
     "rawDate": "20260517",
-    "title": "速報値（12:09更新）",
+    "title": "速報値（15:43更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 41930,
-        "seats": 153411,
+        "sales": 87204,
+        "seats": 273865,
         "count": null,
         "theaters": null,
-        "wowRatio": 79.3,
+        "wowRatio": 82,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 2,
-        "sales": 25350,
-        "seats": 86291,
+        "sales": 56176,
+        "seats": 162487,
         "count": null,
         "theaters": null,
-        "wowRatio": 73.7,
+        "wowRatio": 81.9,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 3,
-        "sales": 23231,
-        "seats": 77752,
+        "sales": 53588,
+        "seats": 149173,
         "count": null,
         "theaters": null,
-        "wowRatio": 65.3,
+        "wowRatio": 78.3,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 4,
-        "sales": 15039,
-        "seats": 85513,
+        "sales": 30578,
+        "seats": 83709,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 68.9,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 28309,
+        "seats": 163322,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "映画「正直不動産」"
       },
       {
-        "rank": 5,
-        "sales": 13706,
-        "seats": 44132,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 55.6,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
-      },
-      {
         "rank": 6,
-        "sales": 9802,
-        "seats": 64540,
+        "sales": 21173,
+        "seats": 124731,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 7,
-        "sales": 7842,
-        "seats": 18418,
+        "sales": 13212,
+        "seats": 28919,
         "count": null,
         "theaters": null,
-        "wowRatio": 83.8,
+        "wowRatio": 74.6,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 8,
-        "sales": 4109,
-        "seats": 16036,
+        "sales": 7638,
+        "seats": 28534,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,8 +78,8 @@
       },
       {
         "rank": 9,
-        "sales": 4012,
-        "seats": 10655,
+        "sales": 6932,
+        "seats": 17788,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,12 +87,12 @@
       },
       {
         "rank": 10,
-        "sales": 3358,
-        "seats": 15225,
+        "sales": 6445,
+        "seats": 28429,
         "count": null,
         "theaters": null,
-        "wowRatio": 44.6,
-        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+        "wowRatio": null,
+        "movie": "トップガン マーヴェリック"
       }
     ],
     "isFlash": true
