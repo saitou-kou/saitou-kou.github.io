@@ -2,39 +2,39 @@
   {
     "date": "2026-05-18",
     "rawDate": "20260518",
-    "title": "速報値（12:48更新）",
+    "title": "速報値（17:01更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 17913,
-        "seats": 109620,
+        "sales": 30816,
+        "seats": 198291,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.2,
+        "wowRatio": 71,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 2,
-        "sales": 12813,
-        "seats": 117580,
+        "sales": 22251,
+        "seats": 233874,
         "count": null,
         "theaters": null,
-        "wowRatio": 133.5,
+        "wowRatio": 118.1,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 3,
-        "sales": 11327,
-        "seats": 84678,
+        "sales": 20925,
+        "seats": 168449,
         "count": null,
         "theaters": null,
-        "wowRatio": 94.9,
+        "wowRatio": 94,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 4,
-        "sales": 10148,
-        "seats": 119832,
+        "sales": 15539,
+        "seats": 211981,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,17 +42,17 @@
       },
       {
         "rank": 5,
-        "sales": 8246,
-        "seats": 53611,
+        "sales": 13354,
+        "seats": 94710,
         "count": null,
         "theaters": null,
-        "wowRatio": 61,
+        "wowRatio": 65.1,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 6,
-        "sales": 5595,
-        "seats": 85802,
+        "sales": 9741,
+        "seats": 154444,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 7,
-        "sales": 2975,
-        "seats": 20151,
+        "sales": 5831,
+        "seats": 39309,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.8,
+        "wowRatio": 71.2,
         "movie": "ひつじ探偵団"
       },
       {
         "rank": 8,
-        "sales": 2048,
-        "seats": 22963,
+        "sales": 3078,
+        "seats": 35335,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,8 +78,8 @@
       },
       {
         "rank": 9,
-        "sales": 1506,
-        "seats": 13143,
+        "sales": 2885,
+        "seats": 25153,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 1340,
-        "seats": 14872,
+        "sales": 2870,
+        "seats": 27647,
         "count": null,
         "theaters": null,
-        "wowRatio": 41.1,
+        "wowRatio": 50.4,
         "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
       }
     ],
