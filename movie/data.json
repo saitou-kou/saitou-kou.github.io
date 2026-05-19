@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-19",
+    "rawDate": "20260519",
+    "title": "速報値（13:46更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 18424,
+        "seats": 134361,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.1,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 2,
+        "sales": 9890,
+        "seats": 139623,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 3,
+        "sales": 7253,
+        "seats": 98506,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 6116,
+        "seats": 60027,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 53.1,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 5470,
+        "seats": 103266,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "君のクイズ"
+      },
+      {
+        "rank": 6,
+        "sales": 3427,
+        "seats": 120262,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.1,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 7,
+        "sales": 2859,
+        "seats": 26026,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.9,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 8,
+        "sales": 2024,
+        "seats": 26477,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
+      },
+      {
+        "rank": 9,
+        "sales": 1372,
+        "seats": 17019,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.4,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 10,
+        "sales": 1359,
+        "seats": 20009,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "トップガン マーヴェリック"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-18",
     "rawDate": "20260518",
     "title": "（独立系を含む）デイリー合算ランキング：20260518(月)",
