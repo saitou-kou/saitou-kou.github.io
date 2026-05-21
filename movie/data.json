@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-21",
+    "rawDate": "20260521",
+    "title": "速報値（16:41更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 26688,
+        "seats": 196267,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 87,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 2,
+        "sales": 13309,
+        "seats": 214470,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 3,
+        "sales": 13141,
+        "seats": 160313,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 93.8,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 8930,
+        "seats": 92573,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.3,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 5,
+        "sales": 7211,
+        "seats": 195372,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 82.9,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 6,
+        "sales": 6673,
+        "seats": 156649,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "君のクイズ"
+      },
+      {
+        "rank": 7,
+        "sales": 4713,
+        "seats": 40911,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.8,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 8,
+        "sales": 3047,
+        "seats": 34119,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 105.9,
+        "movie": "トップガン マーヴェリック"
+      },
+      {
+        "rank": 9,
+        "sales": 2525,
+        "seats": 35609,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
+      },
+      {
+        "rank": 10,
+        "sales": 2031,
+        "seats": 21142,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 56.7,
+        "movie": "人はなぜラブレターを書くのか"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-20",
     "rawDate": "20260520",
     "title": "（独立系を含む）デイリー合算ランキング：20260520(水)",
