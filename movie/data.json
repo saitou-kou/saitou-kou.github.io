@@ -2,100 +2,235 @@
   {
     "date": "2026-05-22",
     "rawDate": "20260522",
-    "title": "速報値（22:31更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260522(金)",
     "movies": [
       {
         "rank": 1,
-        "sales": 105904,
-        "seats": 714066,
-        "count": null,
-        "theaters": null,
+        "sales": 107747,
+        "seats": 726680,
+        "count": 2491,
+        "theaters": 264,
         "wowRatio": null,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 2,
-        "sales": 32829,
-        "seats": 201412,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 73.7,
+        "sales": 34146,
+        "seats": 206920,
+        "count": 1170,
+        "theaters": 264,
+        "wowRatio": 73.9,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 19121,
-        "seats": 171258,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 77.3,
+        "sales": 19670,
+        "seats": 174934,
+        "count": 1096,
+        "theaters": 263,
+        "wowRatio": 77.8,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 4,
-        "sales": 16206,
-        "seats": 64315,
-        "count": null,
-        "theaters": null,
+        "sales": 17058,
+        "seats": 67800,
+        "count": 356,
+        "theaters": 91,
         "wowRatio": null,
-        "movie": "ＳＵＰＥＲ ＢＥＡＶＥＲ Ｌ"
+        "movie": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－"
       },
       {
         "rank": 5,
-        "sales": 11389,
-        "seats": 111379,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 39.4,
+        "sales": 11798,
+        "seats": 113902,
+        "count": 885,
+        "theaters": 261,
+        "wowRatio": 39.7,
         "movie": "映画「正直不動産」"
       },
       {
         "rank": 6,
-        "sales": 10426,
-        "seats": 99843,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 62.7,
+        "sales": 10833,
+        "seats": 102101,
+        "count": 763,
+        "theaters": 264,
+        "wowRatio": 63.1,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 7,
-        "sales": 9893,
-        "seats": 159141,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 66.8,
+        "sales": 10238,
+        "seats": 161866,
+        "count": 974,
+        "theaters": 262,
+        "wowRatio": 67.2,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 8,
-        "sales": 9311,
-        "seats": 37802,
-        "count": null,
-        "theaters": null,
+        "sales": 9333,
+        "seats": 38110,
+        "count": 243,
+        "theaters": 73,
         "wowRatio": null,
         "movie": "名無し"
       },
       {
         "rank": 9,
-        "sales": 7043,
-        "seats": 97441,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 33.8,
+        "sales": 7297,
+        "seats": 99916,
+        "count": 854,
+        "theaters": 264,
+        "wowRatio": 34,
         "movie": "君のクイズ"
       },
       {
         "rank": 10,
-        "sales": 6589,
-        "seats": 159915,
-        "count": null,
-        "theaters": null,
+        "sales": 6752,
+        "seats": 163347,
+        "count": 1114,
+        "theaters": 236,
         "wowRatio": null,
         "movie": "ミステリー・アリーナ"
+      },
+      {
+        "rank": 11,
+        "sales": 5147,
+        "seats": 41706,
+        "count": 328,
+        "theaters": 205,
+        "wowRatio": 68.9,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 12,
+        "sales": 3510,
+        "seats": 22076,
+        "count": 170,
+        "theaters": 100,
+        "wowRatio": 34.7,
+        "movie": "Ｓｔｒａｙ Ｋｉｄｓ： Ｔｈｅ ｄｏｍｉｎＡＴＥ Ｅｘｐｅｒｉｅｎｃｅ"
+      },
+      {
+        "rank": 13,
+        "sales": 3397,
+        "seats": 22858,
+        "count": 142,
+        "theaters": 53,
+        "wowRatio": null,
+        "movie": "劇場版「ＨＡＭＡツアーズｐｒｅｓｅｎｔｓ’おもてなしライブ”－Ｓｐａｒｋｌｅ－」"
+      },
+      {
+        "rank": 14,
+        "sales": 3224,
+        "seats": 25941,
+        "count": 151,
+        "theaters": 51,
+        "wowRatio": 28.4,
+        "movie": "機動警察パトレイバー ＥＺＹ Ｆｉｌｅ１"
+      },
+      {
+        "rank": 15,
+        "sales": 2994,
+        "seats": 27446,
+        "count": 213,
+        "theaters": 116,
+        "wowRatio": 52,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 16,
+        "sales": 2658,
+        "seats": 14188,
+        "count": 95,
+        "theaters": 67,
+        "wowRatio": 116.1,
+        "movie": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Ｂｌｏｏｍ Ｇａｒｄｅｎ Ｐａｒｔｙ"
+      },
+      {
+        "rank": 17,
+        "sales": 2351,
+        "seats": 17862,
+        "count": 142,
+        "theaters": 138,
+        "wowRatio": 113.2,
+        "movie": "最終楽章 響け！ユーフォニアム 前編"
+      },
+      {
+        "rank": 18,
+        "sales": 1908,
+        "seats": 25820,
+        "count": 203,
+        "theaters": 174,
+        "wowRatio": 50.3,
+        "movie": "グランド・イリュージョン／ダイヤモンド・ミッション"
+      },
+      {
+        "rank": 19,
+        "sales": 1872,
+        "seats": 29372,
+        "count": 229,
+        "theaters": 232,
+        "wowRatio": 74,
+        "movie": "人はなぜラブレターを書くのか"
+      },
+      {
+        "rank": 20,
+        "sales": 1544,
+        "seats": 11186,
+        "count": 96,
+        "theaters": 81,
+        "wowRatio": 45,
+        "movie": "廃用身"
+      },
+      {
+        "rank": 21,
+        "sales": 1438,
+        "seats": 11683,
+        "count": 93,
+        "theaters": 87,
+        "wowRatio": 23.4,
+        "movie": "Ｐｅｒｆｕｍｅ’コールドスリープ”－２５ ｙｅａｒｓ Ｄｏｃｕｍｅｎｔ－"
+      },
+      {
+        "rank": 22,
+        "sales": 1301,
+        "seats": 9580,
+        "count": 75,
+        "theaters": 72,
+        "wowRatio": 68.3,
+        "movie": "サンキュー、チャック"
+      },
+      {
+        "rank": 23,
+        "sales": 1078,
+        "seats": 23765,
+        "count": 182,
+        "theaters": 181,
+        "wowRatio": 54.5,
+        "movie": "未来"
+      },
+      {
+        "rank": 24,
+        "sales": 1005,
+        "seats": 4465,
+        "count": 27,
+        "theaters": 25,
+        "wowRatio": null,
+        "movie": "シネマ歌舞伎 京鹿子娘二人道成寺（きょうかのこむすめににんどうじょうじ）"
+      },
+      {
+        "rank": 25,
+        "sales": 945,
+        "seats": 24280,
+        "count": 175,
+        "theaters": 160,
+        "wowRatio": 73.7,
+        "movie": "アギト－超能力戦争－"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-05-21",
