@@ -2,12 +2,12 @@
   {
     "date": "2026-05-22",
     "rawDate": "20260522",
-    "title": "速報値（16:41更新）",
+    "title": "速報値（19:36更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 58509,
-        "seats": 429045,
+        "sales": 77086,
+        "seats": 573447,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,62 +15,62 @@
       },
       {
         "rank": 2,
-        "sales": 20733,
-        "seats": 127209,
+        "sales": 25887,
+        "seats": 162902,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.8,
+        "wowRatio": 73.3,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 11088,
-        "seats": 42362,
+        "sales": 15058,
+        "seats": 141741,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.3,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 13449,
+        "seats": 52387,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ＳＵＰＥＲ ＢＥＡＶＥＲ Ｌ"
       },
       {
-        "rank": 4,
-        "sales": 10475,
-        "seats": 113393,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 75.4,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
         "rank": 5,
-        "sales": 8551,
-        "seats": 73082,
+        "sales": 9701,
+        "seats": 89592,
         "count": null,
         "theaters": null,
-        "wowRatio": 41.1,
+        "wowRatio": 39.2,
         "movie": "映画「正直不動産」"
       },
       {
         "rank": 6,
-        "sales": 6938,
-        "seats": 63315,
+        "sales": 8969,
+        "seats": 149647,
         "count": null,
         "theaters": null,
-        "wowRatio": 63.6,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
-      },
-      {
-        "rank": 7,
-        "sales": 6475,
-        "seats": 127093,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 71.9,
+        "wowRatio": 69.4,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
+        "rank": 7,
+        "sales": 8084,
+        "seats": 76457,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.1,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
         "rank": 8,
-        "sales": 4969,
-        "seats": 23488,
+        "sales": 7111,
+        "seats": 31343,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -78,17 +78,17 @@
       },
       {
         "rank": 9,
-        "sales": 4448,
-        "seats": 61752,
+        "sales": 5397,
+        "seats": 75693,
         "count": null,
         "theaters": null,
-        "wowRatio": 34.7,
+        "wowRatio": 32.5,
         "movie": "君のクイズ"
       },
       {
         "rank": 10,
-        "sales": 4266,
-        "seats": 103419,
+        "sales": 5232,
+        "seats": 129827,
         "count": null,
         "theaters": null,
         "wowRatio": null,
