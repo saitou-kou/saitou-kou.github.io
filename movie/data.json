@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-24",
+    "rawDate": "20260524",
+    "title": "速報値（12:48更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 51822,
+        "seats": 261944,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 2,
+        "sales": 37801,
+        "seats": 102153,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 76.3,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 3,
+        "sales": 24541,
+        "seats": 63451,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 81,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 20721,
+        "seats": 65873,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 68.9,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 5,
+        "sales": 12919,
+        "seats": 34748,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.7,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 6,
+        "sales": 10375,
+        "seats": 38226,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.4,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 7,
+        "sales": 6286,
+        "seats": 32980,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.1,
+        "movie": "君のクイズ"
+      },
+      {
+        "rank": 8,
+        "sales": 5803,
+        "seats": 14051,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 66,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 9,
+        "sales": 4982,
+        "seats": 14458,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名無し"
+      },
+      {
+        "rank": 10,
+        "sales": 4182,
+        "seats": 17092,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＵＰＥＲ ＢＥＡＶＥＲ ＬＩＶＥ ＆ ＤＯＣＵＭＥＮＴＡＲＹ －現在地－"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-23",
     "rawDate": "20260523",
     "title": "（独立系を含む）デイリー合算ランキング：20260523(土)",
