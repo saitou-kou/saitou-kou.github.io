@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-25",
+    "rawDate": "20260525",
+    "title": "速報値（14:06更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 33999,
+        "seats": 104771,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 184.7,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 2,
+        "sales": 27293,
+        "seats": 293220,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 3,
+        "sales": 20320,
+        "seats": 81061,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 124.7,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 16691,
+        "seats": 89704,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.4,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 5,
+        "sales": 8847,
+        "seats": 40173,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 83.2,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 6,
+        "sales": 6383,
+        "seats": 49431,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.3,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 7,
+        "sales": 3564,
+        "seats": 41262,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.2,
+        "movie": "君のクイズ"
+      },
+      {
+        "rank": 8,
+        "sales": 3527,
+        "seats": 17688,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 79.8,
+        "movie": "ひつじ探偵団"
+      },
+      {
+        "rank": 9,
+        "sales": 3322,
+        "seats": 16757,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "名無し"
+      },
+      {
+        "rank": 10,
+        "sales": 2855,
+        "seats": 71999,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ミステリー・アリーナ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-24",
     "rawDate": "20260524",
     "title": "（独立系を含む）デイリー合算ランキング：20260524(日)",
