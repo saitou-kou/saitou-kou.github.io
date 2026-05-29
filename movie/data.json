@@ -2,21 +2,21 @@
   {
     "date": "2026-05-29",
     "rawDate": "20260529",
-    "title": "速報値（20:15更新）",
+    "title": "速報値（23:49更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 30429,
-        "seats": 380995,
+        "sales": 38378,
+        "seats": 449619,
         "count": null,
         "theaters": null,
-        "wowRatio": 32.9,
+        "wowRatio": 36.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 2,
-        "sales": 28276,
-        "seats": 307886,
+        "sales": 32675,
+        "seats": 367559,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,17 +24,17 @@
       },
       {
         "rank": 3,
-        "sales": 21206,
-        "seats": 152974,
+        "sales": 26181,
+        "seats": 183314,
         "count": null,
         "theaters": null,
-        "wowRatio": 73,
+        "wowRatio": 79.7,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 4,
-        "sales": 18908,
-        "seats": 106594,
+        "sales": 23889,
+        "seats": 127728,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,17 +42,17 @@
       },
       {
         "rank": 5,
-        "sales": 12610,
-        "seats": 125699,
+        "sales": 15410,
+        "seats": 146596,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.4,
+        "wowRatio": 80.5,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 6,
-        "sales": 11068,
-        "seats": 103360,
+        "sales": 12561,
+        "seats": 129388,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,39 +60,39 @@
       },
       {
         "rank": 7,
-        "sales": 6840,
-        "seats": 124337,
+        "sales": 7112,
+        "seats": 127663,
         "count": null,
         "theaters": null,
-        "wowRatio": 73.5,
+        "wowRatio": 71.9,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 8,
-        "sales": 5766,
-        "seats": 61366,
+        "sales": 6749,
+        "seats": 71355,
         "count": null,
         "theaters": null,
-        "wowRatio": 61.6,
+        "wowRatio": 64.7,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 9,
-        "sales": 5622,
-        "seats": 59626,
+        "sales": 6143,
+        "seats": 67960,
         "count": null,
         "theaters": null,
-        "wowRatio": 53.8,
+        "wowRatio": 53.9,
         "movie": "映画「正直不動産」"
       },
       {
         "rank": 10,
-        "sales": 4694,
-        "seats": 61872,
+        "sales": 5070,
+        "seats": 40912,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "お終活３ 幸春！人生メモリー"
+        "wowRatio": 54.5,
+        "movie": "名無し"
       }
     ],
     "isFlash": true
