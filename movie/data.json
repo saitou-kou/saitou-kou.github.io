@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-29",
+    "rawDate": "20260529",
+    "title": "速報値（12:28更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 15224,
+        "seats": 126057,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 2,
+        "sales": 11505,
+        "seats": 153591,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 30,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 3,
+        "sales": 7573,
+        "seats": 60562,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 74.5,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 7006,
+        "seats": 38806,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 5,
+        "sales": 3658,
+        "seats": 45306,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 81.6,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 6,
+        "sales": 3090,
+        "seats": 32043,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "お終活３ 幸春！人生メモリー"
+      },
+      {
+        "rank": 7,
+        "sales": 2847,
+        "seats": 35660,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪"
+      },
+      {
+        "rank": 8,
+        "sales": 2368,
+        "seats": 25270,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.8,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 9,
+        "sales": 2185,
+        "seats": 22151,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.6,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 10,
+        "sales": 1715,
+        "seats": 52000,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.9,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-28",
     "rawDate": "20260528",
     "title": "（独立系を含む）デイリー合算ランキング：20260528(木)",
