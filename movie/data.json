@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-05-30",
+    "rawDate": "20260530",
+    "title": "速報値（11:49更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 19075,
+        "seats": 114605,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 47.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 2,
+        "sales": 14395,
+        "seats": 79112,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77.8,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 3,
+        "sales": 11348,
+        "seats": 88885,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 4,
+        "sales": 10210,
+        "seats": 48262,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77.5,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 5,
+        "sales": 9335,
+        "seats": 47298,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 6,
+        "sales": 6907,
+        "seats": 33132,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 7,
+        "sales": 4068,
+        "seats": 16179,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 61,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 8,
+        "sales": 3965,
+        "seats": 21276,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.6,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 9,
+        "sales": 3378,
+        "seats": 28873,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－"
+      },
+      {
+        "rank": 10,
+        "sales": 3099,
+        "seats": 12042,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77.1,
+        "movie": "ひつじ探偵団"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-05-29",
     "rawDate": "20260529",
     "title": "（独立系を含む）デイリー合算ランキング：20260529(金)",
