@@ -2,12 +2,12 @@
   {
     "date": "2026-05-30",
     "rawDate": "20260530",
-    "title": "速報値（22:12更新）",
+    "title": "速報値（23:49更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 81432,
-        "seats": 446999,
+        "sales": 81468,
+        "seats": 447930,
         "count": null,
         "theaters": null,
         "wowRatio": 64.5,
@@ -15,17 +15,17 @@
       },
       {
         "rank": 2,
-        "sales": 49222,
-        "seats": 178902,
+        "sales": 49238,
+        "seats": 179404,
         "count": null,
         "theaters": null,
-        "wowRatio": 80.8,
+        "wowRatio": 80.7,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 47603,
-        "seats": 199813,
+        "sales": 47616,
+        "seats": 199893,
         "count": null,
         "theaters": null,
         "wowRatio": 78.5,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 45736,
-        "seats": 170891,
+        "sales": 45761,
+        "seats": 171477,
         "count": null,
         "theaters": null,
         "wowRatio": 79.5,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 39829,
-        "seats": 344553,
+        "sales": 39839,
+        "seats": 345260,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 22503,
-        "seats": 115987,
+        "sales": 22517,
+        "seats": 116501,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,11 +60,11 @@
       },
       {
         "rank": 7,
-        "sales": 17882,
-        "seats": 69352,
+        "sales": 17896,
+        "seats": 69723,
         "count": null,
         "theaters": null,
-        "wowRatio": 73,
+        "wowRatio": 73.1,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
@@ -78,8 +78,8 @@
       },
       {
         "rank": 9,
-        "sales": 12458,
-        "seats": 115835,
+        "sales": 12466,
+        "seats": 116282,
         "count": null,
         "theaters": null,
         "wowRatio": null,
