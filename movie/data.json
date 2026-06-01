@@ -2,30 +2,30 @@
   {
     "date": "2026-06-01",
     "rawDate": "20260601",
-    "title": "速報値（12:48更新）",
+    "title": "速報値（18:19更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 17660,
-        "seats": 69683,
+        "sales": 31019,
+        "seats": 333134,
         "count": null,
         "theaters": null,
-        "wowRatio": 65.3,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
-      },
-      {
-        "rank": 2,
-        "sales": 16600,
-        "seats": 161116,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 66.8,
+        "wowRatio": 71.8,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
+        "rank": 2,
+        "sales": 27281,
+        "seats": 137359,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 65.8,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
         "rank": 3,
-        "sales": 14947,
-        "seats": 136083,
+        "sales": 23719,
+        "seats": 278288,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,35 +33,35 @@
       },
       {
         "rank": 4,
-        "sales": 11272,
-        "seats": 50659,
+        "sales": 22341,
+        "seats": 132212,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.4,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
-        "rank": 5,
-        "sales": 11181,
-        "seats": 63257,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 87.1,
+        "wowRatio": 87.8,
         "movie": "プラダを着た悪魔２"
       },
       {
-        "rank": 6,
-        "sales": 4858,
-        "seats": 21209,
+        "rank": 5,
+        "sales": 20401,
+        "seats": 113648,
         "count": null,
         "theaters": null,
-        "wowRatio": 64.3,
+        "wowRatio": 75.3,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 6,
+        "sales": 8686,
+        "seats": 49721,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.4,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 7,
-        "sales": 3334,
-        "seats": 36741,
+        "sales": 7174,
+        "seats": 77499,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,30 +69,30 @@
       },
       {
         "rank": 8,
-        "sales": 3155,
-        "seats": 24938,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 61.8,
-        "movie": "映画「正直不動産」"
-      },
-      {
-        "rank": 9,
-        "sales": 2862,
-        "seats": 35129,
+        "sales": 5656,
+        "seats": 80470,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－"
       },
       {
-        "rank": 10,
-        "sales": 2843,
-        "seats": 31389,
+        "rank": 9,
+        "sales": 5613,
+        "seats": 48949,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞"
+        "wowRatio": 62.8,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 10,
+        "sales": 4203,
+        "seats": 25699,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 80.8,
+        "movie": "ひつじ探偵団"
       }
     ],
     "isFlash": true
