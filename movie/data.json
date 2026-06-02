@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-02",
+    "rawDate": "20260602",
+    "title": "速報値（12:49更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 10537,
+        "seats": 137511,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 2,
+        "sales": 10343,
+        "seats": 161835,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.4,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 3,
+        "sales": 6477,
+        "seats": 65912,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.7,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 4134,
+        "seats": 47814,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 89.9,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 5,
+        "sales": 3656,
+        "seats": 52543,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 174,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 6,
+        "sales": 2469,
+        "seats": 23931,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 64.5,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 7,
+        "sales": 2442,
+        "seats": 32921,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞"
+      },
+      {
+        "rank": 8,
+        "sales": 2199,
+        "seats": 26279,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 48.8,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 9,
+        "sales": 1911,
+        "seats": 37028,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＴＯＫＹＯ ＢＵＲＳＴ－犯罪都市－"
+      },
+      {
+        "rank": 10,
+        "sales": 1699,
+        "seats": 37761,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-01",
     "rawDate": "20260601",
     "title": "（独立系を含む）デイリー合算ランキング：20260601(月)",
