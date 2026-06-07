@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-07",
+    "rawDate": "20260607",
+    "title": "速報値（12:48更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 25692,
+        "seats": 113406,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.9,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 2,
+        "sales": 22902,
+        "seats": 82309,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.7,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 3,
+        "sales": 12754,
+        "seats": 47078,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.1,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 4,
+        "sales": 11571,
+        "seats": 48591,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 68.1,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 5,
+        "sales": 11249,
+        "seats": 64239,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 57.4,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 6,
+        "sales": 5640,
+        "seats": 60231,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "山口くんはワルくない"
+      },
+      {
+        "rank": 7,
+        "sales": 4626,
+        "seats": 62144,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "マスターズ・オブ・ユニバース"
+      },
+      {
+        "rank": 8,
+        "sales": 4422,
+        "seats": 11140,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 4094,
+        "movie": "国宝"
+      },
+      {
+        "rank": 9,
+        "sales": 3748,
+        "seats": 25365,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 56.1,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 10,
+        "sales": 3244,
+        "seats": 12919,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.4,
+        "movie": "映画「正直不動産」"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-06",
     "rawDate": "20260606",
     "title": "（独立系を含む）デイリー合算ランキング：20260606(土)",
