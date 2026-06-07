@@ -2,84 +2,84 @@
   {
     "date": "2026-06-07",
     "rawDate": "20260607",
-    "title": "速報値（19:18更新）",
+    "title": "速報値（21:14更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 53915,
-        "seats": 239787,
+        "sales": 56885,
+        "seats": 296227,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.8,
+        "wowRatio": 77.9,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 2,
-        "sales": 50978,
-        "seats": 165103,
+        "sales": 51227,
+        "seats": 166840,
         "count": null,
         "theaters": null,
-        "wowRatio": 85,
+        "wowRatio": 85.1,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 3,
-        "sales": 37314,
-        "seats": 123221,
+        "sales": 38077,
+        "seats": 135630,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.9,
+        "wowRatio": 78.3,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 4,
-        "sales": 32960,
-        "seats": 120516,
+        "sales": 34163,
+        "seats": 139903,
         "count": null,
         "theaters": null,
-        "wowRatio": 78.4,
+        "wowRatio": 76.7,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 5,
-        "sales": 23052,
-        "seats": 132761,
+        "sales": 23876,
+        "seats": 159191,
         "count": null,
         "theaters": null,
-        "wowRatio": 67.5,
+        "wowRatio": 66.8,
         "movie": "箱の中の羊"
       },
       {
         "rank": 6,
-        "sales": 12603,
-        "seats": 20540,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "Ｍｉｃｈａｅｌ／マイケル"
-      },
-      {
-        "rank": 7,
-        "sales": 12375,
-        "seats": 142635,
+        "sales": 12999,
+        "seats": 165852,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "山口くんはワルくない"
       },
       {
-        "rank": 8,
-        "sales": 11981,
-        "seats": 38791,
+        "rank": 7,
+        "sales": 12879,
+        "seats": 21349,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.5,
+        "wowRatio": null,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 8,
+        "sales": 12162,
+        "seats": 42184,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 66.8,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 9,
-        "sales": 8594,
-        "seats": 130374,
+        "sales": 9400,
+        "seats": 169119,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 8136,
-        "seats": 57683,
+        "sales": 8687,
+        "seats": 67188,
         "count": null,
         "theaters": null,
-        "wowRatio": 61.4,
+        "wowRatio": 61.2,
         "movie": "劇場版モノノ怪 第三章 蛇神"
       }
     ],
