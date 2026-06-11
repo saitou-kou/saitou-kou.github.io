@@ -2,42 +2,42 @@
   {
     "date": "2026-06-11",
     "rawDate": "20260611",
-    "title": "速報値（19:19更新）",
+    "title": "速報値（23:31更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 11791,
-        "seats": 164945,
+        "sales": 14055,
+        "seats": 207133,
         "count": null,
         "theaters": null,
-        "wowRatio": 59.2,
+        "wowRatio": 59.9,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 2,
-        "sales": 8591,
-        "seats": 87319,
+        "sales": 9708,
+        "seats": 108564,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.1,
+        "wowRatio": 53.8,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 3,
-        "sales": 6179,
-        "seats": 89935,
+        "sales": 6718,
+        "seats": 113031,
         "count": null,
         "theaters": null,
-        "wowRatio": 38.1,
+        "wowRatio": 38.8,
         "movie": "箱の中の羊"
       },
       {
         "rank": 4,
-        "sales": 4247,
-        "seats": 65811,
+        "sales": 4904,
+        "seats": 77773,
         "count": null,
         "theaters": null,
-        "wowRatio": 55.7,
+        "wowRatio": 55.5,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
@@ -51,8 +51,8 @@
       },
       {
         "rank": 6,
-        "sales": 2293,
-        "seats": 90928,
+        "sales": 2816,
+        "seats": 116002,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,26 +60,26 @@
       },
       {
         "rank": 7,
-        "sales": 2214,
-        "seats": 67576,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 57.9,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
-      },
-      {
-        "rank": 8,
-        "sales": 1948,
-        "seats": 58319,
+        "sales": 2376,
+        "seats": 72533,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "モータルコンバット／ネクストラウンド"
       },
       {
+        "rank": 8,
+        "sales": 2373,
+        "seats": 76959,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。"
+      },
+      {
         "rank": 9,
-        "sales": 1890,
-        "seats": 97562,
+        "sales": 2329,
+        "seats": 119128,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,12 +87,12 @@
       },
       {
         "rank": 10,
-        "sales": 1749,
-        "seats": 23464,
+        "sales": 2276,
+        "seats": 69550,
         "count": null,
         "theaters": null,
-        "wowRatio": 39.4,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+        "wowRatio": 57.5,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       }
     ],
     "isFlash": true
