@@ -2,21 +2,21 @@
   {
     "date": "2026-06-12",
     "rawDate": "20260612",
-    "title": "速報値（17:21更新）",
+    "title": "速報値（21:14更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 61402,
-        "seats": 351376,
+        "sales": 101750,
+        "seats": 514737,
         "count": null,
         "theaters": null,
-        "wowRatio": 1679,
+        "wowRatio": 1080,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 25720,
-        "seats": 107667,
+        "sales": 33333,
+        "seats": 137652,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,75 +24,75 @@
       },
       {
         "rank": 3,
-        "sales": 10559,
-        "seats": 63487,
+        "sales": 18266,
+        "seats": 92686,
         "count": null,
         "theaters": null,
-        "wowRatio": 63,
+        "wowRatio": 67.8,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 4,
-        "sales": 5543,
-        "seats": 40524,
+        "sales": 8328,
+        "seats": 57950,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.2,
+        "wowRatio": 49.1,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 5,
-        "sales": 3721,
-        "seats": 46845,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 32.4,
-        "movie": "箱の中の羊"
-      },
-      {
-        "rank": 6,
-        "sales": 2982,
-        "seats": 33483,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 53.1,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
-        "rank": 7,
-        "sales": 2660,
-        "seats": 30715,
+        "sales": 5151,
+        "seats": 44920,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "臨時増発 ミルキー☆サブウェ"
       },
       {
-        "rank": 8,
-        "sales": 2182,
-        "seats": 6126,
+        "rank": 6,
+        "sales": 4812,
+        "seats": 45711,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
+        "wowRatio": 54,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 7,
+        "sales": 4647,
+        "seats": 61933,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 32.6,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 8,
+        "sales": 3441,
+        "seats": 20502,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.5,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
       },
       {
         "rank": 9,
-        "sales": 2167,
-        "seats": 17025,
+        "sales": 2793,
+        "seats": 7960,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 27930,
+        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
+      },
+      {
+        "rank": 10,
+        "sales": 2575,
+        "seats": 20599,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "劇場版 旅人検視官 道場修作"
-      },
-      {
-        "rank": 10,
-        "sales": 1971,
-        "seats": 39222,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 57.4,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       }
     ],
     "isFlash": true
