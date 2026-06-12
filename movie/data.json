@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-12",
+    "rawDate": "20260612",
+    "title": "速報値（12:48更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 34586,
+        "seats": 189711,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 1871,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 6939,
+        "seats": 52403,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画 おそ松さん 人類クズ化"
+      },
+      {
+        "rank": 3,
+        "sales": 5568,
+        "seats": 34258,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 61.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 4,
+        "sales": 2365,
+        "seats": 21561,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.5,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 5,
+        "sales": 1951,
+        "seats": 27025,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 27.9,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 6,
+        "sales": 1576,
+        "seats": 20018,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "臨時増発 ミルキー☆サブウェ"
+      },
+      {
+        "rank": 7,
+        "sales": 1402,
+        "seats": 10394,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 8,
+        "sales": 1364,
+        "seats": 16704,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.4,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 9,
+        "sales": 977,
+        "seats": 7632,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.2,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 10,
+        "sales": 876,
+        "seats": 22178,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.3,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-11",
     "rawDate": "20260611",
     "title": "（独立系を含む）デイリー合算ランキング：20260611(木)",
