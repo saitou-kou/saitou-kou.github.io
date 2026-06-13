@@ -2,30 +2,30 @@
   {
     "date": "2026-06-13",
     "rawDate": "20260613",
-    "title": "速報値（16:42更新）",
+    "title": "速報値（21:14更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 92481,
-        "seats": 336537,
+        "sales": 131874,
+        "seats": 469161,
         "count": null,
         "theaters": null,
-        "wowRatio": 1145,
+        "wowRatio": 1035,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 22584,
-        "seats": 61294,
+        "sales": 30484,
+        "seats": 86410,
         "count": null,
         "theaters": null,
-        "wowRatio": 54.7,
+        "wowRatio": 51.3,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 18465,
-        "seats": 90797,
+        "sales": 24280,
+        "seats": 122579,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,53 +33,53 @@
       },
       {
         "rank": 4,
-        "sales": 12878,
-        "seats": 56026,
+        "sales": 18435,
+        "seats": 29257,
         "count": null,
         "theaters": null,
-        "wowRatio": 44.5,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+        "wowRatio": null,
+        "movie": "ＢＴＳ ＷＯＲＬＤ ＴＯＵＲ ＡＲＩＲＡＮＧ ＩＮ ＧＯＹＡＮＧ ライブビューイング"
       },
       {
         "rank": 5,
-        "sales": 12301,
-        "seats": 42322,
+        "sales": 15642,
+        "seats": 52826,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.5,
+        "wowRatio": 46.8,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 6,
-        "sales": 12173,
-        "seats": 42490,
+        "sales": 14376,
+        "seats": 51886,
         "count": null,
         "theaters": null,
-        "wowRatio": 50.2,
+        "wowRatio": 47.9,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 7,
-        "sales": 6340,
-        "seats": 43708,
+        "sales": 13663,
+        "seats": 59412,
         "count": null,
         "theaters": null,
-        "wowRatio": 36.1,
-        "movie": "箱の中の羊"
+        "wowRatio": 44.7,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 8,
-        "sales": 3744,
-        "seats": 5735,
+        "sales": 7717,
+        "seats": 58188,
         "count": null,
         "theaters": null,
-        "wowRatio": 12077,
-        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
+        "wowRatio": 34.5,
+        "movie": "箱の中の羊"
       },
       {
         "rank": 9,
-        "sales": 3505,
-        "seats": 29975,
+        "sales": 5211,
+        "seats": 43270,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,12 +87,12 @@
       },
       {
         "rank": 10,
-        "sales": 3383,
-        "seats": 12953,
+        "sales": 4742,
+        "seats": 21260,
         "count": null,
         "theaters": null,
-        "wowRatio": 42.3,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+        "wowRatio": 39.7,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
       }
     ],
     "isFlash": true
