@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-13",
+    "rawDate": "20260613",
+    "title": "速報値（16:42更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 92481,
+        "seats": 336537,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 1145,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 22584,
+        "seats": 61294,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 54.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 3,
+        "sales": 18465,
+        "seats": 90797,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 4,
+        "sales": 12878,
+        "seats": 56026,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 44.5,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 5,
+        "sales": 12301,
+        "seats": 42322,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.5,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 6,
+        "sales": 12173,
+        "seats": 42490,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.2,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 7,
+        "sales": 6340,
+        "seats": 43708,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 36.1,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 8,
+        "sales": 3744,
+        "seats": 5735,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 12077,
+        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
+      },
+      {
+        "rank": 9,
+        "sales": 3505,
+        "seats": 29975,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "銀河特急 ミルキー☆サブウェ"
+      },
+      {
+        "rank": 10,
+        "sales": 3383,
+        "seats": 12953,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 42.3,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-12",
     "rawDate": "20260612",
     "title": "（独立系を含む）デイリー合算ランキング：20260612(金)",
