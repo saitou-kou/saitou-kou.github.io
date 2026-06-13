@@ -2,30 +2,30 @@
   {
     "date": "2026-06-13",
     "rawDate": "20260613",
-    "title": "速報値（21:14更新）",
+    "title": "速報値（23:49更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 131874,
-        "seats": 469161,
+        "sales": 135068,
+        "seats": 480154,
         "count": null,
         "theaters": null,
-        "wowRatio": 1035,
+        "wowRatio": 1055,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 30484,
-        "seats": 86410,
+        "sales": 31152,
+        "seats": 89588,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.3,
+        "wowRatio": 52.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 24280,
-        "seats": 122579,
+        "sales": 25011,
+        "seats": 127918,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,20 +42,20 @@
       },
       {
         "rank": 5,
-        "sales": 15642,
-        "seats": 52826,
+        "sales": 16129,
+        "seats": 55247,
         "count": null,
         "theaters": null,
-        "wowRatio": 46.8,
+        "wowRatio": 47.8,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 6,
-        "sales": 14376,
-        "seats": 51886,
+        "sales": 14615,
+        "seats": 53040,
         "count": null,
         "theaters": null,
-        "wowRatio": 47.9,
+        "wowRatio": 48.2,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
@@ -64,22 +64,22 @@
         "seats": 59412,
         "count": null,
         "theaters": null,
-        "wowRatio": 44.7,
+        "wowRatio": 44.6,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 8,
-        "sales": 7717,
-        "seats": 58188,
+        "sales": 7970,
+        "seats": 61034,
         "count": null,
         "theaters": null,
-        "wowRatio": 34.5,
+        "wowRatio": 35.2,
         "movie": "箱の中の羊"
       },
       {
         "rank": 9,
-        "sales": 5211,
-        "seats": 43270,
+        "sales": 5245,
+        "seats": 43880,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 4742,
-        "seats": 21260,
+        "sales": 4796,
+        "seats": 21550,
         "count": null,
         "theaters": null,
-        "wowRatio": 39.7,
+        "wowRatio": 39,
         "movie": "劇場版モノノ怪 第三章 蛇神"
       }
     ],
