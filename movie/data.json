@@ -2,30 +2,30 @@
   {
     "date": "2026-06-14",
     "rawDate": "20260614",
-    "title": "速報値（20:54更新）",
+    "title": "速報値（23:10更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 125650,
-        "seats": 502394,
+        "sales": 128684,
+        "seats": 532916,
         "count": null,
         "theaters": null,
-        "wowRatio": 980.2,
+        "wowRatio": 987.1,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 29250,
-        "seats": 92190,
+        "sales": 29781,
+        "seats": 98457,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.4,
+        "wowRatio": 51.9,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 21576,
-        "seats": 125079,
+        "sales": 22221,
+        "seats": 134180,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,17 +33,17 @@
       },
       {
         "rank": 4,
-        "sales": 20043,
-        "seats": 60217,
+        "sales": 20072,
+        "seats": 60565,
         "count": null,
         "theaters": null,
-        "wowRatio": 39.1,
+        "wowRatio": 39.2,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 5,
-        "sales": 17245,
-        "seats": 54600,
+        "sales": 17353,
+        "seats": 56647,
         "count": null,
         "theaters": null,
         "wowRatio": 45.3,
@@ -51,20 +51,20 @@
       },
       {
         "rank": 6,
-        "sales": 16954,
-        "seats": 56691,
+        "sales": 17317,
+        "seats": 61722,
         "count": null,
         "theaters": null,
-        "wowRatio": 49.6,
+        "wowRatio": 49.9,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 7,
-        "sales": 7370,
-        "seats": 56795,
+        "sales": 7538,
+        "seats": 63095,
         "count": null,
         "theaters": null,
-        "wowRatio": 30.9,
+        "wowRatio": 31.3,
         "movie": "箱の中の羊"
       },
       {
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 4806,
-        "seats": 19485,
+        "sales": 4882,
+        "seats": 20443,
         "count": null,
         "theaters": null,
-        "wowRatio": 39.5,
+        "wowRatio": 40.1,
         "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       }
     ],
