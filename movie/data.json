@@ -2,12 +2,12 @@
   {
     "date": "2026-06-15",
     "rawDate": "20260615",
-    "title": "速報値（15:06更新）",
+    "title": "速報値（21:54更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 52560,
-        "seats": 361812,
+        "sales": 85617,
+        "seats": 742103,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,84 +15,84 @@
       },
       {
         "rank": 2,
-        "sales": 9067,
-        "seats": 69118,
+        "sales": 15414,
+        "seats": 142387,
         "count": null,
         "theaters": null,
-        "wowRatio": 61.1,
+        "wowRatio": 72.1,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 7927,
-        "seats": 45987,
+        "sales": 9687,
+        "seats": 90107,
         "count": null,
         "theaters": null,
-        "wowRatio": 75.1,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
-      },
-      {
-        "rank": 4,
-        "sales": 6058,
-        "seats": 45205,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 63.1,
+        "wowRatio": 65.9,
         "movie": "プラダを着た悪魔２"
       },
       {
-        "rank": 5,
-        "sales": 5693,
-        "seats": 35639,
+        "rank": 4,
+        "sales": 9019,
+        "seats": 60566,
         "count": null,
         "theaters": null,
-        "wowRatio": 68.4,
+        "wowRatio": 74.6,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 5,
+        "sales": 8715,
+        "seats": 73076,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 73.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 6,
-        "sales": 4176,
-        "seats": 51461,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 38.6,
-        "movie": "箱の中の羊"
-      },
-      {
-        "rank": 7,
-        "sales": 3356,
-        "seats": 90206,
+        "sales": 6485,
+        "seats": 184956,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
-        "rank": 8,
-        "sales": 2144,
-        "seats": 19652,
+        "rank": 7,
+        "sales": 5683,
+        "seats": 93514,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "劇場版 旅人検視官 道場修作"
+        "wowRatio": 43.3,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 8,
+        "sales": 2735,
+        "seats": 31773,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.2,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       },
       {
         "rank": 9,
-        "sales": 1544,
-        "seats": 5051,
+        "sales": 2702,
+        "seats": 10841,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
+        "wowRatio": 27020,
         "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
       },
       {
         "rank": 10,
-        "sales": 1483,
-        "seats": 11687,
+        "sales": 2479,
+        "seats": 29025,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.4,
-        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+        "wowRatio": null,
+        "movie": "劇場版 旅人検視官 道場修作"
       }
     ],
     "isFlash": true
