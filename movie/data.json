@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-16",
+    "rawDate": "20260616",
+    "title": "速報値（12:49更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 35721,
+        "seats": 278287,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 4783,
+        "seats": 54609,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 3,
+        "sales": 3122,
+        "seats": 33440,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.1,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 4,
+        "sales": 2940,
+        "seats": 43151,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 46.2,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 5,
+        "sales": 1882,
+        "seats": 65662,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 6,
+        "sales": 1800,
+        "seats": 20041,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 7,
+        "sales": 1366,
+        "seats": 23266,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.7,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 8,
+        "sales": 1160,
+        "seats": 21414,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.2,
+        "movie": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞"
+      },
+      {
+        "rank": 9,
+        "sales": 911,
+        "seats": 30846,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 83.6,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 10,
+        "sales": 817,
+        "seats": 14843,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 64.5,
+        "movie": "映画「正直不動産」"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-15",
     "rawDate": "20260615",
     "title": "デイリー合算ランキング：20260615(月)",
