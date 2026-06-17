@@ -2,12 +2,12 @@
   {
     "date": "2026-06-17",
     "rawDate": "20260617",
-    "title": "速報値（09:15更新）",
+    "title": "速報値（15:05更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 5529,
-        "seats": 42213,
+        "sales": 69542,
+        "seats": 403098,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,83 +15,83 @@
       },
       {
         "rank": 2,
-        "sales": 841,
-        "seats": 9134,
+        "sales": 10151,
+        "seats": 78326,
         "count": null,
         "theaters": null,
-        "wowRatio": 34.8,
+        "wowRatio": 63.5,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 596,
-        "seats": 11469,
+        "sales": 8276,
+        "seats": 49384,
         "count": null,
         "theaters": null,
-        "wowRatio": 27.8,
-        "movie": "箱の中の羊"
-      },
-      {
-        "rank": 4,
-        "sales": 371,
-        "seats": 3486,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 28.5,
+        "wowRatio": 68.9,
         "movie": "プラダを着た悪魔２"
       },
       {
-        "rank": 5,
-        "sales": 324,
-        "seats": 4798,
+        "rank": 4,
+        "sales": 6214,
+        "seats": 63354,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "劇場版 旅人検視官 道場修作"
+        "wowRatio": 55.8,
+        "movie": "箱の中の羊"
       },
       {
-        "rank": 6,
-        "sales": 259,
-        "seats": 11003,
+        "rank": 5,
+        "sales": 3718,
+        "seats": 99679,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
-        "rank": 7,
-        "sales": 178,
-        "seats": 3177,
+        "rank": 6,
+        "sales": 3587,
+        "seats": 37756,
         "count": null,
         "theaters": null,
-        "wowRatio": 37.9,
-        "movie": "映画「正直不動産」"
-      },
-      {
-        "rank": 8,
-        "sales": 176,
-        "seats": 4194,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 40.2,
-        "movie": "劇場版モノノ怪 第三章 蛇神"
-      },
-      {
-        "rank": 9,
-        "sales": 164,
-        "seats": 3542,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 36.6,
+        "wowRatio": 65,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
-        "rank": 10,
-        "sales": 154,
-        "seats": 4249,
+        "rank": 7,
+        "sales": 2679,
+        "seats": 25989,
         "count": null,
         "theaters": null,
-        "wowRatio": 23,
+        "wowRatio": null,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 8,
+        "sales": 1898,
+        "seats": 47657,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 66.6,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 9,
+        "sales": 1629,
+        "seats": 17848,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 60.8,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 10,
+        "sales": 1452,
+        "seats": 24513,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 58.1,
         "movie": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞"
       }
     ],
