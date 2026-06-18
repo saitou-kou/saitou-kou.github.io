@@ -2,12 +2,12 @@
   {
     "date": "2026-06-18",
     "rawDate": "20260618",
-    "title": "速報値（12:49更新）",
+    "title": "速報値（17:41更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 35723,
-        "seats": 269027,
+        "sales": 65061,
+        "seats": 532118,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -15,44 +15,44 @@
       },
       {
         "rank": 2,
-        "sales": 5071,
-        "seats": 54032,
+        "sales": 9764,
+        "seats": 101072,
         "count": null,
         "theaters": null,
-        "wowRatio": 101.2,
+        "wowRatio": 93.7,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 3,
-        "sales": 3428,
-        "seats": 33029,
+        "sales": 6834,
+        "seats": 62550,
         "count": null,
         "theaters": null,
-        "wowRatio": 92.3,
+        "wowRatio": 92.9,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 4,
-        "sales": 3115,
-        "seats": 44535,
+        "sales": 5427,
+        "seats": 76588,
         "count": null,
         "theaters": null,
-        "wowRatio": 92.5,
+        "wowRatio": 92.9,
         "movie": "箱の中の羊"
       },
       {
         "rank": 5,
-        "sales": 1651,
-        "seats": 19929,
+        "sales": 3563,
+        "seats": 52108,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "劇場版 旅人検視官 道場修作"
+        "wowRatio": 97.7,
+        "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 6,
-        "sales": 1399,
-        "seats": 66620,
+        "sales": 3079,
+        "seats": 137445,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,39 +60,39 @@
       },
       {
         "rank": 7,
-        "sales": 1397,
-        "seats": 23181,
+        "sales": 2862,
+        "seats": 9280,
         "count": null,
         "theaters": null,
-        "wowRatio": 99.6,
-        "movie": "名探偵コナン ハイウェイの堕天使"
+        "wowRatio": null,
+        "movie": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来"
       },
       {
         "rank": 8,
-        "sales": 1191,
-        "seats": 21267,
+        "sales": 2452,
+        "seats": 30751,
         "count": null,
         "theaters": null,
-        "wowRatio": 465.2,
-        "movie": "お終活３ 幸春！人生メモリーズ＜完成披露上映＞"
+        "wowRatio": null,
+        "movie": "劇場版 旅人検視官 道場修作"
       },
       {
         "rank": 9,
-        "sales": 955,
-        "seats": 14351,
+        "sales": 2036,
+        "seats": 57879,
         "count": null,
         "theaters": null,
-        "wowRatio": 101.4,
-        "movie": "映画「正直不動産」"
+        "wowRatio": 100.4,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 10,
-        "sales": 819,
-        "seats": 31125,
+        "sales": 1744,
+        "seats": 23247,
         "count": null,
         "theaters": null,
-        "wowRatio": 106.1,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+        "wowRatio": 104.7,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
       }
     ],
     "isFlash": true
