@@ -2,32 +2,32 @@
   {
     "date": "2026-06-19",
     "rawDate": "20260619",
-    "title": "速報値（23:50更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260619(金)",
     "movies": [
       {
         "rank": 1,
-        "sales": 82554,
-        "seats": 543320,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 78.1,
+        "sales": 84395,
+        "seats": 551626,
+        "count": 1955,
+        "theaters": 271,
+        "wowRatio": 77.3,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 52923,
-        "seats": 284280,
-        "count": null,
-        "theaters": null,
+        "sales": 54311,
+        "seats": 289690,
+        "count": 1283,
+        "theaters": 259,
         "wowRatio": null,
         "movie": "黒牢城"
       },
       {
         "rank": 3,
-        "sales": 25667,
-        "seats": 209676,
-        "count": null,
-        "theaters": null,
+        "sales": 26240,
+        "seats": 212893,
+        "count": 1271,
+        "theaters": 260,
         "wowRatio": null,
         "movie": "免許返納！？"
       },
@@ -35,67 +35,202 @@
         "rank": 4,
         "sales": 16797,
         "seats": 42751,
-        "count": null,
-        "theaters": null,
+        "count": 140,
+        "theaters": 51,
         "wowRatio": null,
         "movie": "魔女の宅急便"
       },
       {
         "rank": 5,
-        "sales": 14508,
-        "seats": 108035,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 76.8,
+        "sales": 14847,
+        "seats": 110079,
+        "count": 748,
+        "theaters": 269,
+        "wowRatio": 75.9,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 6,
-        "sales": 11336,
-        "seats": 96495,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 33.4,
+        "sales": 11938,
+        "seats": 100461,
+        "count": 710,
+        "theaters": 172,
+        "wowRatio": 33.8,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
         "rank": 7,
-        "sales": 8578,
-        "seats": 73683,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 97.7,
+        "sales": 8881,
+        "seats": 75358,
+        "count": 508,
+        "theaters": 254,
+        "wowRatio": 96.6,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 8,
-        "sales": 6801,
-        "seats": 75262,
-        "count": null,
-        "theaters": null,
+        "sales": 6917,
+        "seats": 76186,
+        "count": 501,
+        "theaters": 171,
         "wowRatio": null,
         "movie": "急に具合が悪くなる"
       },
       {
         "rank": 9,
-        "sales": 5582,
-        "seats": 49572,
-        "count": null,
-        "theaters": null,
+        "sales": 5859,
+        "seats": 51507,
+        "count": 398,
+        "theaters": 127,
         "wowRatio": null,
         "movie": "マジカル・シークレット・ツアー"
       },
       {
         "rank": 10,
-        "sales": 5102,
-        "seats": 58929,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 101.4,
+        "sales": 5190,
+        "seats": 59774,
+        "count": 448,
+        "theaters": 257,
+        "wowRatio": 99.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 11,
+        "sales": 4063,
+        "seats": 65806,
+        "count": 541,
+        "theaters": 268,
+        "wowRatio": 80.1,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 12,
+        "sales": 3338,
+        "seats": 23730,
+        "count": 172,
+        "theaters": 167,
+        "wowRatio": 87.2,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 13,
+        "sales": 2193,
+        "seats": 50753,
+        "count": 340,
+        "theaters": 258,
+        "wowRatio": 94.6,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 14,
+        "sales": 2065,
+        "seats": 19028,
+        "count": 125,
+        "theaters": 32,
+        "wowRatio": null,
+        "movie": "君は映画"
+      },
+      {
+        "rank": 15,
+        "sales": 1839,
+        "seats": 33237,
+        "count": 254,
+        "theaters": 251,
+        "wowRatio": 113,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 16,
+        "sales": 1174,
+        "seats": 14653,
+        "count": 131,
+        "theaters": 116,
+        "wowRatio": 43.6,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 17,
+        "sales": 1116,
+        "seats": 6418,
+        "count": 42,
+        "theaters": 34,
+        "wowRatio": 74.6,
+        "movie": "シラート"
+      },
+      {
+        "rank": 18,
+        "sales": 1106,
+        "seats": 12456,
+        "count": 81,
+        "theaters": 41,
+        "wowRatio": null,
+        "movie": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０２４ ’ＧＥＮＥＲＡＴＩＯＮＳ ２．０” ＬＶ"
+      },
+      {
+        "rank": 19,
+        "sales": 1062,
+        "seats": 21926,
+        "count": 172,
+        "theaters": 174,
+        "wowRatio": 89,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 20,
+        "sales": 1051,
+        "seats": 4704,
+        "count": 33,
+        "theaters": 8,
+        "wowRatio": null,
+        "movie": "スクリーム ７"
+      },
+      {
+        "rank": 21,
+        "sales": 1042,
+        "seats": 25228,
+        "count": 189,
+        "theaters": 181,
+        "wowRatio": 57.5,
+        "movie": "山口くんはワルくない"
+      },
+      {
+        "rank": 22,
+        "sales": 984,
+        "seats": 30006,
+        "count": 189,
+        "theaters": 134,
+        "wowRatio": null,
+        "movie": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+      },
+      {
+        "rank": 23,
+        "sales": 882,
+        "seats": 12929,
+        "count": 102,
+        "theaters": 101,
+        "wowRatio": 138.9,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 24,
+        "sales": 857,
+        "seats": 8886,
+        "count": 72,
+        "theaters": 37,
+        "wowRatio": null,
+        "movie": "さよなら、僕のマンハッタン"
+      },
+      {
+        "rank": 25,
+        "sales": 819,
+        "seats": 26819,
+        "count": 221,
+        "theaters": 222,
+        "wowRatio": 55.2,
+        "movie": "マスターズ・オブ・ユニバース"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-06-18",
