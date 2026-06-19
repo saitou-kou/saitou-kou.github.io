@@ -2,30 +2,30 @@
   {
     "date": "2026-06-19",
     "rawDate": "20260619",
-    "title": "速報値（09:15更新）",
+    "title": "速報値（20:16更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 3310,
-        "seats": 20361,
+        "sales": 67780,
+        "seats": 463966,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 49653,
+        "seats": 262873,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "黒牢城"
       },
       {
-        "rank": 2,
-        "sales": 2903,
-        "seats": 31027,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 28.7,
-        "movie": "Ｍｉｃｈａｅｌ／マイケル"
-      },
-      {
         "rank": 3,
-        "sales": 1872,
-        "seats": 14954,
+        "sales": 23747,
+        "seats": 182938,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,8 +33,8 @@
       },
       {
         "rank": 4,
-        "sales": 1551,
-        "seats": 6231,
+        "sales": 15238,
+        "seats": 40222,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,57 +42,57 @@
       },
       {
         "rank": 5,
-        "sales": 597,
-        "seats": 6265,
+        "sales": 11648,
+        "seats": 88190,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 6,
+        "sales": 8618,
+        "seats": 77914,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 26.8,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 7,
+        "sales": 7500,
+        "seats": 63836,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 97.2,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 8,
+        "sales": 6518,
+        "seats": 72513,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "急に具合が悪くなる"
       },
       {
-        "rank": 6,
-        "sales": 523,
-        "seats": 8658,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 16.7,
-        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
-      },
-      {
-        "rank": 7,
-        "sales": 421,
-        "seats": 5618,
+        "rank": 9,
+        "sales": 4670,
+        "seats": 40102,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "マジカル・シークレット・ツアー"
       },
       {
-        "rank": 8,
-        "sales": 381,
-        "seats": 4846,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 23.6,
-        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
-      },
-      {
-        "rank": 9,
-        "sales": 232,
-        "seats": 4012,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 63.4,
-        "movie": "劇場版モノノ怪 第三章 蛇神"
-      },
-      {
         "rank": 10,
-        "sales": 177,
-        "seats": 6674,
+        "sales": 4350,
+        "seats": 50271,
         "count": null,
         "theaters": null,
-        "wowRatio": 28,
-        "movie": "箱の中の羊"
+        "wowRatio": 96.8,
+        "movie": "名探偵コナン ハイウェイの堕天使"
       }
     ],
     "isFlash": true
