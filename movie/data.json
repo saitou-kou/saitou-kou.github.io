@@ -2,21 +2,21 @@
   {
     "date": "2026-06-21",
     "rawDate": "20260621",
-    "title": "速報値（18:58更新）",
+    "title": "速報値（21:53更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 113940,
-        "seats": 441293,
+        "sales": 124830,
+        "seats": 552642,
         "count": null,
         "theaters": null,
-        "wowRatio": 96.7,
+        "wowRatio": 97,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 36739,
-        "seats": 233957,
+        "sales": 38706,
+        "seats": 292177,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,17 +24,17 @@
       },
       {
         "rank": 3,
-        "sales": 24904,
-        "seats": 74380,
+        "sales": 26405,
+        "seats": 104745,
         "count": null,
         "theaters": null,
-        "wowRatio": 124.8,
-        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+        "wowRatio": 88.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 4,
-        "sales": 24181,
-        "seats": 169011,
+        "sales": 25191,
+        "seats": 205274,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,47 +42,47 @@
       },
       {
         "rank": 5,
-        "sales": 24114,
-        "seats": 74267,
+        "sales": 24984,
+        "seats": 75627,
         "count": null,
         "theaters": null,
-        "wowRatio": 86.7,
-        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+        "wowRatio": 124.5,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 6,
-        "sales": 16909,
-        "seats": 55235,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 100.2,
-        "movie": "名探偵コナン ハイウェイの堕天使"
-      },
-      {
-        "rank": 7,
-        "sales": 15394,
-        "seats": 34979,
+        "sales": 18089,
+        "seats": 43412,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "魔女の宅急便"
       },
       {
-        "rank": 8,
-        "sales": 13071,
-        "seats": 71694,
+        "rank": 7,
+        "sales": 17554,
+        "seats": 63858,
         "count": null,
         "theaters": null,
-        "wowRatio": 64.9,
+        "wowRatio": 101.2,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 8,
+        "sales": 14089,
+        "seats": 94910,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.4,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
         "rank": 9,
-        "sales": 11947,
-        "seats": 53517,
+        "sales": 12931,
+        "seats": 67246,
         "count": null,
         "theaters": null,
-        "wowRatio": 73.7,
+        "wowRatio": 74.7,
         "movie": "プラダを着た悪魔２"
       },
       {
