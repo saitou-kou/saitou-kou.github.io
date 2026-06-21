@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-21",
+    "rawDate": "20260621",
+    "title": "速報値（14:45更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 71962,
+        "seats": 262240,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 84.5,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 29220,
+        "seats": 146195,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 3,
+        "sales": 21129,
+        "seats": 59716,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 128.5,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 4,
+        "sales": 19556,
+        "seats": 105398,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 5,
+        "sales": 15961,
+        "seats": 46794,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 80.4,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 6,
+        "sales": 11641,
+        "seats": 34056,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 98.7,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 7,
+        "sales": 11438,
+        "seats": 25166,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "魔女の宅急便"
+      },
+      {
+        "rank": 8,
+        "sales": 10060,
+        "seats": 41671,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 489.8,
+        "movie": "ブルーイ ｉｎ シネマ"
+      },
+      {
+        "rank": 9,
+        "sales": 9428,
+        "seats": 45456,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 65.4,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 10,
+        "sales": 7611,
+        "seats": 32395,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 64.6,
+        "movie": "プラダを着た悪魔２"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-20",
     "rawDate": "20260620",
     "title": "（独立系を含む）デイリー合算ランキング：20260620(土)",
