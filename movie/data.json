@@ -2,14 +2,14 @@
   {
     "date": "2026-06-22",
     "rawDate": "20260622",
-    "title": "速報値（23:50更新）",
+    "title": "デイリー合算ランキング：20260622(月)",
     "movies": [
       {
         "rank": 1,
         "sales": 65667,
         "seats": 540272,
-        "count": null,
-        "theaters": null,
+        "count": 1875,
+        "theaters": 258,
         "wowRatio": 76.6,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
@@ -17,8 +17,8 @@
         "rank": 2,
         "sales": 29526,
         "seats": 292162,
-        "count": null,
-        "theaters": null,
+        "count": 1233,
+        "theaters": 247,
         "wowRatio": null,
         "movie": "黒牢城"
       },
@@ -26,8 +26,8 @@
         "rank": 3,
         "sales": 19477,
         "seats": 208058,
-        "count": null,
-        "theaters": null,
+        "count": 1222,
+        "theaters": 248,
         "wowRatio": null,
         "movie": "免許返納！？"
       },
@@ -35,8 +35,8 @@
         "rank": 4,
         "sales": 11155,
         "seats": 107495,
-        "count": null,
-        "theaters": null,
+        "count": 716,
+        "theaters": 253,
         "wowRatio": 72.4,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
@@ -44,8 +44,8 @@
         "rank": 5,
         "sales": 7597,
         "seats": 38367,
-        "count": null,
-        "theaters": null,
+        "count": 127,
+        "theaters": 46,
         "wowRatio": null,
         "movie": "魔女の宅急便"
       },
@@ -53,8 +53,8 @@
         "rank": 6,
         "sales": 7194,
         "seats": 71371,
-        "count": null,
-        "theaters": null,
+        "count": 491,
+        "theaters": 240,
         "wowRatio": 74.2,
         "movie": "プラダを着た悪魔２"
       },
@@ -62,8 +62,8 @@
         "rank": 7,
         "sales": 6245,
         "seats": 75770,
-        "count": null,
-        "theaters": null,
+        "count": 497,
+        "theaters": 168,
         "wowRatio": null,
         "movie": "急に具合が悪くなる"
       },
@@ -71,8 +71,8 @@
         "rank": 8,
         "sales": 5757,
         "seats": 94834,
-        "count": null,
-        "theaters": null,
+        "count": 680,
+        "theaters": 165,
         "wowRatio": 88.7,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
@@ -80,8 +80,8 @@
         "rank": 9,
         "sales": 5493,
         "seats": 57573,
-        "count": null,
-        "theaters": null,
+        "count": 435,
+        "theaters": 245,
         "wowRatio": 63,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
@@ -89,13 +89,148 @@
         "rank": 10,
         "sales": 4952,
         "seats": 48741,
-        "count": null,
-        "theaters": null,
+        "count": 334,
+        "theaters": 243,
         "wowRatio": 54.9,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 11,
+        "sales": 4173,
+        "seats": 48487,
+        "count": 369,
+        "theaters": 119,
+        "wowRatio": null,
+        "movie": "マジカル・シークレット・ツアー"
+      },
+      {
+        "rank": 12,
+        "sales": 3492,
+        "seats": 62740,
+        "count": 517,
+        "theaters": 255,
+        "wowRatio": 61.4,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 13,
+        "sales": 1697,
+        "seats": 32161,
+        "count": 241,
+        "theaters": 238,
+        "wowRatio": 62,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 14,
+        "sales": 1586,
+        "seats": 24121,
+        "count": 166,
+        "theaters": 160,
+        "wowRatio": 82.2,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 15,
+        "sales": 1361,
+        "seats": 38337,
+        "count": 254,
+        "theaters": 112,
+        "wowRatio": 94,
+        "movie": "ブルーイ ｉｎ シネマ"
+      },
+      {
+        "rank": 16,
+        "sales": 1165,
+        "seats": 14671,
+        "count": 130,
+        "theaters": 112,
+        "wowRatio": 47,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 17,
+        "sales": 1045,
+        "seats": 4748,
+        "count": 19,
+        "theaters": 16,
+        "wowRatio": 5805.6,
+        "movie": "映画「ヒプノシスマイク －Ｄｉｖｉｓｉｏｎ Ｒａｐ Ｂａｔｔｌｅ－」"
+      },
+      {
+        "rank": 18,
+        "sales": 994,
+        "seats": 17880,
+        "count": 124,
+        "theaters": 32,
+        "wowRatio": null,
+        "movie": "君は映画"
+      },
+      {
+        "rank": 19,
+        "sales": 900,
+        "seats": 22319,
+        "count": 170,
+        "theaters": 170,
+        "wowRatio": 57.5,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 20,
+        "sales": 869,
+        "seats": 23077,
+        "count": 180,
+        "theaters": 174,
+        "wowRatio": 46.6,
+        "movie": "山口くんはワルくない"
+      },
+      {
+        "rank": 21,
+        "sales": 861,
+        "seats": 14459,
+        "count": 95,
+        "theaters": 74,
+        "wowRatio": 68.6,
+        "movie": "名無し"
+      },
+      {
+        "rank": 22,
+        "sales": 679,
+        "seats": 7483,
+        "count": 45,
+        "theaters": 32,
+        "wowRatio": 53.2,
+        "movie": "シラート"
+      },
+      {
+        "rank": 23,
+        "sales": 667,
+        "seats": 29504,
+        "count": 189,
+        "theaters": 129,
+        "wowRatio": 36.7,
+        "movie": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+      },
+      {
+        "rank": 24,
+        "sales": 652,
+        "seats": 12525,
+        "count": 95,
+        "theaters": 94,
+        "wowRatio": 70.1,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 25,
+        "sales": 634,
+        "seats": 1574,
+        "count": 7,
+        "theaters": 4,
+        "wowRatio": null,
+        "movie": "劇場版 ハイスクール・フリート"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-06-21",
