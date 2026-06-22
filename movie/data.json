@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-22",
+    "rawDate": "20260622",
+    "title": "速報値（13:08更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 30835,
+        "seats": 207080,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 81,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 18656,
+        "seats": 117972,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 3,
+        "sales": 12208,
+        "seats": 82692,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 4,
+        "sales": 4477,
+        "seats": 35504,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 71.1,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 5,
+        "sales": 3745,
+        "seats": 32802,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "急に具合が悪くなる"
+      },
+      {
+        "rank": 6,
+        "sales": 3222,
+        "seats": 28426,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 75.4,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 7,
+        "sales": 3140,
+        "seats": 28451,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 49.4,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 8,
+        "sales": 2044,
+        "seats": 31240,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 84.1,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 9,
+        "sales": 2008,
+        "seats": 18232,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 50.1,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 10,
+        "sales": 1953,
+        "seats": 27259,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.4,
+        "movie": "箱の中の羊"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-21",
     "rawDate": "20260621",
     "title": "（独立系を含む）デイリー合算ランキング：20260621(日)",
