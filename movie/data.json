@@ -2,21 +2,21 @@
   {
     "date": "2026-06-23",
     "rawDate": "20260623",
-    "title": "速報値（20:56更新）",
+    "title": "速報値（23:50更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 57172,
-        "seats": 523000,
+        "sales": 59783,
+        "seats": 556886,
         "count": null,
         "theaters": null,
-        "wowRatio": 69.6,
+        "wowRatio": 72,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 25454,
-        "seats": 282307,
+        "sales": 25795,
+        "seats": 296824,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 17747,
-        "seats": 196871,
+        "sales": 18052,
+        "seats": 210593,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,17 +33,17 @@
       },
       {
         "rank": 4,
-        "sales": 9308,
-        "seats": 102398,
+        "sales": 9816,
+        "seats": 110771,
         "count": null,
         "theaters": null,
-        "wowRatio": 77.2,
+        "wowRatio": 79.6,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 5,
-        "sales": 7053,
-        "seats": 41460,
+        "sales": 7436,
+        "seats": 43144,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,11 +51,11 @@
       },
       {
         "rank": 6,
-        "sales": 6490,
-        "seats": 69143,
+        "sales": 6700,
+        "seats": 74024,
         "count": null,
         "theaters": null,
-        "wowRatio": 79,
+        "wowRatio": 79.9,
         "movie": "プラダを着た悪魔２"
       },
       {
@@ -69,26 +69,26 @@
       },
       {
         "rank": 8,
-        "sales": 4296,
-        "seats": 84285,
+        "sales": 4647,
+        "seats": 94352,
         "count": null,
         "theaters": null,
-        "wowRatio": 82,
+        "wowRatio": 86.6,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
         "rank": 9,
-        "sales": 3400,
-        "seats": 54220,
+        "sales": 3556,
+        "seats": 57649,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.6,
+        "wowRatio": 73.5,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 10,
-        "sales": 3205,
-        "seats": 43806,
+        "sales": 3358,
+        "seats": 49384,
         "count": null,
         "theaters": null,
         "wowRatio": null,
