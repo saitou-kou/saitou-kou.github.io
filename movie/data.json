@@ -2,12 +2,12 @@
   {
     "date": "2026-06-23",
     "rawDate": "20260623",
-    "title": "速報値（13:47更新）",
+    "title": "速報値（17:21更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 30674,
-        "seats": 229300,
+        "sales": 45055,
+        "seats": 361474,
         "count": null,
         "theaters": null,
         "wowRatio": 70.2,
@@ -15,8 +15,8 @@
       },
       {
         "rank": 2,
-        "sales": 16845,
-        "seats": 126180,
+        "sales": 22638,
+        "seats": 204542,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 12773,
-        "seats": 93257,
+        "sales": 16421,
+        "seats": 146458,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,35 +33,35 @@
       },
       {
         "rank": 4,
-        "sales": 4057,
-        "seats": 38679,
+        "sales": 6878,
+        "seats": 71197,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 75.4,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 5,
+        "sales": 4997,
+        "seats": 50866,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 78.4,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 6,
+        "sales": 4959,
+        "seats": 53190,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "急に具合が悪くなる"
       },
       {
-        "rank": 5,
-        "sales": 4016,
-        "seats": 41629,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 70.2,
-        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
-      },
-      {
-        "rank": 6,
-        "sales": 3199,
-        "seats": 32905,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 69.3,
-        "movie": "プラダを着た悪魔２"
-      },
-      {
         "rank": 7,
-        "sales": 2236,
-        "seats": 18050,
+        "sales": 4505,
+        "seats": 29118,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,30 +69,30 @@
       },
       {
         "rank": 8,
-        "sales": 2120,
-        "seats": 31746,
+        "sales": 3119,
+        "seats": 61655,
         "count": null,
         "theaters": null,
-        "wowRatio": 53.3,
-        "movie": "箱の中の羊"
+        "wowRatio": 80.7,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
         "rank": 9,
-        "sales": 1884,
-        "seats": 21126,
+        "sales": 2774,
+        "seats": 43985,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.6,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 10,
+        "sales": 2729,
+        "seats": 33759,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "マジカル・シークレット・ツアー"
-      },
-      {
-        "rank": 10,
-        "sales": 1850,
-        "seats": 36518,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 70.6,
-        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       }
     ],
     "isFlash": true
