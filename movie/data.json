@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-24",
+    "rawDate": "20260624",
+    "title": "速報値（12:29更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 29379,
+        "seats": 181096,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.9,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 15664,
+        "seats": 106957,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 3,
+        "sales": 10811,
+        "seats": 75583,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 4,
+        "sales": 4116,
+        "seats": 31520,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 59.6,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 5,
+        "sales": 3302,
+        "seats": 27858,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "急に具合が悪くなる"
+      },
+      {
+        "rank": 6,
+        "sales": 3106,
+        "seats": 24229,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.8,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 7,
+        "sales": 2063,
+        "seats": 15312,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "魔女の宅急便"
+      },
+      {
+        "rank": 8,
+        "sales": 2058,
+        "seats": 25992,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 51.8,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 9,
+        "sales": 1655,
+        "seats": 17317,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "マジカル・シークレット・ツアー"
+      },
+      {
+        "rank": 10,
+        "sales": 1571,
+        "seats": 26593,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 70.4,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-23",
     "rawDate": "20260623",
     "title": "（独立系を含む）デイリー合算ランキング：20260623(火)",
