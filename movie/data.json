@@ -2,21 +2,21 @@
   {
     "date": "2026-06-24",
     "rawDate": "20260624",
-    "title": "速報値（16:23更新）",
+    "title": "速報値（19:38更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 56435,
-        "seats": 338733,
+        "sales": 69971,
+        "seats": 453732,
         "count": null,
         "theaters": null,
-        "wowRatio": 70.4,
+        "wowRatio": 70.7,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 24541,
-        "seats": 182336,
+        "sales": 27265,
+        "seats": 241048,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 17607,
-        "seats": 134792,
+        "sales": 19236,
+        "seats": 176056,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -33,66 +33,66 @@
       },
       {
         "rank": 4,
-        "sales": 9315,
-        "seats": 63877,
+        "sales": 11499,
+        "seats": 78797,
         "count": null,
         "theaters": null,
-        "wowRatio": 76,
+        "wowRatio": 75.7,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 5,
-        "sales": 6774,
-        "seats": 46385,
+        "sales": 8339,
+        "seats": 59897,
         "count": null,
         "theaters": null,
-        "wowRatio": 69,
+        "wowRatio": 69.6,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 6,
-        "sales": 5829,
-        "seats": 47992,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "急に具合が悪くなる"
-      },
-      {
-        "rank": 7,
-        "sales": 4812,
-        "seats": 27393,
+        "sales": 8122,
+        "seats": 39287,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "魔女の宅急便"
       },
       {
-        "rank": 8,
-        "sales": 3826,
-        "seats": 55777,
+        "rank": 7,
+        "sales": 6585,
+        "seats": 62354,
         "count": null,
         "theaters": null,
-        "wowRatio": 82.8,
+        "wowRatio": null,
+        "movie": "急に具合が悪くなる"
+      },
+      {
+        "rank": 8,
+        "sales": 5304,
+        "seats": 74273,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 86,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       },
       {
         "rank": 9,
-        "sales": 3427,
-        "seats": 41645,
+        "sales": 4705,
+        "seats": 50203,
         "count": null,
         "theaters": null,
-        "wowRatio": 49,
-        "movie": "箱の中の羊"
+        "wowRatio": 77.6,
+        "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 10,
-        "sales": 3410,
-        "seats": 36303,
+        "sales": 3821,
+        "seats": 51771,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.1,
-        "movie": "名探偵コナン ハイウェイの堕天使"
+        "wowRatio": 50.7,
+        "movie": "箱の中の羊"
       }
     ],
     "isFlash": true
