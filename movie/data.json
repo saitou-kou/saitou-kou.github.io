@@ -2,21 +2,21 @@
   {
     "date": "2026-06-25",
     "rawDate": "20260625",
-    "title": "速報値（21:15更新）",
+    "title": "速報値（23:50更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 61066,
-        "seats": 486227,
+        "sales": 62506,
+        "seats": 502854,
         "count": null,
         "theaters": null,
-        "wowRatio": 72.8,
+        "wowRatio": 74.4,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 21128,
-        "seats": 277936,
+        "sales": 21156,
+        "seats": 279677,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 3,
-        "sales": 16445,
-        "seats": 196981,
+        "sales": 16635,
+        "seats": 206606,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,30 +42,30 @@
       },
       {
         "rank": 5,
-        "sales": 9500,
-        "seats": 99955,
+        "sales": 9833,
+        "seats": 104819,
         "count": null,
         "theaters": null,
-        "wowRatio": 71.7,
+        "wowRatio": 74.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 6,
-        "sales": 6516,
-        "seats": 68364,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 70.8,
-        "movie": "プラダを着た悪魔２"
-      },
-      {
-        "rank": 7,
-        "sales": 6444,
-        "seats": 41816,
+        "sales": 6749,
+        "seats": 43144,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "魔女の宅急便"
+      },
+      {
+        "rank": 7,
+        "sales": 6740,
+        "seats": 72084,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 72.6,
+        "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 8,
@@ -87,11 +87,11 @@
       },
       {
         "rank": 10,
-        "sales": 4157,
-        "seats": 88749,
+        "sales": 4373,
+        "seats": 94850,
         "count": null,
         "theaters": null,
-        "wowRatio": 95.1,
+        "wowRatio": 99.2,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       }
     ],
