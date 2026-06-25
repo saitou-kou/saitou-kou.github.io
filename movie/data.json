@@ -2,100 +2,235 @@
   {
     "date": "2026-06-25",
     "rawDate": "20260625",
-    "title": "速報値（23:50更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260625(木)",
     "movies": [
       {
         "rank": 1,
-        "sales": 62506,
-        "seats": 502854,
-        "count": null,
-        "theaters": null,
+        "sales": 64102,
+        "seats": 511451,
+        "count": 1886,
+        "theaters": 269,
         "wowRatio": 74.4,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 21156,
-        "seats": 279677,
-        "count": null,
-        "theaters": null,
+        "sales": 21742,
+        "seats": 284775,
+        "count": 1266,
+        "theaters": 257,
         "wowRatio": null,
         "movie": "黒牢城"
       },
       {
         "rank": 3,
-        "sales": 16635,
-        "seats": 206606,
-        "count": null,
-        "theaters": null,
+        "sales": 17079,
+        "seats": 209823,
+        "count": 1252,
+        "theaters": 258,
         "wowRatio": null,
         "movie": "免許返納！？"
       },
       {
         "rank": 4,
-        "sales": 10839,
-        "seats": 41741,
-        "count": null,
-        "theaters": null,
+        "sales": 11012,
+        "seats": 41937,
+        "count": 172,
+        "theaters": 176,
         "wowRatio": null,
         "movie": "シークレット・ミッション"
       },
       {
         "rank": 5,
-        "sales": 9833,
-        "seats": 104819,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 74.2,
+        "sales": 10122,
+        "seats": 107088,
+        "count": 710,
+        "theaters": 264,
+        "wowRatio": 73.8,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 6,
+        "sales": 7008,
+        "seats": 73762,
+        "count": 488,
+        "theaters": 250,
+        "wowRatio": 71.9,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 7,
         "sales": 6749,
         "seats": 43144,
-        "count": null,
-        "theaters": null,
+        "count": 141,
+        "theaters": 51,
         "wowRatio": null,
         "movie": "魔女の宅急便"
       },
       {
-        "rank": 7,
-        "sales": 6740,
-        "seats": 72084,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 72.6,
-        "movie": "プラダを着た悪魔２"
-      },
-      {
         "rank": 8,
-        "sales": 6263,
-        "seats": 24393,
-        "count": null,
-        "theaters": null,
+        "sales": 6478,
+        "seats": 24786,
+        "count": 71,
+        "theaters": 72,
         "wowRatio": null,
-        "movie": "シークレットシネマ（トークシ"
+        "movie": "シークレットシネマ（トークショー中継）"
       },
       {
         "rank": 9,
-        "sales": 5229,
-        "seats": 72526,
-        "count": null,
-        "theaters": null,
+        "sales": 5339,
+        "seats": 73451,
+        "count": 484,
+        "theaters": 170,
         "wowRatio": null,
         "movie": "急に具合が悪くなる"
       },
       {
         "rank": 10,
-        "sales": 4373,
-        "seats": 94850,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 99.2,
+        "sales": 4709,
+        "seats": 98431,
+        "count": 690,
+        "theaters": 170,
+        "wowRatio": 97.5,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 11,
+        "sales": 4029,
+        "seats": 55985,
+        "count": 425,
+        "theaters": 252,
+        "wowRatio": 78.9,
+        "movie": "名探偵コナン ハイウェイの堕天使"
+      },
+      {
+        "rank": 12,
+        "sales": 3225,
+        "seats": 64268,
+        "count": 535,
+        "theaters": 266,
+        "wowRatio": 50.3,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 13,
+        "sales": 3017,
+        "seats": 51092,
+        "count": 385,
+        "theaters": 126,
+        "wowRatio": null,
+        "movie": "マジカル・シークレット・ツアー"
+      },
+      {
+        "rank": 14,
+        "sales": 1853,
+        "seats": 49962,
+        "count": 326,
+        "theaters": 251,
+        "wowRatio": 79.7,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 15,
+        "sales": 1524,
+        "seats": 15341,
+        "count": 129,
+        "theaters": 116,
+        "wowRatio": 56.6,
+        "movie": "劇場版 旅人検視官 道場修作"
+      },
+      {
+        "rank": 16,
+        "sales": 1508,
+        "seats": 33002,
+        "count": 250,
+        "theaters": 249,
+        "wowRatio": 67.7,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 17,
+        "sales": 1264,
+        "seats": 23139,
+        "count": 174,
+        "theaters": 174,
+        "wowRatio": 63.5,
+        "movie": "映画「正直不動産」"
+      },
+      {
+        "rank": 18,
+        "sales": 1041,
+        "seats": 24874,
+        "count": 167,
+        "theaters": 164,
+        "wowRatio": 73.6,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 19,
+        "sales": 785,
+        "seats": 27398,
+        "count": 182,
+        "theaters": 133,
+        "wowRatio": 65.4,
+        "movie": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+      },
+      {
+        "rank": 20,
+        "sales": 745,
+        "seats": 24888,
+        "count": 184,
+        "theaters": 179,
+        "wowRatio": 44.4,
+        "movie": "山口くんはワルくない"
+      },
+      {
+        "rank": 21,
+        "sales": 734,
+        "seats": 17607,
+        "count": 120,
+        "theaters": 31,
+        "wowRatio": null,
+        "movie": "君は映画"
+      },
+      {
+        "rank": 22,
+        "sales": 702,
+        "seats": 7582,
+        "count": 42,
+        "theaters": 33,
+        "wowRatio": 55.2,
+        "movie": "シラート"
+      },
+      {
+        "rank": 23,
+        "sales": 699,
+        "seats": 14325,
+        "count": 92,
+        "theaters": 73,
+        "wowRatio": 67.7,
+        "movie": "名無し"
+      },
+      {
+        "rank": 24,
+        "sales": 588,
+        "seats": 13815,
+        "count": 86,
+        "theaters": 43,
+        "wowRatio": null,
+        "movie": "ＧＥＮＥＲＡＴＩＯＮＳ ＬＩＶＥ ＴＯＵＲ ２０２４ ’ＧＥＮＥＲＡＴＩＯＮＳ ２．０” ＬＶ"
+      },
+      {
+        "rank": 25,
+        "sales": 579,
+        "seats": 22527,
+        "count": 173,
+        "theaters": 171,
+        "wowRatio": 94.5,
+        "movie": "ＳＡＭＵＲＡＩ ＢＬＵＥ Ｐｒｏｊｅｃｔ ｆｏｒ ＦＩＦＡ Ｗｏｒｌｄ Ｃｕｐ ２０２６ 「ＯＮＥ ＣＲＥＡＴＵＲＥ」無数の個性、ひとつの生きもの。"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-06-24",
