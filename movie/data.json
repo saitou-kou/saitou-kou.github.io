@@ -2,21 +2,21 @@
   {
     "date": "2026-06-26",
     "rawDate": "20260626",
-    "title": "速報値（14:07更新）",
+    "title": "速報値（18:19更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 20275,
-        "seats": 152830,
+        "sales": 35937,
+        "seats": 268854,
         "count": null,
         "theaters": null,
-        "wowRatio": 55.8,
+        "wowRatio": 58.9,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 12363,
-        "seats": 209463,
+        "sales": 17406,
+        "seats": 328564,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,35 +24,35 @@
       },
       {
         "rank": 3,
-        "sales": 8631,
-        "seats": 100592,
+        "sales": 12161,
+        "seats": 126223,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 26.2,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 4,
+        "sales": 12135,
+        "seats": 144249,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "新劇場版☆ケロロ軍曹 復活し"
       },
       {
-        "rank": 4,
-        "sales": 8201,
-        "seats": 75380,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 23.4,
-        "movie": "黒牢城"
-      },
-      {
         "rank": 5,
-        "sales": 7127,
-        "seats": 62260,
+        "sales": 9211,
+        "seats": 87627,
         "count": null,
         "theaters": null,
-        "wowRatio": 40.7,
+        "wowRatio": 40.9,
         "movie": "免許返納！？"
       },
       {
         "rank": 6,
-        "sales": 4905,
-        "seats": 102206,
+        "sales": 6697,
+        "seats": 140876,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -60,8 +60,8 @@
       },
       {
         "rank": 7,
-        "sales": 4487,
-        "seats": 13534,
+        "sales": 6364,
+        "seats": 21930,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,30 +69,30 @@
       },
       {
         "rank": 8,
-        "sales": 2831,
-        "seats": 24273,
+        "sales": 5540,
+        "seats": 45654,
         "count": null,
         "theaters": null,
-        "wowRatio": 52.4,
+        "wowRatio": 57.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 9,
-        "sales": 2790,
-        "seats": 3130,
+        "sales": 3391,
+        "seats": 31048,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "「ＦＩＦＡワールドカップ２０２６」パブリックビューイング Ｐｒｅｓｅｎｔｅｄ ｂｙ ＤＡＺＮ"
+        "wowRatio": 53,
+        "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 10,
-        "sales": 2726,
-        "seats": 3473,
+        "sales": 3136,
+        "seats": 37843,
         "count": null,
         "theaters": null,
-        "wowRatio": null,
-        "movie": "不明"
+        "wowRatio": 45.8,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       }
     ],
     "isFlash": true
