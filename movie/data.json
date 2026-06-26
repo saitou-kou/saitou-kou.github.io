@@ -2,21 +2,21 @@
   {
     "date": "2026-06-26",
     "rawDate": "20260626",
-    "title": "速報値（18:19更新）",
+    "title": "速報値（20:55更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 35937,
-        "seats": 268854,
+        "sales": 46366,
+        "seats": 329052,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.9,
+        "wowRatio": 58.4,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 17406,
-        "seats": 328564,
+        "sales": 22908,
+        "seats": 404972,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,74 +24,74 @@
       },
       {
         "rank": 3,
-        "sales": 12161,
-        "seats": 126223,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 26.2,
-        "movie": "黒牢城"
-      },
-      {
-        "rank": 4,
-        "sales": 12135,
-        "seats": 144249,
+        "sales": 21088,
+        "seats": 215984,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "新劇場版☆ケロロ軍曹 復活し"
       },
       {
-        "rank": 5,
-        "sales": 9211,
-        "seats": 87627,
+        "rank": 4,
+        "sales": 14098,
+        "seats": 152258,
         "count": null,
         "theaters": null,
-        "wowRatio": 40.9,
+        "wowRatio": 26.8,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 5,
+        "sales": 9705,
+        "seats": 96397,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 38.9,
         "movie": "免許返納！？"
       },
       {
         "rank": 6,
-        "sales": 6697,
-        "seats": 140876,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
-        "movie": "それいけ！アンパンマン パン"
-      },
-      {
-        "rank": 7,
-        "sales": 6364,
-        "seats": 21930,
+        "sales": 8453,
+        "seats": 28506,
         "count": null,
         "theaters": null,
         "wowRatio": null,
         "movie": "ヤマトよ永遠に ＲＥＢＥＬ３"
       },
       {
-        "rank": 8,
-        "sales": 5540,
-        "seats": 45654,
+        "rank": 7,
+        "sales": 7781,
+        "seats": 61190,
         "count": null,
         "theaters": null,
-        "wowRatio": 57.2,
+        "wowRatio": 56.1,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
-        "rank": 9,
-        "sales": 3391,
-        "seats": 31048,
+        "rank": 8,
+        "sales": 6878,
+        "seats": 144267,
         "count": null,
         "theaters": null,
-        "wowRatio": 53,
+        "wowRatio": null,
+        "movie": "それいけ！アンパンマン パン"
+      },
+      {
+        "rank": 9,
+        "sales": 4312,
+        "seats": 40270,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 53.6,
         "movie": "プラダを着た悪魔２"
       },
       {
         "rank": 10,
-        "sales": 3136,
-        "seats": 37843,
+        "sales": 4193,
+        "seats": 45788,
         "count": null,
         "theaters": null,
-        "wowRatio": 45.8,
+        "wowRatio": 40.8,
         "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
       }
     ],
