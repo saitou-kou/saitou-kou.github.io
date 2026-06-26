@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-26",
+    "rawDate": "20260626",
+    "title": "速報値（14:07更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 20275,
+        "seats": 152830,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 55.8,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 12363,
+        "seats": 209463,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "スーパーガール"
+      },
+      {
+        "rank": 3,
+        "sales": 8631,
+        "seats": 100592,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "新劇場版☆ケロロ軍曹 復活し"
+      },
+      {
+        "rank": 4,
+        "sales": 8201,
+        "seats": 75380,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 23.4,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 5,
+        "sales": 7127,
+        "seats": 62260,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 40.7,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 6,
+        "sales": 4905,
+        "seats": 102206,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "それいけ！アンパンマン パン"
+      },
+      {
+        "rank": 7,
+        "sales": 4487,
+        "seats": 13534,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "ヤマトよ永遠に ＲＥＢＥＬ３"
+      },
+      {
+        "rank": 8,
+        "sales": 2831,
+        "seats": 24273,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.4,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 9,
+        "sales": 2790,
+        "seats": 3130,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "「ＦＩＦＡワールドカップ２０２６」パブリックビューイング Ｐｒｅｓｅｎｔｅｄ ｂｙ ＤＡＺＮ"
+      },
+      {
+        "rank": 10,
+        "sales": 2726,
+        "seats": 3473,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "不明"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-25",
     "rawDate": "20260625",
     "title": "（独立系を含む）デイリー合算ランキング：20260625(木)",
