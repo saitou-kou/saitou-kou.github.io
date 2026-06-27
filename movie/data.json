@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-27",
+    "rawDate": "20260627",
+    "title": "速報値（12:10更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 27578,
+        "seats": 118509,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 52.3,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 17605,
+        "seats": 84383,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "それいけ！アンパンマン パンタンと約束の星"
+      },
+      {
+        "rank": 3,
+        "sales": 10964,
+        "seats": 59615,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 39.8,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 4,
+        "sales": 10753,
+        "seats": 154229,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "スーパーガール"
+      },
+      {
+        "rank": 5,
+        "sales": 8396,
+        "seats": 68512,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
+      },
+      {
+        "rank": 6,
+        "sales": 8367,
+        "seats": 48080,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 53.8,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 7,
+        "sales": 7702,
+        "seats": 30373,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 76,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 8,
+        "sales": 4240,
+        "seats": 15953,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 38.7,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 9,
+        "sales": 3707,
+        "seats": 11697,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 62.7,
+        "movie": "魔女の宅急便"
+      },
+      {
+        "rank": 10,
+        "sales": 3553,
+        "seats": 22748,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 54.5,
+        "movie": "ブルーイ ｉｎ シネマ"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-26",
     "rawDate": "20260626",
     "title": "（独立系を含む）デイリー合算ランキング：20260626(金)",
