@@ -2,21 +2,21 @@
   {
     "date": "2026-06-27",
     "rawDate": "20260627",
-    "title": "速報値（15:44更新）",
+    "title": "速報値（18:19更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 77964,
-        "seats": 245309,
+        "sales": 98829,
+        "seats": 322107,
         "count": null,
         "theaters": null,
-        "wowRatio": 71,
+        "wowRatio": 69.9,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 28429,
-        "seats": 139677,
+        "sales": 29725,
+        "seats": 154130,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -24,17 +24,17 @@
       },
       {
         "rank": 3,
-        "sales": 23144,
-        "seats": 104000,
+        "sales": 26753,
+        "seats": 130010,
         "count": null,
         "theaters": null,
-        "wowRatio": 51.2,
+        "wowRatio": 51.1,
         "movie": "黒牢城"
       },
       {
         "rank": 4,
-        "sales": 20072,
-        "seats": 260811,
+        "sales": 25875,
+        "seats": 354831,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 17261,
-        "seats": 121806,
+        "sales": 21540,
+        "seats": 161309,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -51,48 +51,48 @@
       },
       {
         "rank": 6,
-        "sales": 16671,
-        "seats": 51959,
+        "sales": 19212,
+        "seats": 59420,
         "count": null,
         "theaters": null,
-        "wowRatio": 72.6,
+        "wowRatio": 78.3,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 7,
-        "sales": 15523,
-        "seats": 75328,
+        "sales": 18257,
+        "seats": 52469,
         "count": null,
         "theaters": null,
-        "wowRatio": 58.9,
-        "movie": "免許返納！？"
-      },
-      {
-        "rank": 8,
-        "sales": 13922,
-        "seats": 39452,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 60.4,
+        "wowRatio": 65.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
-        "rank": 9,
-        "sales": 8376,
-        "seats": 24781,
+        "rank": 8,
+        "sales": 17818,
+        "seats": 89502,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.1,
+        "wowRatio": 59.7,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 9,
+        "sales": 11812,
+        "seats": 37419,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 69.4,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 10,
-        "sales": 6149,
-        "seats": 32980,
+        "sales": 8255,
+        "seats": 31392,
         "count": null,
         "theaters": null,
-        "wowRatio": 60.1,
-        "movie": "ブルーイ ｉｎ シネマ"
+        "wowRatio": 62.8,
+        "movie": "プラダを着た悪魔２"
       }
     ],
     "isFlash": true
