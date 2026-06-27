@@ -2,100 +2,235 @@
   {
     "date": "2026-06-27",
     "rawDate": "20260627",
-    "title": "速報値（23:50更新）",
+    "title": "（独立系を含む）デイリー合算ランキング：20260627(土)",
     "movies": [
       {
         "rank": 1,
-        "sales": 123557,
-        "seats": 418731,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 71.8,
+        "sales": 126122,
+        "seats": 426306,
+        "count": 1627,
+        "theaters": 269,
+        "wowRatio": 72.4,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
         "rank": 2,
-        "sales": 33775,
-        "seats": 505294,
-        "count": null,
-        "theaters": null,
+        "sales": 34448,
+        "seats": 513689,
+        "count": 1854,
+        "theaters": 269,
         "wowRatio": null,
         "movie": "スーパーガール"
       },
       {
         "rank": 3,
-        "sales": 30781,
-        "seats": 167257,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 52.4,
+        "sales": 31547,
+        "seats": 169942,
+        "count": 1051,
+        "theaters": 257,
+        "wowRatio": 52.7,
         "movie": "黒牢城"
       },
       {
         "rank": 4,
-        "sales": 30090,
-        "seats": 159573,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
+        "sales": 30638,
+        "seats": 161607,
+        "count": 1080,
+        "theaters": 249,
+        "wowRatio": 7678.7,
         "movie": "それいけ！アンパンマン パンタンと約束の星"
       },
       {
         "rank": 5,
-        "sales": 26902,
-        "seats": 218019,
-        "count": null,
-        "theaters": null,
-        "wowRatio": null,
+        "sales": 27655,
+        "seats": 222588,
+        "count": 1237,
+        "theaters": 258,
+        "wowRatio": 86421.9,
         "movie": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
       },
       {
         "rank": 6,
-        "sales": 23305,
-        "seats": 77662,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 66.6,
+        "sales": 23876,
+        "seats": 79533,
+        "count": 569,
+        "theaters": 260,
+        "wowRatio": 66.8,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 7,
-        "sales": 19542,
-        "seats": 105071,
-        "count": null,
-        "theaters": null,
+        "sales": 19929,
+        "seats": 107123,
+        "count": 854,
+        "theaters": 258,
         "wowRatio": 59,
         "movie": "免許返納！？"
       },
       {
         "rank": 8,
-        "sales": 19467,
-        "seats": 61211,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 77.8,
+        "sales": 19831,
+        "seats": 62300,
+        "count": 454,
+        "theaters": 252,
+        "wowRatio": 77.5,
         "movie": "ザ・スーパーマリオギャラクシー・ムービー"
       },
       {
         "rank": 9,
-        "sales": 13285,
-        "seats": 46840,
-        "count": null,
-        "theaters": null,
-        "wowRatio": 70.5,
+        "sales": 13516,
+        "seats": 47367,
+        "count": 352,
+        "theaters": 252,
+        "wowRatio": 70.7,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
         "rank": 10,
+        "sales": 11640,
+        "seats": 49667,
+        "count": 367,
+        "theaters": 251,
+        "wowRatio": 68.5,
+        "movie": "プラダを着た悪魔２"
+      },
+      {
+        "rank": 11,
         "sales": 11504,
         "seats": 28586,
-        "count": null,
-        "theaters": null,
+        "count": 93,
+        "theaters": 51,
         "wowRatio": 54.2,
         "movie": "魔女の宅急便"
+      },
+      {
+        "rank": 12,
+        "sales": 9437,
+        "seats": 56654,
+        "count": 458,
+        "theaters": 168,
+        "wowRatio": 55.7,
+        "movie": "映画 おそ松さん 人類クズ化計画！！！！！？"
+      },
+      {
+        "rank": 13,
+        "sales": 7761,
+        "seats": 32043,
+        "count": 188,
+        "theaters": 55,
+        "wowRatio": null,
+        "movie": "ヤマトよ永遠に ＲＥＢＥＬ３１９９ 第六章 碧い迷宮"
+      },
+      {
+        "rank": 14,
+        "sales": 6393,
+        "seats": 35324,
+        "count": 236,
+        "theaters": 114,
+        "wowRatio": 59.1,
+        "movie": "ブルーイ ｉｎ シネマ"
+      },
+      {
+        "rank": 15,
+        "sales": 4971,
+        "seats": 39602,
+        "count": 303,
+        "theaters": 111,
+        "wowRatio": null,
+        "movie": "ロングウォーク"
+      },
+      {
+        "rank": 16,
+        "sales": 4862,
+        "seats": 28173,
+        "count": 231,
+        "theaters": 160,
+        "wowRatio": 51.8,
+        "movie": "急に具合が悪くなる"
+      },
+      {
+        "rank": 17,
+        "sales": 3700,
+        "seats": 32683,
+        "count": 248,
+        "theaters": 248,
+        "wowRatio": 69.7,
+        "movie": "ＳＡＫＡＭＯＴＯ ＤＡＹＳ"
+      },
+      {
+        "rank": 18,
+        "sales": 3567,
+        "seats": 25689,
+        "count": 207,
+        "theaters": 121,
+        "wowRatio": 47.1,
+        "movie": "マジカル・シークレット・ツアー"
+      },
+      {
+        "rank": 19,
+        "sales": 3392,
+        "seats": 23932,
+        "count": 156,
+        "theaters": 155,
+        "wowRatio": 76.6,
+        "movie": "劇場版モノノ怪 第三章 蛇神"
+      },
+      {
+        "rank": 20,
+        "sales": 3257,
+        "seats": 36731,
+        "count": 297,
+        "theaters": 249,
+        "wowRatio": 44.7,
+        "movie": "箱の中の羊"
+      },
+      {
+        "rank": 21,
+        "sales": 1655,
+        "seats": 4181,
+        "count": 53,
+        "theaters": 28,
+        "wowRatio": null,
+        "movie": "うたの☆プリンスさまっ♪ ＡＬＬ ＳＴＡＲ ＳＴＡＧＥ Ｈａｐｐｙ Ｃｅｌｅｂｒａｔｉｏｎ"
+      },
+      {
+        "rank": 22,
+        "sales": 1591,
+        "seats": 18793,
+        "count": 144,
+        "theaters": 146,
+        "wowRatio": 59.9,
+        "movie": "山口くんはワルくない"
+      },
+      {
+        "rank": 23,
+        "sales": 1544,
+        "seats": 9776,
+        "count": 73,
+        "theaters": 74,
+        "wowRatio": 98.9,
+        "movie": "劇場版 魔法科高校の劣等生 四葉継承編"
+      },
+      {
+        "rank": 24,
+        "sales": 1540,
+        "seats": 11678,
+        "count": 91,
+        "theaters": 44,
+        "wowRatio": 2406.2,
+        "movie": "四月の余白"
+      },
+      {
+        "rank": 25,
+        "sales": 1226,
+        "seats": 1337,
+        "count": 6,
+        "theaters": 7,
+        "wowRatio": null,
+        "movie": "Ｌ’Ａｒｃ～ｅｎ～Ｃｉｅｌ ＬＩＶＥ ２０１８ Ｌ’ＡｒＣｈｒｉｓｔｍａｓ ライヴビューイング"
       }
     ],
-    "isFlash": true
+    "isFlash": false
   },
   {
     "date": "2026-06-26",
