@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-06-28",
+    "rawDate": "20260628",
+    "title": "速報値（12:29更新）",
+    "movies": [
+      {
+        "rank": 1,
+        "sales": 49326,
+        "seats": 135837,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 92.2,
+        "movie": "Ｍｉｃｈａｅｌ／マイケル"
+      },
+      {
+        "rank": 2,
+        "sales": 24662,
+        "seats": 89303,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "それいけ！アンパンマン パンタンと約束の星"
+      },
+      {
+        "rank": 3,
+        "sales": 18171,
+        "seats": 66199,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 77.7,
+        "movie": "黒牢城"
+      },
+      {
+        "rank": 4,
+        "sales": 13332,
+        "seats": 51628,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 90,
+        "movie": "免許返納！？"
+      },
+      {
+        "rank": 5,
+        "sales": 12110,
+        "seats": 162271,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "スーパーガール"
+      },
+      {
+        "rank": 6,
+        "sales": 11821,
+        "seats": 30816,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 92,
+        "movie": "ザ・スーパーマリオギャラクシー・ムービー"
+      },
+      {
+        "rank": 7,
+        "sales": 9708,
+        "seats": 71684,
+        "count": null,
+        "theaters": null,
+        "wowRatio": null,
+        "movie": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！"
+      },
+      {
+        "rank": 8,
+        "sales": 6955,
+        "seats": 16773,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 63.3,
+        "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
+      },
+      {
+        "rank": 9,
+        "sales": 5985,
+        "seats": 24097,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 76.9,
+        "movie": "ブルーイ ｉｎ シネマ"
+      },
+      {
+        "rank": 10,
+        "sales": 5980,
+        "seats": 11991,
+        "count": null,
+        "theaters": null,
+        "wowRatio": 101.1,
+        "movie": "魔女の宅急便"
+      }
+    ],
+    "isFlash": true
+  },
+  {
     "date": "2026-06-27",
     "rawDate": "20260627",
     "title": "（独立系を含む）デイリー合算ランキング：20260627(土)",
