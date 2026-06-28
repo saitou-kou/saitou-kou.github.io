@@ -2,15 +2,15 @@
   {
     "date": "2026-06-28",
     "rawDate": "20260628",
-    "title": "速報値（21:15更新）",
+    "title": "速報値（23:31更新）",
     "movies": [
       {
         "rank": 1,
-        "sales": 135276,
-        "seats": 403962,
+        "sales": 136390,
+        "seats": 417128,
         "count": null,
         "theaters": null,
-        "wowRatio": 108.1,
+        "wowRatio": 108.8,
         "movie": "Ｍｉｃｈａｅｌ／マイケル"
       },
       {
@@ -24,17 +24,17 @@
       },
       {
         "rank": 3,
-        "sales": 34526,
-        "seats": 166890,
+        "sales": 34572,
+        "seats": 168677,
         "count": null,
         "theaters": null,
-        "wowRatio": 89.2,
+        "wowRatio": 89.3,
         "movie": "黒牢城"
       },
       {
         "rank": 4,
-        "sales": 28892,
-        "seats": 470091,
+        "sales": 29891,
+        "seats": 505234,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -42,8 +42,8 @@
       },
       {
         "rank": 5,
-        "sales": 25820,
-        "seats": 60242,
+        "sales": 25831,
+        "seats": 60383,
         "count": null,
         "theaters": null,
         "wowRatio": 103.4,
@@ -51,17 +51,17 @@
       },
       {
         "rank": 6,
-        "sales": 25126,
-        "seats": 72033,
+        "sales": 25404,
+        "seats": 75920,
         "count": null,
         "theaters": null,
-        "wowRatio": 95.2,
+        "wowRatio": 96.2,
         "movie": "スター・ウォーズ／マンダロリアン・アンド・グローグー"
       },
       {
         "rank": 7,
-        "sales": 24317,
-        "seats": 208588,
+        "sales": 24634,
+        "seats": 217907,
         "count": null,
         "theaters": null,
         "wowRatio": null,
@@ -69,20 +69,20 @@
       },
       {
         "rank": 8,
-        "sales": 23016,
-        "seats": 100732,
+        "sales": 23139,
+        "seats": 104000,
         "count": null,
         "theaters": null,
-        "wowRatio": 91.6,
+        "wowRatio": 91.8,
         "movie": "免許返納！？"
       },
       {
         "rank": 9,
-        "sales": 15665,
-        "seats": 43515,
+        "sales": 15754,
+        "seats": 45103,
         "count": null,
         "theaters": null,
-        "wowRatio": 89.4,
+        "wowRatio": 89.7,
         "movie": "名探偵コナン ハイウェイの堕天使"
       },
       {
@@ -91,7 +91,7 @@
         "seats": 28592,
         "count": null,
         "theaters": null,
-        "wowRatio": 76.7,
+        "wowRatio": 75.1,
         "movie": "魔女の宅急便"
       }
     ],
