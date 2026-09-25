@@ -1,4 +1,4 @@
-# generated_at: 2026-09-25 22:16:24
+# generated_at: 2026-09-25 23:49:11
 イベント名,開催日,開催時刻,所要時間(分),イベントのURL,空き状況,団体名,場所
 【静岡】リアル脱出ゲーム 対 ゴジラ 対 熱海ベイリゾート後楽園『ゴジラ迫るホテルからの脱出』（熱海後楽園ホテル／日帰りコース）,2026-09-26,07:00,0,https://realdgame.jp/atami-godzilla/,○,SCRAP,熱海後楽園ホテル
 【東京】ナゾトキ街歩きゲーム × 都営交通『東京謎解きトラベル』（リアル脱出ゲーム CROSSING 浅草店／店頭引換券）,2026-09-26,08:30,0,https://realdgame.jp/s/toeinazo/,○,SCRAP,リアル脱出ゲーム CROSSING 浅草店
@@ -67,7 +67,7 @@ TOWER GAME Series『ビートタワーからの脱出』『ミステリータワ
 【吉祥寺店】SCRAP×うんこドリル うんこ謎解きプロジェクト『大人のうんこ脱出ドリル』,2026-09-26,10:00,0,https://realdgame.jp/unko_dassyutu,○,SCRAP,リアル脱出ゲーム吉祥寺店
 【吉祥寺店】リアル脱出ゲーム ×逃走中グレートミッション 『ハンターだらけのクロノスランドからの脱出』,2026-09-26,10:00,0,https://realdgame.jp/tosochu_gm/,○,SCRAP,リアル脱出ゲーム吉祥寺店
 【吉祥寺店】リアル脱出ゲーム『ナゾだらけの部屋からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/shop/kichijoji/events/nazodrk/,×,SCRAP,リアル脱出ゲーム吉祥寺店
-【吉祥寺店】リアル脱出ゲーム『真夜中の宇宙博物館からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/space-museum/,△,SCRAP,リアル脱出ゲーム吉祥寺店
+【吉祥寺店】リアル脱出ゲーム『真夜中の宇宙博物館からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/space-museum/,×,SCRAP,リアル脱出ゲーム吉祥寺店
 【吉祥寺店】現場捜査ゲーム『演じすぎた男』,2026-09-26,10:00,0,https://realdgame.jp/genba_sousa/,△,SCRAP,リアル脱出ゲーム吉祥寺店
 【名古屋店】MYSTERY MAIL BOX ×レイトンミステリー探偵社『カトリーエイルと死者からの手紙』,2026-09-26,10:00,0,https://realdgame.jp/shop/nagoya/events/layton_mmb/,○,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】MYSTERY MAIL BOX『Mystery Manからの招待状』,2026-09-26,10:00,0,https://realdgame.jp/shop/nagoya/events/mysteryman/,○,SCRAP,リアル脱出ゲーム名古屋店
@@ -79,7 +79,7 @@ TOWER GAME Series『ビートタワーからの脱出』『ミステリータワ
 【名古屋店】ナゾトキ街歩きゲーム『なごや大須謎解き食べ歩き』,2026-09-26,10:00,0,https://realdgame.jp/osu_nazo/,○,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム×名探偵コナン『疾風の追走からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/conan2026/,○,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム×転生したらスライムだった件『謀略のテンペストサーカスからの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/tensura/,○,SCRAP,リアル脱出ゲーム名古屋店
-【名古屋店】リアル脱出ゲーム×転生したらスライムだった件『閉ざされたテンペストダンジョン（異世界迷宮）からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/tensura2026/,○,SCRAP,リアル脱出ゲーム名古屋店
+【名古屋店】リアル脱出ゲーム×転生したらスライムだった件『閉ざされたテンペストダンジョン（異世界迷宮）からの脱出』,2026-09-26,10:00,0,https://realdgame.jp/s/tensura2026/,△,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム×逃走中グレートミッション 『ハンターだらけのクロノスランドからの脱出』,2026-09-26,10:00,0,https://realdgame.jp/tosochu_gm/,○,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム『Escape from The RED ROOM』,2026-09-26,10:00,0,https://realdgame.jp/shop/nagoya/events/red/,△,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム『ある実験室からの脱出』（リバイバル）,2026-09-26,10:00,0,https://realdgame.jp/event/jikkenshitsu,○,SCRAP,リアル脱出ゲーム名古屋店
@@ -744,11 +744,11 @@ MYSTERY MAIL BOX『Mystery Manからの招待状』,2026-09-26,13:30,0,https://m
 リアル脱出ゲーム『謎の壁からの脱出』,2026-09-26,13:30,0,https://mysterycircus.jp/events/12107,×,SCRAP,東京ミステリーサーカス
 リアル脱出ゲーム『迷いの森の館からの脱出』,2026-09-26,13:30,0,https://mysterycircus.jp/s/9magic/,×,SCRAP,東京ミステリーサーカス
 【渋谷店】リアル脱出ゲーム『Escape from The NINE ROOMS』,2026-09-26,13:35,0,http://realdgame.jp/9rooms/,×,SCRAP,リアル脱出ゲーム渋谷店
-MYSTERY MAIL BOX 『スパイミッションからの脱出-パンドラの箱と裏切りの銃弾-』,2026-09-26,13:40,0,,○,SCRAP,東京ミステリーサーカス
+MYSTERY MAIL BOX 『スパイミッションからの脱出-パンドラの箱と裏切りの銃弾-』,2026-09-26,13:40,0,,×,SCRAP,東京ミステリーサーカス
 TOWER GAME Series『ビートタワーからの脱出』『ミステリータワーからの脱出』共通チケット,2026-09-26,13:40,0,https://mysterycircus.jp/tokyo/events/12470,△,SCRAP,東京ミステリーサーカス
 【吉祥寺店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット),2026-09-26,13:40,0,https://realdgame.jp/s/beat_tower/,△,SCRAP,リアル脱出ゲーム吉祥寺店
 【吉祥寺店】リアル脱出ゲーム『ナゾだらけの部屋からの脱出』,2026-09-26,13:40,0,https://realdgame.jp/shop/kichijoji/events/nazodrk/,△,SCRAP,リアル脱出ゲーム吉祥寺店
-【吉祥寺店】リアル脱出ゲーム『監獄アルバトロスからの脱出』（リバイバル）,2026-09-26,13:40,0,https://realdgame.jp/shop/kichijoji/events/rekangoku/,△,SCRAP,リアル脱出ゲーム吉祥寺店
+【吉祥寺店】リアル脱出ゲーム『監獄アルバトロスからの脱出』（リバイバル）,2026-09-26,13:40,0,https://realdgame.jp/shop/kichijoji/events/rekangoku/,×,SCRAP,リアル脱出ゲーム吉祥寺店
 【名古屋店】MYSTERY MAIL BOX『スパイミッションからの脱出-パンドラの箱と裏切りの銃弾-』,2026-09-26,13:40,0,https://realdgame.jp/s/spymmb/,○,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット）,2026-09-26,13:40,0,https://realdgame.jp/s/beat_tower/,×,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム『ある沈没船からの脱出』,2026-09-26,13:40,0,https://realdgame.jp/shop/nagoya/events/chinbotsusen/,○,SCRAP,リアル脱出ゲーム名古屋店
@@ -1201,7 +1201,7 @@ TOWER GAME Series『ビートタワーからの脱出』『ミステリータワ
 【渋谷店】リアル脱出ゲーム『10minutes Table Game 鍵だらけの爆弾からの脱出』,2026-09-26,16:05,0,https://realdgame.jp/shop/shibuya/events/10min/,△,SCRAP,リアル脱出ゲーム渋谷店
 【渋谷店】リアル脱出ゲーム『Escape from The NINE ROOMS』,2026-09-26,16:05,0,http://realdgame.jp/9rooms/,×,SCRAP,リアル脱出ゲーム渋谷店
 【吉祥寺店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット),2026-09-26,16:10,0,https://realdgame.jp/s/beat_tower/,△,SCRAP,リアル脱出ゲーム吉祥寺店
-【吉祥寺店】リアル脱出ゲーム『謎のタワーマンションからの脱出』,2026-09-26,16:10,0,https://realdgame.jp/towermansion/,△,SCRAP,リアル脱出ゲーム吉祥寺店
+【吉祥寺店】リアル脱出ゲーム『謎のタワーマンションからの脱出』,2026-09-26,16:10,0,https://realdgame.jp/towermansion/,×,SCRAP,リアル脱出ゲーム吉祥寺店
 【名古屋店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット）,2026-09-26,16:10,0,https://realdgame.jp/s/beat_tower/,△,SCRAP,リアル脱出ゲーム名古屋店
 【大阪恵美須町店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット）,2026-09-26,16:10,0,https://realdgame.jp/s/beat_tower/,△,SCRAP,リアル脱出ゲーム大阪恵美須町店
 【大阪恵美須町店】リアル脱出ゲーム『アイテムだらけの部屋からの脱出』,2026-09-26,16:10,0,https://realdgame.jp/s/item/,△,SCRAP,リアル脱出ゲーム大阪恵美須町店
@@ -1845,7 +1845,7 @@ TOWER GAME Series『ビートタワーからの脱出』『ミステリータワ
 【池袋店】リアル脱出ゲーム×名探偵コナン『チョコレート殺人事件～現場検証編～』,2026-09-26,20:40,0,https://realdgame.jp/shop/ikebukuro/events/chocolate/,○,SCRAP,リアル脱出ゲーム池袋店
 【池袋店】リアル脱出ゲーム×名探偵コナン『チョコレート殺人事件～脱出編～』,2026-09-26,20:40,0,https://realdgame.jp/shop/ikebukuro/events/chocolate/,×,SCRAP,リアル脱出ゲーム池袋店
 【池袋店】リアル脱出ゲーム『アイテムだらけの部屋からの脱出』,2026-09-26,20:40,0,https://realdgame.jp/s/item/,○,SCRAP,リアル脱出ゲーム池袋店
-【池袋店】リアル脱出ゲーム『鍵だらけの部屋からの脱出』,2026-09-26,20:40,0,https://realdgame.jp/shop/ikebukuro/events/kagidarake/,○,SCRAP,リアル脱出ゲーム池袋店
+【池袋店】リアル脱出ゲーム『鍵だらけの部屋からの脱出』,2026-09-26,20:40,0,https://realdgame.jp/shop/ikebukuro/events/kagidarake/,×,SCRAP,リアル脱出ゲーム池袋店
 【浅草店】リアル脱出ゲーム『からくりの罠潜む忍者屋敷からの脱出』,2026-09-26,20:40,0,https://realdgame.jp/s/ninjayashiki/,×,SCRAP,リアル脱出ゲーム CROSSING 浅草店
 コロコロジック,2026-09-26,20:40,0,https://mysterycircus.jp/events/13434,○,SCRAP,東京ミステリーサーカス
 リアル脱出ゲーム『ある刑務所からの脱出』,2026-09-26,20:40,0,https://mysterycircus.jp/events/9298,○,SCRAP,東京ミステリーサーカス
@@ -1914,7 +1914,7 @@ TOWER GAME Series『ビートタワーからの脱出』『ミステリータワ
 【東京】ナゾトキ街歩きゲーム × 都営交通『東京謎解きトラベル』（リアル脱出ゲーム横浜店／店頭引換券）,2026-09-27,09:40,0,https://realdgame.jp/s/toeinazo/,○,SCRAP,リアル脱出ゲーム横浜店
 【渋谷店】MYSTERY MAIL BOX 『スパイミッションからの脱出-パンドラの箱と裏切りの銃弾-』,2026-09-27,09:40,0,https://realdgame.jp/s/spymmb/,△,SCRAP,リアル脱出ゲーム渋谷店
 リアル脱出ゲーム×名探偵コナン『100万ドルの絡繰館からの脱出』（リバイバル）,2026-09-27,09:40,0,,○,SCRAP,東京ミステリーサーカス
-リアル脱出ゲーム×名探偵コナン『疾風の追走からの脱出』,2026-09-27,09:40,0,https://realdgame.jp/s/conan2026/,○,SCRAP,東京ミステリーサーカス
+リアル脱出ゲーム×名探偵コナン『疾風の追走からの脱出』,2026-09-27,09:40,0,https://realdgame.jp/s/conan2026/,△,SCRAP,東京ミステリーサーカス
 リアル脱出ゲーム『カジノロワイヤルからの脱出』（リバイバル）,2026-09-27,09:40,0,https://mysterycircus.jp/events/13929,×,SCRAP,東京ミステリーサーカス
 MYSTERY MAIL BOX×レイトンミステリー探偵社『カトリーエイルと死者からの手紙』,2026-09-27,09:45,0,https://mysterycircus.jp/events/1922,○,SCRAP,東京ミステリーサーカス
 【吉祥寺店】リアル脱出ゲーム『謎のタワーマンションからの脱出』,2026-09-27,09:45,0,https://realdgame.jp/towermansion/,○,SCRAP,リアル脱出ゲーム吉祥寺店
@@ -2243,7 +2243,7 @@ MYSTERY MAIL BOX『Mystery Manからの招待状』,2026-09-27,11:30,0,https://m
 【吉祥寺店】現場捜査ゲーム『演じすぎた男』,2026-09-27,11:30,0,https://realdgame.jp/genba_sousa/,×,SCRAP,リアル脱出ゲーム吉祥寺店
 【名古屋店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット）,2026-09-27,11:30,0,https://realdgame.jp/s/beat_tower/,△,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】リアル脱出ゲーム『謎の壁からの脱出』,2026-09-27,11:30,0,https://realdgame.jp/shop/nagoya/events/nazokabe/,×,SCRAP,リアル脱出ゲーム名古屋店
-【名古屋店】現場捜査ゲーム『演じすぎた男』,2026-09-27,11:30,0,https://realdgame.jp/genba_sousa/,△,SCRAP,リアル脱出ゲーム名古屋店
+【名古屋店】現場捜査ゲーム『演じすぎた男』,2026-09-27,11:30,0,https://realdgame.jp/genba_sousa/,×,SCRAP,リアル脱出ゲーム名古屋店
 【大阪恵美須町店】MYSTERY MAIL BOX『Mystery Manからの招待状』,2026-09-27,11:30,0,http://realdgame.jp/ajito/osaka_nazobldg/event/mystery_mail_boxmystery_man.html,○,SCRAP,リアル脱出ゲーム大阪恵美須町店
 【大阪恵美須町店】TOWER GAME Series『BEAT TOWER ビートタワー／MYSTERY TOWER ミステリータワー』（共通チケット）,2026-09-27,11:30,0,https://realdgame.jp/s/beat_tower/,×,SCRAP,リアル脱出ゲーム大阪恵美須町店
 【大阪恵美須町店】リアル脱出ゲーム『ある実験室からの脱出』（リバイバル）,2026-09-27,11:30,0,https://realdgame.jp/event/jikkenshitsu,○,SCRAP,リアル脱出ゲーム大阪恵美須町店
@@ -2826,7 +2826,7 @@ MYSTERY MAIL BOX×レイトンミステリー探偵社『カトリーエイル�
 【名古屋店】リアル脱出ゲーム『パズルルームからの脱出』（リバイバル）,2026-09-27,14:45,0,https://realdgame.jp/shop/nagoya/events/puzzle12025/,△,SCRAP,リアル脱出ゲーム名古屋店
 【名古屋店】現場捜査ゲーム『演じすぎた男』,2026-09-27,14:45,0,https://realdgame.jp/genba_sousa/,△,SCRAP,リアル脱出ゲーム名古屋店
 【渋谷店】リアル脱出ゲーム『10minutes Table Game 鍵だらけの爆弾からの脱出』,2026-09-27,14:45,0,https://realdgame.jp/shop/shibuya/events/10min/,○,SCRAP,リアル脱出ゲーム渋谷店
-リアル脱出ゲーム『ダイナマイトジャケットからの脱出』,2026-09-27,14:45,0,https://mysterycircus.jp/s/dynamitejacket/,△,SCRAP,東京ミステリーサーカス
+リアル脱出ゲーム『ダイナマイトジャケットからの脱出』,2026-09-27,14:45,0,https://mysterycircus.jp/s/dynamitejacket/,×,SCRAP,東京ミステリーサーカス
 【名古屋店】リアル脱出ゲーム『謎の壁からの脱出』,2026-09-27,14:50,0,https://realdgame.jp/shop/nagoya/events/nazokabe/,×,SCRAP,リアル脱出ゲーム名古屋店
 【池袋店】リアル脱出ゲーム×名探偵コナン『チョコレート殺人事件～現場検証編～』,2026-09-27,14:50,0,https://realdgame.jp/shop/ikebukuro/events/chocolate/,○,SCRAP,リアル脱出ゲーム池袋店
 【池袋店】リアル脱出ゲーム×名探偵コナン『チョコレート殺人事件～脱出編～』,2026-09-27,14:50,0,https://realdgame.jp/shop/ikebukuro/events/chocolate/,△,SCRAP,リアル脱出ゲーム池袋店
